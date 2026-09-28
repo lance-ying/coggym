@@ -113,5 +113,5 @@ I have read and agree to the terms above.
 - Signature:
 - Date:
 
-Send the signed agreement to [lcying@mit.edu](mailto:lcying@mit.edu) with the
+Send the signed agreement to [lanceying@mit.edu](mailto:lanceying@mit.edu) with the
 subject **CogGym dataset access request**.

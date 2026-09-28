@@ -41,7 +41,7 @@ noncommercial evaluation and analysis. The agreement prohibits:
 
 To request access, review and sign
 [`FULL_DATASET_ACCESS_AGREEMENT.md`](FULL_DATASET_ACCESS_AGREEMENT.md), then
-email the signed agreement to [lcying@mit.edu](mailto:lcying@mit.edu) with the
+email the signed agreement to [lanceying@mit.edu](mailto:lanceying@mit.edu) with the
 subject **CogGym dataset access request**. Access is granted only after the
 agreement is countersigned.
 

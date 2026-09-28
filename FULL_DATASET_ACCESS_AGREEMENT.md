@@ -39,7 +39,8 @@ data.
 
 The Dataset may not be used for commercial purposes or for the development,
 testing, promotion, or improvement of a commercial product or service. A
-separate written agreement is required for any commercial use.
+separate written agreement is required for any commercial use. To discuss
+commercial access, contact [lanceying@mit.edu](mailto:lanceying@mit.edu).
 
 ## 5. No redistribution
 

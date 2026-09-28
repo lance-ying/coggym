@@ -45,6 +45,9 @@ email the signed agreement to [lanceying@mit.edu](mailto:lanceying@mit.edu) with
 subject **CogGym dataset access request**. Access is granted only after the
 agreement is countersigned.
 
+For commercial access to the full dataset, contact
+[lanceying@mit.edu](mailto:lanceying@mit.edu).
+
 ## Repository layout
 
 - `EML/`: experiment definitions, stimuli, aggregate human responses, and

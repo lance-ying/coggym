@@ -1,0 +1,192 @@
+{
+  "experimentName": "Quantitative mental state attributions in language understanding (Exp 2)",
+  "paper-title": "Quantitative mental state attributions in language understanding",
+  "citation": "Jara-Ettinger, J., & Rubio-Fernandez, P. (2021). Quantitative mental state attributions in language understanding. Science Advances, 7(47). https://doi.org/10.1126/sciadv.abj0970",
+  "year": 2021,
+  "alias": "jaraettinger2021quantitative-exp2",
+  "description": "You will see a sequence of five displays with the same virtual collaborator, Michael. On each trial you will use sliders to place an approximate click for the shape Michael is referring to, and you will rate how wordy Michael is. On the final trial you will also place an approximate click for Michael's blind spot.",
+  "paperDOI": "https://doi.org/10.1126/sciadv.abj0970",
+  "taskType": [
+    "Social Cognition",
+    "Theory of Mind",
+    "Pragmatics"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "authors": [
+    "Julian Jara-Ettinger",
+    "Paula Rubio-Fernandez"
+  ],
+  "stimuli_count": 20,
+  "experimentFlow": [
+    {
+      "condition": "Reliable",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "instruction_07",
+              "instruction_08",
+              "instruction_09",
+              "instruction_10",
+              "instruction_11",
+              "instruction_12",
+              "instruction_13",
+              "instruction_14",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_reliable_0"
+            ],
+            [
+              "trial_reliable_1"
+            ],
+            [
+              "trial_reliable_2"
+            ],
+            [
+              "trial_reliable_3"
+            ],
+            [
+              "trial_reliable_4"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "GradedReliable",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "instruction_07",
+              "instruction_08",
+              "instruction_09",
+              "instruction_10",
+              "instruction_11",
+              "instruction_12",
+              "instruction_13",
+              "instruction_14",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_graded_reliable_0"
+            ],
+            [
+              "trial_graded_reliable_1"
+            ],
+            [
+              "trial_graded_reliable_2"
+            ],
+            [
+              "trial_graded_reliable_3"
+            ],
+            [
+              "trial_graded_reliable_4"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "GradedUnreliable",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "instruction_07",
+              "instruction_08",
+              "instruction_09",
+              "instruction_10",
+              "instruction_11",
+              "instruction_12",
+              "instruction_13",
+              "instruction_14",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_graded_unreliable_0"
+            ],
+            [
+              "trial_graded_unreliable_1"
+            ],
+            [
+              "trial_graded_unreliable_2"
+            ],
+            [
+              "trial_graded_unreliable_3"
+            ],
+            [
+              "trial_graded_unreliable_4"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "Unreliable",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "instruction_07",
+              "instruction_08",
+              "instruction_09",
+              "instruction_10",
+              "instruction_11",
+              "instruction_12",
+              "instruction_13",
+              "instruction_14",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_unreliable_0"
+            ],
+            [
+              "trial_unreliable_1"
+            ],
+            [
+              "trial_unreliable_2"
+            ],
+            [
+              "trial_unreliable_3"
+            ],
+            [
+              "trial_unreliable_4"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

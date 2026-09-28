@@ -1,0 +1,263 @@
+{
+  "participants_info": {
+    "count": 81,
+    "age": 37.2,
+    "gender": {
+      "male": 49,
+      "female": 32
+    }
+  },
+  "judgment_count": 3150,
+  "exp3_pred_01": {
+    "pred_white_fall": 6.7631578947368425
+  },
+  "exp3_pred_02": {
+    "pred_white_fall": 4.526315789473684
+  },
+  "exp3_pred_03": {
+    "pred_white_fall": 10.421052631578947
+  },
+  "exp3_pred_04": {
+    "pred_white_fall": 19.263157894736842
+  },
+  "exp3_pred_05": {
+    "pred_white_fall": 4.526315789473684
+  },
+  "exp3_pred_06": {
+    "pred_white_fall": 17.342105263157894
+  },
+  "exp3_pred_07": {
+    "pred_white_fall": 49.68421052631579
+  },
+  "exp3_pred_08": {
+    "pred_white_fall": 28.342105263157894
+  },
+  "exp3_pred_09": {
+    "pred_white_fall": 17.92105263157895
+  },
+  "exp3_pred_10": {
+    "pred_white_fall": 45.18421052631579
+  },
+  "exp3_pred_11": {
+    "pred_white_fall": 47.5
+  },
+  "exp3_pred_12": {
+    "pred_white_fall": 41.60526315789474
+  },
+  "exp3_pred_13": {
+    "pred_white_fall": 24.157894736842106
+  },
+  "exp3_pred_14": {
+    "pred_white_fall": 56.18421052631579
+  },
+  "exp3_pred_15": {
+    "pred_white_fall": 46.973684210526315
+  },
+  "exp3_pred_16": {
+    "pred_white_fall": 43.44736842105263
+  },
+  "exp3_pred_17": {
+    "pred_white_fall": 41.026315789473685
+  },
+  "exp3_pred_18": {
+    "pred_white_fall": 49.21052631578947
+  },
+  "exp3_pred_19": {
+    "pred_white_fall": 25.789473684210527
+  },
+  "exp3_pred_20": {
+    "pred_white_fall": 64.57894736842105
+  },
+  "exp3_pred_21": {
+    "pred_white_fall": 71.55263157894737
+  },
+  "exp3_pred_22": {
+    "pred_white_fall": 80.71052631578948
+  },
+  "exp3_pred_23": {
+    "pred_white_fall": 51.3421052631579
+  },
+  "exp3_pred_24": {
+    "pred_white_fall": 59.578947368421055
+  },
+  "exp3_pred_25": {
+    "pred_white_fall": 49.21052631578947
+  },
+  "exp3_pred_26": {
+    "pred_white_fall": 57.63157894736842
+  },
+  "exp3_pred_27": {
+    "pred_white_fall": 51.94736842105263
+  },
+  "exp3_pred_28": {
+    "pred_white_fall": 33.71052631578947
+  },
+  "exp3_pred_29": {
+    "pred_white_fall": 86.92105263157895
+  },
+  "exp3_pred_30": {
+    "pred_white_fall": 77.02631578947368
+  },
+  "exp3_pred_31": {
+    "pred_white_fall": 53.0
+  },
+  "exp3_pred_32": {
+    "pred_white_fall": 78.07894736842105
+  },
+  "exp3_pred_33": {
+    "pred_white_fall": 85.47368421052632
+  },
+  "exp3_pred_34": {
+    "pred_white_fall": 92.6842105263158
+  },
+  "exp3_pred_35": {
+    "pred_white_fall": 79.26315789473684
+  },
+  "exp3_pred_36": {
+    "pred_white_fall": 55.18421052631579
+  },
+  "exp3_pred_37": {
+    "pred_white_fall": 84.57894736842105
+  },
+  "exp3_pred_38": {
+    "pred_white_fall": 71.71052631578948
+  },
+  "exp3_pred_39": {
+    "pred_white_fall": 78.76315789473684
+  },
+  "exp3_pred_40": {
+    "pred_white_fall": 85.73684210526316
+  },
+  "exp3_pred_41": {
+    "pred_white_fall": 61.078947368421055
+  },
+  "exp3_pred_42": {
+    "pred_white_fall": 45.63157894736842
+  },
+  "exp3_resp_01": {
+    "responsibility_white": 6.891891891891892
+  },
+  "exp3_resp_02": {
+    "responsibility_white": 5.054054054054054
+  },
+  "exp3_resp_03": {
+    "responsibility_white": 10.378378378378379
+  },
+  "exp3_resp_04": {
+    "responsibility_white": 10.864864864864865
+  },
+  "exp3_resp_05": {
+    "responsibility_white": 4.918918918918919
+  },
+  "exp3_resp_06": {
+    "responsibility_white": 12.54054054054054
+  },
+  "exp3_resp_07": {
+    "responsibility_white": 47.648648648648646
+  },
+  "exp3_resp_08": {
+    "responsibility_white": 35.189189189189186
+  },
+  "exp3_resp_09": {
+    "responsibility_white": 15.08108108108108
+  },
+  "exp3_resp_10": {
+    "responsibility_white": 45.486486486486484
+  },
+  "exp3_resp_11": {
+    "responsibility_white": 34.7027027027027
+  },
+  "exp3_resp_12": {
+    "responsibility_white": 40.108108108108105
+  },
+  "exp3_resp_13": {
+    "responsibility_white": 18.16216216216216
+  },
+  "exp3_resp_14": {
+    "responsibility_white": 61.4054054054054
+  },
+  "exp3_resp_15": {
+    "responsibility_white": 58.54054054054054
+  },
+  "exp3_resp_16": {
+    "responsibility_white": 52.16216216216216
+  },
+  "exp3_resp_17": {
+    "responsibility_white": 49.2972972972973
+  },
+  "exp3_resp_18": {
+    "responsibility_white": 53.24324324324324
+  },
+  "exp3_resp_19": {
+    "responsibility_white": 14.594594594594595
+  },
+  "exp3_resp_20": {
+    "responsibility_white": 70.94594594594595
+  },
+  "exp3_resp_21": {
+    "responsibility_white": 55.08108108108108
+  },
+  "exp3_resp_22": {
+    "responsibility_white": 74.62162162162163
+  },
+  "exp3_resp_23": {
+    "responsibility_white": 58.78378378378378
+  },
+  "exp3_resp_24": {
+    "responsibility_white": 59.62162162162162
+  },
+  "exp3_resp_25": {
+    "responsibility_white": 41.648648648648646
+  },
+  "exp3_resp_26": {
+    "responsibility_white": 65.13513513513513
+  },
+  "exp3_resp_27": {
+    "responsibility_white": 53.5945945945946
+  },
+  "exp3_resp_28": {
+    "responsibility_white": 36.729729729729726
+  },
+  "exp3_resp_29": {
+    "responsibility_white": 81.89189189189189
+  },
+  "exp3_resp_30": {
+    "responsibility_white": 76.5945945945946
+  },
+  "exp3_resp_31": {
+    "responsibility_white": 17.594594594594593
+  },
+  "exp3_resp_32": {
+    "responsibility_white": 81.48648648648648
+  },
+  "exp3_resp_33": {
+    "responsibility_white": 80.13513513513513
+  },
+  "exp3_resp_34": {
+    "responsibility_white": 86.08108108108108
+  },
+  "exp3_resp_35": {
+    "responsibility_white": 56.16216216216216
+  },
+  "exp3_resp_36": {
+    "responsibility_white": 47.16216216216216
+  },
+  "exp3_resp_37": {
+    "responsibility_white": 79.78378378378379
+  },
+  "exp3_resp_38": {
+    "responsibility_white": 71.78378378378379
+  },
+  "exp3_resp_39": {
+    "responsibility_white": 81.75675675675676
+  },
+  "exp3_resp_40": {
+    "responsibility_white": 86.91891891891892
+  },
+  "exp3_resp_41": {
+    "responsibility_white": 37.972972972972975
+  },
+  "exp3_resp_42": {
+    "responsibility_white": 26.7027027027027
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "participants_info": {
+    "count": 100,
+    "age": 39.57,
+    "gender": {
+      "female": 50,
+      "male": 49,
+      "agender": 1
+    },
+    "recruitment": "Prolific (US)"
+  },
+  "judgment_count": 5703,
+  "1_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0392,
+      "goal_rating_2": 0.9216,
+      "goal_rating_3": 0.098,
+      "goal_rating_4": 0.7647
+    },
+    "belief_statement_1": 3.6078,
+    "belief_statement_2": 4.7843
+  },
+  "1_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0196,
+      "goal_rating_2": 0.9216,
+      "goal_rating_3": 0.0392,
+      "goal_rating_4": 0.8235
+    },
+    "belief_statement_1": 1.7843,
+    "belief_statement_2": 6.451
+  },
+  "1_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.102,
+      "goal_rating_2": 0.1837,
+      "goal_rating_3": 0.0612,
+      "goal_rating_4": 0.898
+    },
+    "belief_statement_1": 4.3673,
+    "belief_statement_2": 4.1837
+  },
+  "1_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0612,
+      "goal_rating_2": 0.2857,
+      "goal_rating_3": 0.0612,
+      "goal_rating_4": 0.8367
+    },
+    "belief_statement_1": 1.7551,
+    "belief_statement_2": 6.8163
+  },
+  "1_3_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0816,
+      "goal_rating_2": 0.0816,
+      "goal_rating_3": 0.0204,
+      "goal_rating_4": 0.898
+    },
+    "belief_statement_1": 4.551,
+    "belief_statement_2": 4.2041
+  },
+  "1_3_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0204,
+      "goal_rating_2": 0.1224,
+      "goal_rating_3": 0.0204,
+      "goal_rating_4": 0.9388
+    },
+    "belief_statement_1": 1.7347,
+    "belief_statement_2": 5.2653
+  },
+  "1_3_step3": {
+    "goal_rating": {
+      "goal_rating_1": 0.0408,
+      "goal_rating_2": 0.1837,
+      "goal_rating_3": 0.0204,
+      "goal_rating_4": 0.9592
+    },
+    "belief_statement_1": 1.5918,
+    "belief_statement_2": 6.8571
+  },
+  "2_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.8958,
+      "goal_rating_2": 0.7917,
+      "goal_rating_3": 0.8333,
+      "goal_rating_4": 0.1042
+    },
+    "belief_statement_1": 4.4167,
+    "belief_statement_2": 4.6667
+  },
+  "2_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.9583,
+      "goal_rating_2": 0.8125,
+      "goal_rating_3": 0.7708,
+      "goal_rating_4": 0.0208
+    },
+    "belief_statement_1": 6.875,
+    "belief_statement_2": 1.8125
+  },
+  "2_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.8654,
+      "goal_rating_2": 0.7885,
+      "goal_rating_3": 0.5962,
+      "goal_rating_4": 0.1731
+    },
+    "belief_statement_1": 2.7308,
+    "belief_statement_2": 6.2692
+  },
+  "3_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.1569,
+      "goal_rating_2": 0.1373,
+      "goal_rating_3": 0.8627,
+      "goal_rating_4": 0.3333
+    },
+    "belief_statement_1": 4.3529,
+    "belief_statement_2": 4.2941
+  },
+  "3_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0392,
+      "goal_rating_2": 0.0784,
+      "goal_rating_3": 0.9412,
+      "goal_rating_4": 0.2353
+    },
+    "belief_statement_1": 2.098,
+    "belief_statement_2": 5.7255
+  },
+  "4_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0638,
+      "goal_rating_2": 0.0213,
+      "goal_rating_3": 0.9149,
+      "goal_rating_4": 0.1489
+    },
+    "belief_statement_1": 4.2128,
+    "belief_statement_2": 4.7234
+  },
+  "4_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0851,
+      "goal_rating_2": 0.0213,
+      "goal_rating_3": 0.9574,
+      "goal_rating_4": 0.1489
+    },
+    "belief_statement_1": 1.7447,
+    "belief_statement_2": 1.8298
+  },
+  "4_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.1132,
+      "goal_rating_2": 0.1698,
+      "goal_rating_3": 0.283,
+      "goal_rating_4": 0.7925
+    },
+    "belief_statement_1": 3.7547,
+    "belief_statement_2": 4.7358
+  },
+  "5_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.6739,
+      "goal_rating_2": 0.7391,
+      "goal_rating_3": 0.0652,
+      "goal_rating_4": 0.7826
+    },
+    "belief_statement_1": 1.8913,
+    "belief_statement_2": 5.9348
+  },
+  "5_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0652,
+      "goal_rating_2": 0.8696,
+      "goal_rating_3": 0.0652,
+      "goal_rating_4": 0.8913
+    },
+    "belief_statement_1": 1.4565,
+    "belief_statement_2": 6.6304
+  },
+  "5_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.1481,
+      "goal_rating_2": 0.6852,
+      "goal_rating_3": 0.6667,
+      "goal_rating_4": 0.6296
+    },
+    "belief_statement_1": 5.037,
+    "belief_statement_2": 3.463
+  },
+  "5_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.1481,
+      "goal_rating_2": 0.7593,
+      "goal_rating_3": 0.1667,
+      "goal_rating_4": 0.6481
+    },
+    "belief_statement_1": 4.537,
+    "belief_statement_2": 4.0556
+  },
+  "5_2_step3": {
+    "goal_rating": {
+      "goal_rating_1": 0.1111,
+      "goal_rating_2": 0.8889,
+      "goal_rating_3": 0.2778,
+      "goal_rating_4": 0.2593
+    },
+    "belief_statement_1": 1.963,
+    "belief_statement_2": 6.2037
+  },
+  "6_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.8,
+      "goal_rating_2": 0.7111,
+      "goal_rating_3": 0.6889,
+      "goal_rating_4": 0.7556
+    },
+    "belief_statement_1": 4.2,
+    "belief_statement_2": 3.8
+  },
+  "6_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.1778,
+      "goal_rating_2": 0.9778,
+      "goal_rating_3": 0.0667,
+      "goal_rating_4": 0.0444
+    },
+    "belief_statement_1": 6.4667,
+    "belief_statement_2": 1.5556
+  },
+  "6_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0909,
+      "goal_rating_2": 0.8,
+      "goal_rating_3": 0.6545,
+      "goal_rating_4": 0.1636
+    },
+    "belief_statement_1": 4.0182,
+    "belief_statement_2": 3.8727
+  },
+  "6_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.3636,
+      "goal_rating_2": 0.4182,
+      "goal_rating_3": 0.6545,
+      "goal_rating_4": 0.0909
+    },
+    "belief_statement_1": 2.2,
+    "belief_statement_2": 4.8182
+  },
+  "6_2_step3": {
+    "goal_rating": {
+      "goal_rating_1": 0.2182,
+      "goal_rating_2": 0.4,
+      "goal_rating_3": 0.7091,
+      "goal_rating_4": 0.0545
+    },
+    "belief_statement_1": 1.7455,
+    "belief_statement_2": 2.0727
+  },
+  "7_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.1042,
+      "goal_rating_2": 0.7708,
+      "goal_rating_3": 0.625,
+      "goal_rating_4": 0.7292
+    },
+    "belief_statement_1": 2.3542,
+    "belief_statement_2": 4.6458
+  },
+  "7_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0625,
+      "goal_rating_2": 0.5417,
+      "goal_rating_3": 0.6042,
+      "goal_rating_4": 0.8958
+    },
+    "belief_statement_1": 2.0208,
+    "belief_statement_2": 5.1042
+  },
+  "7_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0962,
+      "goal_rating_2": 0.1154,
+      "goal_rating_3": 0.6731,
+      "goal_rating_4": 0.6731
+    },
+    "belief_statement_1": 4.3462,
+    "belief_statement_2": 3.8846
+  },
+  "7_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0962,
+      "goal_rating_2": 0.0769,
+      "goal_rating_3": 0.9423,
+      "goal_rating_4": 0.1154
+    },
+    "belief_statement_1": 1.7692,
+    "belief_statement_2": 6.5962
+  },
+  "8_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0625,
+      "goal_rating_2": 0.9375,
+      "goal_rating_3": 0.8125,
+      "goal_rating_4": 0.4375
+    },
+    "belief_statement_1": 3.3542,
+    "belief_statement_2": 2.9583
+  },
+  "8_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.1667,
+      "goal_rating_2": 0.1042,
+      "goal_rating_3": 0.0833,
+      "goal_rating_4": 0.8958
+    },
+    "belief_statement_1": 4.7917,
+    "belief_statement_2": 2.4167
+  },
+  "8_1_step3": {
+    "goal_rating": {
+      "goal_rating_1": 0.0833,
+      "goal_rating_2": 0.1042,
+      "goal_rating_3": 0.0833,
+      "goal_rating_4": 0.9583
+    },
+    "belief_statement_1": 6.1458,
+    "belief_statement_2": 2.625
+  },
+  "8_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.7308,
+      "goal_rating_2": 0.8269,
+      "goal_rating_3": 0.6538,
+      "goal_rating_4": 0.0385
+    },
+    "belief_statement_1": 4.2885,
+    "belief_statement_2": 3.4038
+  },
+  "8_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0192,
+      "goal_rating_2": 0.0769,
+      "goal_rating_3": 0.9423,
+      "goal_rating_4": 0.0385
+    },
+    "belief_statement_1": 1.8269,
+    "belief_statement_2": 5.9423
+  },
+  "9_1_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.6939,
+      "goal_rating_2": 0.6939,
+      "goal_rating_3": 0.4286,
+      "goal_rating_4": 0.0408
+    },
+    "belief_statement_1": 5.0612,
+    "belief_statement_2": 2.7551
+  },
+  "9_1_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0204,
+      "goal_rating_2": 0.7347,
+      "goal_rating_3": 0.7551,
+      "goal_rating_4": 0.0408
+    },
+    "belief_statement_1": 5.9388,
+    "belief_statement_2": 2.0408
+  },
+  "9_2_step1": {
+    "goal_rating": {
+      "goal_rating_1": 0.0784,
+      "goal_rating_2": 0.8235,
+      "goal_rating_3": 0.7255,
+      "goal_rating_4": 0.5294
+    },
+    "belief_statement_1": 3.9412,
+    "belief_statement_2": 4.4902
+  },
+  "9_2_step2": {
+    "goal_rating": {
+      "goal_rating_1": 0.0,
+      "goal_rating_2": 0.7255,
+      "goal_rating_3": 0.549,
+      "goal_rating_4": 0.7255
+    },
+    "belief_statement_1": 5.0588,
+    "belief_statement_2": 3.2745
+  }
+}

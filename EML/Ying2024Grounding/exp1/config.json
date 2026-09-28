@@ -1,0 +1,665 @@
+{
+  "experimentName": "Grounding Language about Belief in a Bayesian Theory-of-Mind (Exp 1)",
+  "paper-title": "Grounding Language about Belief in a Bayesian Theory-of-Mind",
+  "citation": "Ying, L., Zhi-Xuan, T., Wong, L., Mansinghka, V., &amp; Tenenbaum, J. (2024). <i>Grounding Language about Belief in a Bayesian Theory-of-Mind</i> (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2402.10416",
+  "year": 2024,
+  "alias": "ying2024grounding-exp1",
+  "description": "Participants watch a player solve Doors-Keys-Gems puzzles, inferring goals and rating two belief statements at multiple judgment points.",
+  "paperDOI": "https://doi.org/10.48550/arxiv.2402.10416",
+  "keywords": [
+    "theory-of-mind",
+    "belief modeling",
+    "social cognition",
+    "epistemic language",
+    "semantics"
+  ],
+  "taskType": [
+    "Theory of Mind",
+    "Belief Attribution",
+    "Goal Inference"
+  ],
+  "responseType": [
+    "multi-select",
+    "single-slider"
+  ],
+  "authors": [
+    "Lance Ying",
+    "Tan Zhi‐Xuan",
+    "Lionel Wong",
+    "Vikash K. Mansinghka",
+    "Joshua B. Tenenbaum"
+  ],
+  "stimuli_count": 42,
+  "experimentFlow": [
+    {
+      "condition": "single_arm1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_1_step1",
+              "1_1_step2"
+            ],
+            [
+              "2_2_step1"
+            ],
+            [
+              "4_1_step1",
+              "4_1_step2"
+            ],
+            [
+              "4_2_step1"
+            ],
+            [
+              "5_2_step1",
+              "5_2_step2",
+              "5_2_step3"
+            ],
+            [
+              "6_1_step1",
+              "6_1_step2"
+            ],
+            [
+              "6_2_step1",
+              "6_2_step2",
+              "6_2_step3"
+            ],
+            [
+              "7_2_step1",
+              "7_2_step2"
+            ],
+            [
+              "8_2_step1",
+              "8_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_1_step1",
+              "1_1_step2"
+            ],
+            [
+              "4_1_step1",
+              "4_1_step2"
+            ],
+            [
+              "4_2_step1"
+            ],
+            [
+              "5_1_step1",
+              "5_1_step2"
+            ],
+            [
+              "7_2_step1",
+              "7_2_step2"
+            ],
+            [
+              "8_1_step1",
+              "8_1_step2",
+              "8_1_step3"
+            ],
+            [
+              "8_2_step1",
+              "8_2_step2"
+            ],
+            [
+              "9_1_step1",
+              "9_1_step2"
+            ],
+            [
+              "9_2_step1",
+              "9_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm3",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_2_step1",
+              "1_2_step2"
+            ],
+            [
+              "1_3_step1",
+              "1_3_step2",
+              "1_3_step3"
+            ],
+            [
+              "2_1_step1",
+              "2_1_step2"
+            ],
+            [
+              "2_2_step1"
+            ],
+            [
+              "4_1_step1",
+              "4_1_step2"
+            ],
+            [
+              "5_1_step1",
+              "5_1_step2"
+            ],
+            [
+              "6_1_step1",
+              "6_1_step2"
+            ],
+            [
+              "9_1_step1",
+              "9_1_step2"
+            ],
+            [
+              "9_2_step1",
+              "9_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm4",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_1_step1",
+              "1_1_step2"
+            ],
+            [
+              "1_2_step1",
+              "1_2_step2"
+            ],
+            [
+              "1_3_step1",
+              "1_3_step2",
+              "1_3_step3"
+            ],
+            [
+              "4_1_step1",
+              "4_1_step2"
+            ],
+            [
+              "4_2_step1"
+            ],
+            [
+              "6_2_step1",
+              "6_2_step2",
+              "6_2_step3"
+            ],
+            [
+              "7_1_step1",
+              "7_1_step2"
+            ],
+            [
+              "7_2_step1",
+              "7_2_step2"
+            ],
+            [
+              "9_2_step1",
+              "9_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm5",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_2_step1",
+              "1_2_step2"
+            ],
+            [
+              "2_1_step1",
+              "2_1_step2"
+            ],
+            [
+              "3_1_step1",
+              "3_1_step2"
+            ],
+            [
+              "5_1_step1",
+              "5_1_step2"
+            ],
+            [
+              "6_1_step1",
+              "6_1_step2"
+            ],
+            [
+              "6_2_step1",
+              "6_2_step2",
+              "6_2_step3"
+            ],
+            [
+              "7_1_step1",
+              "7_1_step2"
+            ],
+            [
+              "7_2_step1",
+              "7_2_step2"
+            ],
+            [
+              "9_1_step1",
+              "9_1_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm6",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_1_step1",
+              "1_1_step2"
+            ],
+            [
+              "1_3_step1",
+              "1_3_step2",
+              "1_3_step3"
+            ],
+            [
+              "3_1_step1",
+              "3_1_step2"
+            ],
+            [
+              "5_2_step1",
+              "5_2_step2",
+              "5_2_step3"
+            ],
+            [
+              "6_1_step1",
+              "6_1_step2"
+            ],
+            [
+              "6_2_step1",
+              "6_2_step2",
+              "6_2_step3"
+            ],
+            [
+              "7_2_step1",
+              "7_2_step2"
+            ],
+            [
+              "8_1_step1",
+              "8_1_step2",
+              "8_1_step3"
+            ],
+            [
+              "9_1_step1",
+              "9_1_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm7",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_2_step1",
+              "1_2_step2"
+            ],
+            [
+              "1_3_step1",
+              "1_3_step2",
+              "1_3_step3"
+            ],
+            [
+              "2_1_step1",
+              "2_1_step2"
+            ],
+            [
+              "3_1_step1",
+              "3_1_step2"
+            ],
+            [
+              "4_2_step1"
+            ],
+            [
+              "5_1_step1",
+              "5_1_step2"
+            ],
+            [
+              "7_1_step1",
+              "7_1_step2"
+            ],
+            [
+              "8_2_step1",
+              "8_2_step2"
+            ],
+            [
+              "9_2_step1",
+              "9_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm8",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "2_1_step1",
+              "2_1_step2"
+            ],
+            [
+              "2_2_step1"
+            ],
+            [
+              "3_1_step1",
+              "3_1_step2"
+            ],
+            [
+              "4_2_step1"
+            ],
+            [
+              "5_2_step1",
+              "5_2_step2",
+              "5_2_step3"
+            ],
+            [
+              "7_1_step1",
+              "7_1_step2"
+            ],
+            [
+              "8_1_step1",
+              "8_1_step2",
+              "8_1_step3"
+            ],
+            [
+              "8_2_step1",
+              "8_2_step2"
+            ],
+            [
+              "9_2_step1",
+              "9_2_step2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm9",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_1_step1",
+              "1_1_step2"
+            ],
+            [
+              "1_2_step1",
+              "1_2_step2"
+            ],
+            [
+              "2_2_step1"
+            ],
+            [
+              "3_1_step1",
+              "3_1_step2"
+            ],
+            [
+              "5_1_step1",
+              "5_1_step2"
+            ],
+            [
+              "5_2_step1",
+              "5_2_step2",
+              "5_2_step3"
+            ],
+            [
+              "6_1_step1",
+              "6_1_step2"
+            ],
+            [
+              "6_2_step1",
+              "6_2_step2",
+              "6_2_step3"
+            ],
+            [
+              "8_1_step1",
+              "8_1_step2",
+              "8_1_step3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "single_arm10",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02a",
+              "instruction_02b",
+              "instruction_02c",
+              "instruction_03",
+              "instruction_04",
+              "instruction_04b",
+              "instruction_05",
+              "practice_demo_01",
+              "practice_demo_02",
+              "instruction_05b",
+              "instruction_06",
+              "comprehension_quiz_01",
+              "instruction_07"
+            ],
+            [
+              "1_3_step1",
+              "1_3_step2",
+              "1_3_step3"
+            ],
+            [
+              "2_1_step1",
+              "2_1_step2"
+            ],
+            [
+              "2_2_step1"
+            ],
+            [
+              "4_1_step1",
+              "4_1_step2"
+            ],
+            [
+              "5_2_step1",
+              "5_2_step2",
+              "5_2_step3"
+            ],
+            [
+              "7_1_step1",
+              "7_1_step2"
+            ],
+            [
+              "8_1_step1",
+              "8_1_step2",
+              "8_1_step3"
+            ],
+            [
+              "8_2_step1",
+              "8_2_step2"
+            ],
+            [
+              "9_1_step1",
+              "9_1_step2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

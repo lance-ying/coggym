@@ -1,0 +1,1962 @@
+{
+  "upright_prop80_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop80_bowl": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.41818181818181815,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.5272727272727272,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop30_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 1.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.16363636363636364,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.7272727272727273,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.05454545454545454
+    }
+  },
+  "upright_prop40_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.03636363636363636,
+      "object_category_6": 0.9454545454545454,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop80_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.0,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.03636363636363636,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.8909090909090909
+    }
+  },
+  "upright_prop30_chair": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop60_lamp": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9636363636363636,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.9636363636363636,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 1.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop40_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.03636363636363636,
+      "object_category_3": 0.03636363636363636,
+      "object_category_4": 0.0,
+      "object_category_5": 0.9272727272727272,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop80_cup": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.10909090909090909,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.8363636363636363,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop60_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.05454545454545454,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.0,
+      "object_category_5": 0.8909090909090909,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.03636363636363636,
+      "object_category_4": 0.0,
+      "object_category_5": 0.9090909090909091,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_piano": {
+    "object_category": {
+      "object_category_1": 0.03636363636363636,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.14545454545454545,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.45454545454545453,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.32727272727272727
+    }
+  },
+  "upright_prop30_piano": {
+    "object_category": {
+      "object_category_1": 0.05454545454545454,
+      "object_category_2": 0.0,
+      "object_category_3": 0.03636363636363636,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.45454545454545453,
+      "object_category_9": 0.14545454545454545,
+      "object_category_10": 0.2545454545454545
+    }
+  },
+  "upright_prop50_piano": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.9272727272727272,
+      "object_category_9": 0.0,
+      "object_category_10": 0.03636363636363636
+    }
+  },
+  "upright_prop80_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9636363636363636,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.03636363636363636,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9818181818181818,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop30_bottle": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.9636363636363636,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_bowl": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.9454545454545454,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop30_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9454545454545454,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.9454545454545454,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.9272727272727272,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop80_lamp": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.9636363636363636,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop80_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_person": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.7090909090909091,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.2727272727272727,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.03636363636363636,
+      "object_category_3": 0.0,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.36363636363636365,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.5454545454545454,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.12727272727272726,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.8
+    }
+  },
+  "upright_prop100_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9454545454545454,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop30_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.12727272727272726,
+      "object_category_3": 0.0,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.7272727272727273,
+      "object_category_6": 0.05454545454545454,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_bowl": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.7454545454545455,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.2,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9818181818181818,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop80_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.05454545454545454,
+      "object_category_5": 0.0,
+      "object_category_6": 0.03636363636363636,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.8727272727272727,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9818181818181818,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.05454545454545454,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.9090909090909091
+    }
+  },
+  "upright_prop30_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.9636363636363636,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_chair": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.9090909090909091,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop60_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.07272727272727272,
+      "object_category_5": 0.0,
+      "object_category_6": 0.34545454545454546,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.5636363636363636,
+      "object_category_10": 0.01818181818181818
+    }
+  },
+  "upright_prop100_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.9636363636363636
+    }
+  },
+  "upright_prop50_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.05454545454545454,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9090909090909091,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.7636363636363637,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.2,
+      "object_category_6": 0.03636363636363636,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop30_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9454545454545454,
+      "object_category_10": 0.03636363636363636
+    }
+  },
+  "upright_prop60_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9272727272727272,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.0,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.9636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.0,
+      "object_category_6": 0.03636363636363636,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9272727272727272,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9636363636363636,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.9636363636363636,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop50_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.01818181818181818,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.9272727272727272
+    }
+  },
+  "upright_prop30_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.05454545454545454,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.9272727272727272
+    }
+  },
+  "upright_prop20_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.03636363636363636,
+      "object_category_3": 0.9636363636363636,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.03636363636363636,
+      "object_category_5": 0.01818181818181818,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.01818181818181818,
+      "object_category_8": 0.6,
+      "object_category_9": 0.01818181818181818,
+      "object_category_10": 0.2727272727272727
+    }
+  },
+  "upright_prop30_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop20_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop40_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.01818181818181818,
+      "object_category_7": 0.9636363636363636,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop100_person": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9818181818181818,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop60_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.01818181818181818,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03636363636363636,
+      "object_category_10": 0.9454545454545454
+    }
+  },
+  "upright_prop80_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.01818181818181818,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.9636363636363636,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "upright_prop80_person": {
+    "object_category": {
+      "object_category_1": 0.01818181818181818,
+      "object_category_2": 0.01818181818181818,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9636363636363636,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop80_lamp": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9361702127659575,
+      "object_category_7": 0.0,
+      "object_category_8": 0.02127659574468085,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.9574468085106383,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_person": {
+    "object_category": {
+      "object_category_1": 0.06382978723404255,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.8936170212765957,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop80_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.0,
+      "object_category_6": 0.19148936170212766,
+      "object_category_7": 0.02127659574468085,
+      "object_category_8": 0.0,
+      "object_category_9": 0.7446808510638298,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.8723404255319149,
+      "object_category_4": 0.0,
+      "object_category_5": 0.1276595744680851,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_piano": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.5957446808510638,
+      "object_category_9": 0.0,
+      "object_category_10": 0.3404255319148936
+    }
+  },
+  "inverted_prop20_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.7872340425531915,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.1276595744680851,
+      "object_category_6": 0.0,
+      "object_category_7": 0.02127659574468085,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop100_person": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9574468085106383,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.8936170212765957
+    }
+  },
+  "inverted_prop20_person": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.9148936170212766,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_person": {
+    "object_category": {
+      "object_category_1": 0.0425531914893617,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9574468085106383,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.6170212765957447,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.23404255319148937
+    }
+  },
+  "inverted_prop60_lamp": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0425531914893617,
+      "object_category_6": 0.9148936170212766,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop20_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.06382978723404255,
+      "object_category_5": 0.0425531914893617,
+      "object_category_6": 0.5319148936170213,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.3617021276595745,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_bottle": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.9148936170212766,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.14893617021276595,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.02127659574468085,
+      "object_category_8": 0.8085106382978723,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop40_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.574468085106383,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.3617021276595745,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop50_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.1276595744680851,
+      "object_category_5": 0.0851063829787234,
+      "object_category_6": 0.7872340425531915,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9148936170212766,
+      "object_category_10": 0.0425531914893617
+    }
+  },
+  "inverted_prop40_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.9787234042553191,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.8723404255319149,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.0851063829787234
+    }
+  },
+  "inverted_prop30_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.06382978723404255,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.8723404255319149
+    }
+  },
+  "inverted_prop80_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.574468085106383,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.3829787234042553,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_airplane": {
+    "object_category": {
+      "object_category_1": 0.9787234042553191,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_lamp": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0425531914893617,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.8936170212765957,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_person": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.9148936170212766,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 1.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9787234042553191,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0425531914893617,
+      "object_category_6": 0.8297872340425532,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0851063829787234,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop40_airplane": {
+    "object_category": {
+      "object_category_1": 0.9787234042553191,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.8085106382978723,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.1276595744680851,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop30_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.10638297872340426,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.46808510638297873,
+      "object_category_6": 0.0,
+      "object_category_7": 0.02127659574468085,
+      "object_category_8": 0.0,
+      "object_category_9": 0.2978723404255319,
+      "object_category_10": 0.0425531914893617
+    }
+  },
+  "inverted_prop30_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.06382978723404255,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9361702127659575,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_piano": {
+    "object_category": {
+      "object_category_1": 0.0851063829787234,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0851063829787234,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.44680851063829785,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.2127659574468085
+    }
+  },
+  "inverted_prop80_airplane": {
+    "object_category": {
+      "object_category_1": 0.9787234042553191,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.6808510638297872,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.1702127659574468,
+      "object_category_6": 0.0851063829787234,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.9361702127659575,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9574468085106383,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.14893617021276595,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0851063829787234,
+      "object_category_5": 0.6595744680851063,
+      "object_category_6": 0.06382978723404255,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9787234042553191,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop50_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.06382978723404255,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.02127659574468085,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.8936170212765957
+    }
+  },
+  "inverted_prop100_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.9787234042553191,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop80_chair": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9787234042553191,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.9787234042553191
+    }
+  },
+  "inverted_prop80_person": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9787234042553191,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop30_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.8723404255319149,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.06382978723404255,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_table": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.9148936170212766
+    }
+  },
+  "inverted_prop50_airplane": {
+    "object_category": {
+      "object_category_1": 0.9787234042553191,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop60_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.23404255319148937,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.5106382978723404,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.06382978723404255,
+      "object_category_10": 0.0425531914893617
+    }
+  },
+  "inverted_prop80_cup": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.19148936170212766,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0,
+      "object_category_5": 0.6595744680851063,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0851063829787234,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop80_bottle": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.851063829787234,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.10638297872340426,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.9787234042553191,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_airplane": {
+    "object_category": {
+      "object_category_1": 0.9787234042553191,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.6170212765957447,
+      "object_category_6": 0.23404255319148937,
+      "object_category_7": 0.0,
+      "object_category_8": 0.02127659574468085,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.0,
+      "object_category_6": 0.8723404255319149,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.10638297872340426,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.02127659574468085,
+      "object_category_4": 0.0851063829787234,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.425531914893617,
+      "object_category_9": 0.1276595744680851,
+      "object_category_10": 0.3404255319148936
+    }
+  },
+  "inverted_prop80_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.1702127659574468,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.7446808510638298,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.0425531914893617
+    }
+  },
+  "inverted_prop50_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9787234042553191,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.02127659574468085
+    }
+  },
+  "inverted_prop20_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.23404255319148937,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.40425531914893614,
+      "object_category_9": 0.0,
+      "object_category_10": 0.3617021276595745
+    }
+  },
+  "inverted_prop60_bottle": {
+    "object_category": {
+      "object_category_1": 0.0425531914893617,
+      "object_category_2": 0.8297872340425532,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.10638297872340426,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop40_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.723404255319149,
+      "object_category_4": 0.0,
+      "object_category_5": 0.2553191489361702,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop60_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9787234042553191,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.06382978723404255,
+      "object_category_4": 0.0425531914893617,
+      "object_category_5": 0.8085106382978723,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.02127659574468085,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop80_table": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.10638297872340426,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.06382978723404255,
+      "object_category_10": 0.8085106382978723
+    }
+  },
+  "inverted_prop100_chair": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9574468085106383,
+      "object_category_5": 0.02127659574468085,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop50_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.02127659574468085,
+      "object_category_3": 0.6595744680851063,
+      "object_category_4": 0.0,
+      "object_category_5": 0.2978723404255319,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop20_table": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.1276595744680851,
+      "object_category_5": 0.0,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.1702127659574468,
+      "object_category_9": 0.0425531914893617,
+      "object_category_10": 0.6170212765957447
+    }
+  },
+  "inverted_prop60_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "inverted_prop100_bowl": {
+    "object_category": {
+      "object_category_1": 0.02127659574468085,
+      "object_category_2": 0.0,
+      "object_category_3": 0.7659574468085106,
+      "object_category_4": 0.02127659574468085,
+      "object_category_5": 0.14893617021276595,
+      "object_category_6": 0.02127659574468085,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.02127659574468085,
+      "object_category_10": 0.0
+    }
+  }
+}

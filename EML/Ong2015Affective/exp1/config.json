@@ -1,0 +1,229 @@
+{
+  "experimentName": "Affective cognition: Exploring lay theories of emotion (Exp 1)",
+  "paper-title": "Affective cognition: Exploring lay theories of emotion",
+  "citation": "Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141–162. https://doi.org/10.1016/j.cognition.2015.06.010",
+  "year": 2015,
+  "alias": "ong2015affective-exp1",
+  "description": "Participants watched a character spin a gambling wheel and rated the character's emotions after the outcome was revealed.",
+  "paperDOI": "https://doi.org/10.1016/j.cognition.2015.06.010",
+  "taskType": [
+    "Emotion Inference",
+    "Social Cognition",
+    "Decision Making"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "authors": [
+    "Desmond C. Ong",
+    "Jamil Zaki",
+    "Noah D. Goodman"
+  ],
+  "stimuli_count": 50,
+  "experimentFlow": [
+    {
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_49",
+              "spinner_12",
+              "spinner_44",
+              "spinner_42",
+              "spinner_6",
+              "spinner_40",
+              "spinner_14",
+              "spinner_36",
+              "spinner_35",
+              "spinner_38"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_26",
+              "spinner_23",
+              "spinner_48",
+              "spinner_9",
+              "spinner_47",
+              "spinner_5",
+              "spinner_10",
+              "spinner_19",
+              "spinner_16",
+              "spinner_41"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_32",
+              "spinner_15",
+              "spinner_3",
+              "spinner_34",
+              "spinner_30",
+              "spinner_13",
+              "spinner_17",
+              "spinner_39",
+              "spinner_24",
+              "spinner_31"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_27",
+              "spinner_1",
+              "spinner_22",
+              "spinner_45",
+              "spinner_4",
+              "spinner_20",
+              "spinner_43",
+              "spinner_8",
+              "spinner_29",
+              "spinner_28"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_33",
+              "spinner_18",
+              "spinner_37",
+              "spinner_2",
+              "spinner_25",
+              "spinner_46",
+              "spinner_50",
+              "spinner_11",
+              "spinner_21",
+              "spinner_7"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_38",
+              "spinner_40",
+              "spinner_14",
+              "spinner_42",
+              "spinner_35",
+              "spinner_49",
+              "spinner_6",
+              "spinner_44",
+              "spinner_36",
+              "spinner_12"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_5",
+              "spinner_48",
+              "spinner_41",
+              "spinner_47",
+              "spinner_10",
+              "spinner_23",
+              "spinner_19",
+              "spinner_9",
+              "spinner_26",
+              "spinner_16"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_15",
+              "spinner_3",
+              "spinner_24",
+              "spinner_31",
+              "spinner_32",
+              "spinner_30",
+              "spinner_34",
+              "spinner_17",
+              "spinner_13",
+              "spinner_39"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_28",
+              "spinner_4",
+              "spinner_43",
+              "spinner_45",
+              "spinner_20",
+              "spinner_22",
+              "spinner_8",
+              "spinner_1",
+              "spinner_27",
+              "spinner_29"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner_37",
+              "spinner_50",
+              "spinner_7",
+              "spinner_46",
+              "spinner_33",
+              "spinner_11",
+              "spinner_21",
+              "spinner_25",
+              "spinner_2",
+              "spinner_18"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

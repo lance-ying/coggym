@@ -1,0 +1,4 @@
+{"id": "instruction_01", "type": "instruction", "text": "<p>In this experiment, you will read hypothetical interactions between people. Your job is to judge what their actions or comments mean. You will see something they did or said, and a possible interpretation of that. Then you will be asked to indicate how likely it is that the interpretation is true.</p>"}
+{"id": "test_trial_01", "type": "test_trial", "stimuli_id": "trial_001"}
+{"id": "test_trial_02", "type": "test_trial", "stimuli_id": "trial_002"}
+{"id": "test_trial_03", "type": "test_trial", "stimuli_id": "trial_003"}

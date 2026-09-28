@@ -1,0 +1,574 @@
+{
+  "participants_info": {
+    "count": 56,
+    "age": 20.6,
+    "gender": {
+      "male": 9,
+      "female": 49,
+      "non-binary": 1,
+      "prefer_not_to_say": 1
+    },
+    "notes": "56 participants in raw data (2240 judgments = 56 x 40 trials). Demographic summary in the paper reports 60 participants."
+  },
+  "judgment_count": 2240,
+  "lego_voxel0.01_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.017857142857142856,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.05357142857142857,
+      "object_category_10": 0.9285714285714286
+    }
+  },
+  "lego_voxel0.1_airplane": {
+    "object_category": {
+      "object_category_1": 0.9821428571428571,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.017857142857142856,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.01_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.03571428571428571,
+      "object_category_3": 0.0,
+      "object_category_4": 0.30357142857142855,
+      "object_category_5": 0.0,
+      "object_category_6": 0.05357142857142857,
+      "object_category_7": 0.017857142857142856,
+      "object_category_8": 0.0,
+      "object_category_9": 0.5714285714285714,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.01_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.05357142857142857,
+      "object_category_3": 0.03571428571428571,
+      "object_category_4": 0.0,
+      "object_category_5": 0.8928571428571429,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.05_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 1.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.01_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.9821428571428571,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.1_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.07142857142857142,
+      "object_category_6": 0.875,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03571428571428571,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.75,
+      "object_category_3": 0.0,
+      "object_category_4": 0.07142857142857142,
+      "object_category_5": 0.0,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.14285714285714285,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.01_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 1.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.7142857142857143,
+      "object_category_4": 0.05357142857142857,
+      "object_category_5": 0.10714285714285714,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.0,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.0,
+      "object_category_10": 0.05357142857142857
+    }
+  },
+  "lego_voxel0.1_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.07142857142857142,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.017857142857142856,
+      "object_category_5": 0.6964285714285714,
+      "object_category_6": 0.05357142857142857,
+      "object_category_7": 0.03571428571428571,
+      "object_category_8": 0.0,
+      "object_category_9": 0.10714285714285714,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.1_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.9107142857142857,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.05357142857142857,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03571428571428571,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.01_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.9821428571428571,
+      "object_category_4": 0.0,
+      "object_category_5": 0.017857142857142856,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.05_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.9642857142857143,
+      "object_category_4": 0.0,
+      "object_category_5": 0.017857142857142856,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.8035714285714286,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.10714285714285714,
+      "object_category_10": 0.07142857142857142
+    }
+  },
+  "lego_voxel0.1_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9464285714285714,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.0,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.2_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.05357142857142857,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.03571428571428571,
+      "object_category_10": 0.875
+    }
+  },
+  "lego_voxel0.05_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 1.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.1_bowl": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.8928571428571429,
+      "object_category_4": 0.03571428571428571,
+      "object_category_5": 0.03571428571428571,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.05_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.08928571428571429,
+      "object_category_3": 0.03571428571428571,
+      "object_category_4": 0.0,
+      "object_category_5": 0.8214285714285714,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.03571428571428571,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.05_airplane": {
+    "object_category": {
+      "object_category_1": 0.9642857142857143,
+      "object_category_2": 0.0,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.017857142857142856,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.01_bottle": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 1.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_airplane": {
+    "object_category": {
+      "object_category_1": 0.625,
+      "object_category_2": 0.0,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.03571428571428571,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.0,
+      "object_category_10": 0.26785714285714285
+    }
+  },
+  "lego_voxel0.1_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.30357142857142855,
+      "object_category_5": 0.0,
+      "object_category_6": 0.07142857142857142,
+      "object_category_7": 0.05357142857142857,
+      "object_category_8": 0.0,
+      "object_category_9": 0.5535714285714286,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.07142857142857142,
+      "object_category_5": 0.0,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.0,
+      "object_category_8": 0.8214285714285714,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.05357142857142857
+    }
+  },
+  "lego_voxel0.05_piano": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.10714285714285714,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.8571428571428571,
+      "object_category_9": 0.0,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.01_airplane": {
+    "object_category": {
+      "object_category_1": 1.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.1_piano": {
+    "object_category": {
+      "object_category_1": 0.03571428571428571,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.10714285714285714,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.7857142857142857,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.03571428571428571
+    }
+  },
+  "lego_voxel0.01_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.017857142857142856,
+      "object_category_6": 0.9642857142857143,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.017857142857142856,
+      "object_category_3": 0.0,
+      "object_category_4": 0.44642857142857145,
+      "object_category_5": 0.0,
+      "object_category_6": 0.10714285714285714,
+      "object_category_7": 0.14285714285714285,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.23214285714285715,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.2_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.9464285714285714,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.017857142857142856,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.05_chair": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 1.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.2_person": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.03571428571428571,
+      "object_category_3": 0.017857142857142856,
+      "object_category_4": 0.10714285714285714,
+      "object_category_5": 0.0,
+      "object_category_6": 0.125,
+      "object_category_7": 0.5892857142857143,
+      "object_category_8": 0.0,
+      "object_category_9": 0.10714285714285714,
+      "object_category_10": 0.017857142857142856
+    }
+  },
+  "lego_voxel0.2_cup": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.05357142857142857,
+      "object_category_3": 0.07142857142857142,
+      "object_category_4": 0.07142857142857142,
+      "object_category_5": 0.32142857142857145,
+      "object_category_6": 0.19642857142857142,
+      "object_category_7": 0.03571428571428571,
+      "object_category_8": 0.05357142857142857,
+      "object_category_9": 0.08928571428571429,
+      "object_category_10": 0.10714285714285714
+    }
+  },
+  "lego_voxel0.05_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.017857142857142856,
+      "object_category_5": 0.017857142857142856,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.05357142857142857,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.8928571428571429
+    }
+  },
+  "lego_voxel0.1_person": {
+    "object_category": {
+      "object_category_1": 0.017857142857142856,
+      "object_category_2": 0.03571428571428571,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.9285714285714286,
+      "object_category_8": 0.0,
+      "object_category_9": 0.0,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.05_stool": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.26785714285714285,
+      "object_category_5": 0.0,
+      "object_category_6": 0.017857142857142856,
+      "object_category_7": 0.0,
+      "object_category_8": 0.0,
+      "object_category_9": 0.7142857142857143,
+      "object_category_10": 0.0
+    }
+  },
+  "lego_voxel0.01_piano": {
+    "object_category": {
+      "object_category_1": 0.017857142857142856,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.05357142857142857,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.875,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.03571428571428571
+    }
+  },
+  "lego_voxel0.1_table": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.05357142857142857,
+      "object_category_5": 0.0,
+      "object_category_6": 0.0,
+      "object_category_7": 0.0,
+      "object_category_8": 0.03571428571428571,
+      "object_category_9": 0.05357142857142857,
+      "object_category_10": 0.8571428571428571
+    }
+  },
+  "lego_voxel0.05_lamp": {
+    "object_category": {
+      "object_category_1": 0.0,
+      "object_category_2": 0.0,
+      "object_category_3": 0.0,
+      "object_category_4": 0.0,
+      "object_category_5": 0.0,
+      "object_category_6": 0.9642857142857143,
+      "object_category_7": 0.017857142857142856,
+      "object_category_8": 0.0,
+      "object_category_9": 0.017857142857142856,
+      "object_category_10": 0.0
+    }
+  }
+}

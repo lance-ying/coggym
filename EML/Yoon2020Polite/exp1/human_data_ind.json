@@ -1,0 +1,8042 @@
+{
+  "participants_info": {
+    "count": 49,
+    "age": -1,
+    "gender": {
+      "unknown": 49
+    }
+  },
+  "judgment_count": 1568,
+  "trial_004": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_005": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_006": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_007": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_008": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_009": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2"
+    ]
+  },
+  "trial_010": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_011": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_012": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2"
+    ]
+  },
+  "trial_013": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_014": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_015": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_016": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_017": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_018": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_019": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_020": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_021": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_022": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_023": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_024": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_025": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_026": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_027": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_028": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_029": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2"
+    ]
+  },
+  "trial_030": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_031": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_032": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  },
+  "trial_033": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_034": {
+    "judgment": [
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      },
+      {
+        "idx": 1,
+        "option_text": "Yes"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_1",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2",
+      "judgment_2"
+    ]
+  },
+  "trial_035": {
+    "judgment": [
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      },
+      {
+        "idx": 0,
+        "option_text": "No"
+      }
+    ],
+    "judgment_selected_option": [
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1",
+      "judgment_1"
+    ]
+  }
+}

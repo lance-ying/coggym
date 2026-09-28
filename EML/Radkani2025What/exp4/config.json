@@ -1,0 +1,90 @@
+{
+  "experimentName": "What people learn from punishment: A cognitive model (Exp 4)",
+  "paper-title": "What people learn from punishment: A cognitive model",
+  "citation": "Radkani, S., Tenenbaum, J. B., & Saxe, R. (2025). What people learn from punishment: A cognitive model. Proceedings of the National Academy of Sciences, 122(32), e2500730122. https://doi.org/10.1073/pnas.2500730122",
+  "year": 2025,
+  "alias": "radkani2025what-exp4",
+  "description": "Participants observe a sequence of interactions in an unfamiliar society and report their beliefs after each observation. They evaluate both the behavior that was observed and the authority figure's motivations over time.",
+  "paperDOI": "https://doi.org/10.1073/pnas.2500730122",
+  "taskType": [
+    "Social Cognition",
+    "Theory of Mind",
+    "Moral Judgment",
+    "Bayesian Inference"
+  ],
+  "responseType": [
+    "single-slider",
+    "multi-choice"
+  ],
+  "authors": [
+    "Setayesh Radkani",
+    "Joshua B. Tenenbaum",
+    "Rebecca Saxe"
+  ],
+  "stimuli_count": 18,
+  "experimentFlow": [
+    {
+      "condition": "Legitimate",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "Legitimate_obs0",
+              "Legitimate_obs1",
+              "Legitimate_obs2",
+              "Legitimate_obs3",
+              "Legitimate_obs4",
+              "Legitimate_obs5"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "Wrong",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "Wrong_obs0",
+              "Wrong_obs1",
+              "Wrong_obs2",
+              "Wrong_obs3",
+              "Wrong_obs4",
+              "Wrong_obs5"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "Not-wrong",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "Not-wrong_obs0",
+              "Not-wrong_obs1",
+              "Not-wrong_obs2",
+              "Not-wrong_obs3",
+              "Not-wrong_obs4",
+              "Not-wrong_obs5"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

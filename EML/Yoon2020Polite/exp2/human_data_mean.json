@@ -1,0 +1,586 @@
+{
+  "participants_info": {
+    "count": 203,
+    "age": -1,
+    "gender": {
+      "unknown": 203
+    }
+  },
+  "judgment_count": 19488,
+  "trial_informative_1_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.4187192118226601,
+      "posneg_choice_2": 0.5812807881773399
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.15270935960591134,
+      "keyword_choice_2": 0.5123152709359606,
+      "keyword_choice_3": 0.2857142857142857,
+      "keyword_choice_4": 0.04926108374384237
+    }
+  },
+  "trial_informative_1_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.4187192118226601,
+      "posneg_choice_2": 0.5812807881773399
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04926108374384237,
+      "keyword_choice_2": 0.2857142857142857,
+      "keyword_choice_3": 0.5123152709359606,
+      "keyword_choice_4": 0.15270935960591134
+    }
+  },
+  "trial_informative_1_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5812807881773399,
+      "posneg_choice_2": 0.4187192118226601
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.15270935960591134,
+      "keyword_choice_2": 0.5123152709359606,
+      "keyword_choice_3": 0.2857142857142857,
+      "keyword_choice_4": 0.04926108374384237
+    }
+  },
+  "trial_informative_1_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5812807881773399,
+      "posneg_choice_2": 0.4187192118226601
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04926108374384237,
+      "keyword_choice_2": 0.2857142857142857,
+      "keyword_choice_3": 0.5123152709359606,
+      "keyword_choice_4": 0.15270935960591134
+    }
+  },
+  "trial_informative_2_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.8669950738916257,
+      "posneg_choice_2": 0.1330049261083744
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.019704433497536946,
+      "keyword_choice_2": 0.09359605911330049,
+      "keyword_choice_3": 0.8522167487684729,
+      "keyword_choice_4": 0.034482758620689655
+    }
+  },
+  "trial_informative_2_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.8669950738916257,
+      "posneg_choice_2": 0.1330049261083744
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.034482758620689655,
+      "keyword_choice_2": 0.8522167487684729,
+      "keyword_choice_3": 0.09359605911330049,
+      "keyword_choice_4": 0.019704433497536946
+    }
+  },
+  "trial_informative_2_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.1330049261083744,
+      "posneg_choice_2": 0.8669950738916257
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.019704433497536946,
+      "keyword_choice_2": 0.09359605911330049,
+      "keyword_choice_3": 0.8522167487684729,
+      "keyword_choice_4": 0.034482758620689655
+    }
+  },
+  "trial_informative_2_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.1330049261083744,
+      "posneg_choice_2": 0.8669950738916257
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.034482758620689655,
+      "keyword_choice_2": 0.8522167487684729,
+      "keyword_choice_3": 0.09359605911330049,
+      "keyword_choice_4": 0.019704433497536946
+    }
+  },
+  "trial_informative_0_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7241379310344828,
+      "posneg_choice_2": 0.27586206896551724
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.6551724137931034,
+      "keyword_choice_2": 0.1477832512315271,
+      "keyword_choice_3": 0.1724137931034483,
+      "keyword_choice_4": 0.024630541871921183
+    }
+  },
+  "trial_informative_0_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7241379310344828,
+      "posneg_choice_2": 0.27586206896551724
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.024630541871921183,
+      "keyword_choice_2": 0.1724137931034483,
+      "keyword_choice_3": 0.1477832512315271,
+      "keyword_choice_4": 0.6551724137931034
+    }
+  },
+  "trial_informative_0_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.27586206896551724,
+      "posneg_choice_2": 0.7241379310344828
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.6551724137931034,
+      "keyword_choice_2": 0.1477832512315271,
+      "keyword_choice_3": 0.1724137931034483,
+      "keyword_choice_4": 0.024630541871921183
+    }
+  },
+  "trial_informative_0_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.27586206896551724,
+      "posneg_choice_2": 0.7241379310344828
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.024630541871921183,
+      "keyword_choice_2": 0.1724137931034483,
+      "keyword_choice_3": 0.1477832512315271,
+      "keyword_choice_4": 0.6551724137931034
+    }
+  },
+  "trial_informative_3_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9852216748768473,
+      "posneg_choice_2": 0.014778325123152709
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.009852216748768473,
+      "keyword_choice_2": 0.014778325123152709,
+      "keyword_choice_3": 0.06403940886699508,
+      "keyword_choice_4": 0.9113300492610837
+    }
+  },
+  "trial_informative_3_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9852216748768473,
+      "posneg_choice_2": 0.014778325123152709
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9113300492610837,
+      "keyword_choice_2": 0.06403940886699508,
+      "keyword_choice_3": 0.014778325123152709,
+      "keyword_choice_4": 0.009852216748768473
+    }
+  },
+  "trial_informative_3_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.014778325123152709,
+      "posneg_choice_2": 0.9852216748768473
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.009852216748768473,
+      "keyword_choice_2": 0.014778325123152709,
+      "keyword_choice_3": 0.06403940886699508,
+      "keyword_choice_4": 0.9113300492610837
+    }
+  },
+  "trial_informative_3_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.014778325123152709,
+      "posneg_choice_2": 0.9852216748768473
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9113300492610837,
+      "keyword_choice_2": 0.06403940886699508,
+      "keyword_choice_3": 0.014778325123152709,
+      "keyword_choice_4": 0.009852216748768473
+    }
+  },
+  "trial_social_1_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5714285714285714,
+      "posneg_choice_2": 0.42857142857142855
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.12315270935960591,
+      "keyword_choice_2": 0.27586206896551724,
+      "keyword_choice_3": 0.43842364532019706,
+      "keyword_choice_4": 0.1625615763546798
+    }
+  },
+  "trial_social_1_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5714285714285714,
+      "posneg_choice_2": 0.42857142857142855
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.1625615763546798,
+      "keyword_choice_2": 0.43842364532019706,
+      "keyword_choice_3": 0.27586206896551724,
+      "keyword_choice_4": 0.12315270935960591
+    }
+  },
+  "trial_social_1_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.42857142857142855,
+      "posneg_choice_2": 0.5714285714285714
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.12315270935960591,
+      "keyword_choice_2": 0.27586206896551724,
+      "keyword_choice_3": 0.43842364532019706,
+      "keyword_choice_4": 0.1625615763546798
+    }
+  },
+  "trial_social_1_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.42857142857142855,
+      "posneg_choice_2": 0.5714285714285714
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.1625615763546798,
+      "keyword_choice_2": 0.43842364532019706,
+      "keyword_choice_3": 0.27586206896551724,
+      "keyword_choice_4": 0.12315270935960591
+    }
+  },
+  "trial_social_2_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9458128078817734,
+      "posneg_choice_2": 0.054187192118226604
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.009852216748768473,
+      "keyword_choice_2": 0.03940886699507389,
+      "keyword_choice_3": 0.5960591133004927,
+      "keyword_choice_4": 0.35467980295566504
+    }
+  },
+  "trial_social_2_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9458128078817734,
+      "posneg_choice_2": 0.054187192118226604
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.35467980295566504,
+      "keyword_choice_2": 0.5960591133004927,
+      "keyword_choice_3": 0.03940886699507389,
+      "keyword_choice_4": 0.009852216748768473
+    }
+  },
+  "trial_social_2_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.054187192118226604,
+      "posneg_choice_2": 0.9458128078817734
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.009852216748768473,
+      "keyword_choice_2": 0.03940886699507389,
+      "keyword_choice_3": 0.5960591133004927,
+      "keyword_choice_4": 0.35467980295566504
+    }
+  },
+  "trial_social_2_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.054187192118226604,
+      "posneg_choice_2": 0.9458128078817734
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.35467980295566504,
+      "keyword_choice_2": 0.5960591133004927,
+      "keyword_choice_3": 0.03940886699507389,
+      "keyword_choice_4": 0.009852216748768473
+    }
+  },
+  "trial_social_0_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5024630541871922,
+      "posneg_choice_2": 0.4975369458128079
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.3103448275862069,
+      "keyword_choice_2": 0.19704433497536947,
+      "keyword_choice_3": 0.33497536945812806,
+      "keyword_choice_4": 0.15763546798029557
+    }
+  },
+  "trial_social_0_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.5024630541871922,
+      "posneg_choice_2": 0.4975369458128079
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.15763546798029557,
+      "keyword_choice_2": 0.33497536945812806,
+      "keyword_choice_3": 0.19704433497536947,
+      "keyword_choice_4": 0.3103448275862069
+    }
+  },
+  "trial_social_0_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.4975369458128079,
+      "posneg_choice_2": 0.5024630541871922
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.3103448275862069,
+      "keyword_choice_2": 0.19704433497536947,
+      "keyword_choice_3": 0.33497536945812806,
+      "keyword_choice_4": 0.15763546798029557
+    }
+  },
+  "trial_social_0_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.4975369458128079,
+      "posneg_choice_2": 0.5024630541871922
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.15763546798029557,
+      "keyword_choice_2": 0.33497536945812806,
+      "keyword_choice_3": 0.19704433497536947,
+      "keyword_choice_4": 0.3103448275862069
+    }
+  },
+  "trial_social_3_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9901477832512315,
+      "posneg_choice_2": 0.009852216748768473
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0,
+      "keyword_choice_2": 0.0049261083743842365,
+      "keyword_choice_3": 0.04433497536945813,
+      "keyword_choice_4": 0.9507389162561576
+    }
+  },
+  "trial_social_3_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9901477832512315,
+      "posneg_choice_2": 0.009852216748768473
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9507389162561576,
+      "keyword_choice_2": 0.04433497536945813,
+      "keyword_choice_3": 0.0049261083743842365,
+      "keyword_choice_4": 0.0
+    }
+  },
+  "trial_social_3_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.009852216748768473,
+      "posneg_choice_2": 0.9901477832512315
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0,
+      "keyword_choice_2": 0.0049261083743842365,
+      "keyword_choice_3": 0.04433497536945813,
+      "keyword_choice_4": 0.9507389162561576
+    }
+  },
+  "trial_social_3_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.009852216748768473,
+      "posneg_choice_2": 0.9901477832512315
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9507389162561576,
+      "keyword_choice_2": 0.04433497536945813,
+      "keyword_choice_3": 0.0049261083743842365,
+      "keyword_choice_4": 0.0
+    }
+  },
+  "trial_both_1_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.2561576354679803,
+      "posneg_choice_2": 0.7438423645320197
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.27586206896551724,
+      "keyword_choice_2": 0.43842364532019706,
+      "keyword_choice_3": 0.2413793103448276,
+      "keyword_choice_4": 0.04433497536945813
+    }
+  },
+  "trial_both_1_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.2561576354679803,
+      "posneg_choice_2": 0.7438423645320197
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04433497536945813,
+      "keyword_choice_2": 0.2413793103448276,
+      "keyword_choice_3": 0.43842364532019706,
+      "keyword_choice_4": 0.27586206896551724
+    }
+  },
+  "trial_both_1_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7438423645320197,
+      "posneg_choice_2": 0.2561576354679803
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.27586206896551724,
+      "keyword_choice_2": 0.43842364532019706,
+      "keyword_choice_3": 0.2413793103448276,
+      "keyword_choice_4": 0.04433497536945813
+    }
+  },
+  "trial_both_1_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7438423645320197,
+      "posneg_choice_2": 0.2561576354679803
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04433497536945813,
+      "keyword_choice_2": 0.2413793103448276,
+      "keyword_choice_3": 0.43842364532019706,
+      "keyword_choice_4": 0.27586206896551724
+    }
+  },
+  "trial_both_2_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9359605911330049,
+      "posneg_choice_2": 0.06403940886699508
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0049261083743842365,
+      "keyword_choice_2": 0.059113300492610835,
+      "keyword_choice_3": 0.8866995073891626,
+      "keyword_choice_4": 0.04926108374384237
+    }
+  },
+  "trial_both_2_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9359605911330049,
+      "posneg_choice_2": 0.06403940886699508
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04926108374384237,
+      "keyword_choice_2": 0.8866995073891626,
+      "keyword_choice_3": 0.059113300492610835,
+      "keyword_choice_4": 0.0049261083743842365
+    }
+  },
+  "trial_both_2_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.06403940886699508,
+      "posneg_choice_2": 0.9359605911330049
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0049261083743842365,
+      "keyword_choice_2": 0.059113300492610835,
+      "keyword_choice_3": 0.8866995073891626,
+      "keyword_choice_4": 0.04926108374384237
+    }
+  },
+  "trial_both_2_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.06403940886699508,
+      "posneg_choice_2": 0.9359605911330049
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.04926108374384237,
+      "keyword_choice_2": 0.8866995073891626,
+      "keyword_choice_3": 0.059113300492610835,
+      "keyword_choice_4": 0.0049261083743842365
+    }
+  },
+  "trial_both_0_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.2660098522167488,
+      "posneg_choice_2": 0.7339901477832512
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.458128078817734,
+      "keyword_choice_2": 0.270935960591133,
+      "keyword_choice_3": 0.1921182266009852,
+      "keyword_choice_4": 0.07881773399014778
+    }
+  },
+  "trial_both_0_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.2660098522167488,
+      "posneg_choice_2": 0.7339901477832512
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.07881773399014778,
+      "keyword_choice_2": 0.1921182266009852,
+      "keyword_choice_3": 0.270935960591133,
+      "keyword_choice_4": 0.458128078817734
+    }
+  },
+  "trial_both_0_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7339901477832512,
+      "posneg_choice_2": 0.2660098522167488
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.458128078817734,
+      "keyword_choice_2": 0.270935960591133,
+      "keyword_choice_3": 0.1921182266009852,
+      "keyword_choice_4": 0.07881773399014778
+    }
+  },
+  "trial_both_0_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.7339901477832512,
+      "posneg_choice_2": 0.2660098522167488
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.07881773399014778,
+      "keyword_choice_2": 0.1921182266009852,
+      "keyword_choice_3": 0.270935960591133,
+      "keyword_choice_4": 0.458128078817734
+    }
+  },
+  "trial_both_3_c1": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9950738916256158,
+      "posneg_choice_2": 0.0049261083743842365
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0,
+      "keyword_choice_2": 0.0,
+      "keyword_choice_3": 0.054187192118226604,
+      "keyword_choice_4": 0.9458128078817734
+    }
+  },
+  "trial_both_3_c2": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.9950738916256158,
+      "posneg_choice_2": 0.0049261083743842365
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9458128078817734,
+      "keyword_choice_2": 0.054187192118226604,
+      "keyword_choice_3": 0.0,
+      "keyword_choice_4": 0.0
+    }
+  },
+  "trial_both_3_c3": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.0049261083743842365,
+      "posneg_choice_2": 0.9950738916256158
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.0,
+      "keyword_choice_2": 0.0,
+      "keyword_choice_3": 0.054187192118226604,
+      "keyword_choice_4": 0.9458128078817734
+    }
+  },
+  "trial_both_3_c4": {
+    "posneg_choice": {
+      "posneg_choice_1": 0.0049261083743842365,
+      "posneg_choice_2": 0.9950738916256158
+    },
+    "keyword_choice": {
+      "keyword_choice_1": 0.9458128078817734,
+      "keyword_choice_2": 0.054187192118226604,
+      "keyword_choice_3": 0.0,
+      "keyword_choice_4": 0.0
+    }
+  }
+}

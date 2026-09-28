@@ -1,0 +1,1373 @@
+{
+  "experimentName": "Affective cognition: Exploring lay theories of emotion (Exp 4)",
+  "paper-title": "Affective cognition: Exploring lay theories of emotion",
+  "citation": "Ong, D. C., Zaki, J., & Goodman, N. D. (2015). Affective cognition: Exploring lay theories of emotion. Cognition, 143, 141–162. https://doi.org/10.1016/j.cognition.2015.06.010",
+  "year": 2015,
+  "alias": "ong2015affective-exp4",
+  "description": "Participants rated emotions after seeing outcome cues, utterance cues, or both, following a gambling wheel spin.",
+  "paperDOI": "https://doi.org/10.1016/j.cognition.2015.06.010",
+  "taskType": [
+    "Emotion Inference",
+    "Cue Integration",
+    "Language"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "authors": [
+    "Desmond C. Ong",
+    "Jamil Zaki",
+    "Noah D. Goodman"
+  ],
+  "stimuli_count": 299,
+  "experimentFlow": [
+    {
+      "condition": "row0_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner47_utt9_w0_u1",
+              "spinner14_utt4_w0_u0",
+              "spinner1_utt1_w0_u0",
+              "spinner24_utt6_w0_u1",
+              "spinner16_utt5_w1_u0",
+              "spinner9_utt2_w1_u0",
+              "spinner32_utt7_w0_u0",
+              "spinner12_utt3_w0_u1",
+              "spinner49_utt10_w0_u0",
+              "spinner41_utt8_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt10_w0_u0",
+              "spinner12_utt3_w0_u1",
+              "spinner47_utt9_w0_u1",
+              "spinner9_utt2_w1_u0",
+              "spinner1_utt1_w0_u0",
+              "spinner14_utt4_w0_u0",
+              "spinner32_utt7_w0_u0",
+              "spinner16_utt5_w1_u0",
+              "spinner41_utt8_w1_u0",
+              "spinner24_utt6_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row0_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt8_w0_u1",
+              "spinner49_utt10_w1_u0",
+              "spinner9_utt2_w0_u1",
+              "spinner24_utt6_w0_u0",
+              "spinner16_utt5_w0_u1",
+              "spinner14_utt4_w1_u0",
+              "spinner47_utt9_w0_u0",
+              "spinner1_utt1_w1_u0",
+              "spinner12_utt3_w0_u0",
+              "spinner32_utt7_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt5_w0_u1",
+              "spinner32_utt7_w1_u0",
+              "spinner47_utt9_w0_u0",
+              "spinner41_utt8_w0_u1",
+              "spinner14_utt4_w1_u0",
+              "spinner1_utt1_w1_u0",
+              "spinner12_utt3_w0_u0",
+              "spinner49_utt10_w1_u0",
+              "spinner9_utt2_w0_u1",
+              "spinner24_utt6_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row0_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt10_w0_u1",
+              "spinner32_utt7_w0_u1",
+              "spinner1_utt1_w0_u1",
+              "spinner12_utt3_w1_u0",
+              "spinner14_utt4_w0_u1",
+              "spinner24_utt6_w1_u0",
+              "spinner16_utt5_w0_u0",
+              "spinner9_utt2_w0_u0",
+              "spinner47_utt9_w1_u0",
+              "spinner41_utt8_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner47_utt9_w1_u0",
+              "spinner12_utt3_w1_u0",
+              "spinner49_utt10_w0_u1",
+              "spinner24_utt6_w1_u0",
+              "spinner14_utt4_w0_u1",
+              "spinner41_utt8_w0_u0",
+              "spinner9_utt2_w0_u0",
+              "spinner16_utt5_w0_u0",
+              "spinner1_utt1_w0_u1",
+              "spinner32_utt7_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row1_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt8_w0_u0",
+              "spinner9_utt3_w1_u0",
+              "spinner41_utt9_w1_u0",
+              "spinner24_utt7_w0_u1",
+              "spinner12_utt4_w0_u1",
+              "spinner47_utt10_w0_u1",
+              "spinner1_utt2_w0_u0",
+              "spinner49_utt1_w0_u0",
+              "spinner14_utt5_w0_u0",
+              "spinner16_utt6_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt6_w1_u0",
+              "spinner9_utt3_w1_u0",
+              "spinner41_utt9_w1_u0",
+              "spinner24_utt7_w0_u1",
+              "spinner12_utt4_w0_u1",
+              "spinner47_utt10_w0_u1",
+              "spinner1_utt2_w0_u0",
+              "spinner49_utt1_w0_u0",
+              "spinner14_utt5_w0_u0",
+              "spinner32_utt8_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row1_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner9_utt3_w0_u1",
+              "spinner14_utt5_w1_u0",
+              "spinner32_utt8_w1_u0",
+              "spinner49_utt1_w1_u0",
+              "spinner47_utt10_w0_u0",
+              "spinner41_utt9_w0_u1",
+              "spinner12_utt4_w0_u0",
+              "spinner16_utt6_w0_u1",
+              "spinner1_utt2_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner1_utt2_w1_u0",
+              "spinner16_utt6_w0_u1",
+              "spinner9_utt3_w0_u1",
+              "spinner32_utt8_w1_u0",
+              "spinner14_utt5_w1_u0",
+              "spinner49_utt1_w1_u0",
+              "spinner12_utt4_w0_u0",
+              "spinner41_utt9_w0_u1",
+              "spinner47_utt10_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row1_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt8_w0_u1",
+              "spinner12_utt4_w1_u0",
+              "spinner24_utt7_w1_u0",
+              "spinner9_utt3_w0_u0",
+              "spinner1_utt2_w0_u1",
+              "spinner16_utt6_w0_u0",
+              "spinner14_utt5_w0_u1",
+              "spinner41_utt9_w0_u0",
+              "spinner47_utt10_w1_u0",
+              "spinner49_utt1_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt8_w0_u1",
+              "spinner41_utt9_w0_u0",
+              "spinner47_utt10_w1_u0",
+              "spinner49_utt1_w0_u1",
+              "spinner1_utt2_w0_u1",
+              "spinner24_utt7_w1_u0",
+              "spinner9_utt3_w0_u0",
+              "spinner16_utt6_w0_u0",
+              "spinner14_utt5_w0_u1",
+              "spinner12_utt4_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row2_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt5_w0_u1",
+              "spinner24_utt8_w0_u1",
+              "spinner41_utt10_w1_u0",
+              "spinner32_utt9_w0_u0",
+              "spinner49_utt2_w0_u0",
+              "spinner9_utt4_w1_u0",
+              "spinner16_utt7_w1_u0",
+              "spinner14_utt6_w0_u0",
+              "spinner1_utt3_w0_u0",
+              "spinner47_utt1_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt2_w0_u0",
+              "spinner9_utt4_w1_u0",
+              "spinner32_utt9_w0_u0",
+              "spinner14_utt6_w0_u0",
+              "spinner47_utt1_w0_u1",
+              "spinner1_utt3_w0_u0",
+              "spinner12_utt5_w0_u1",
+              "spinner16_utt7_w1_u0",
+              "spinner24_utt8_w0_u1",
+              "spinner41_utt10_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row2_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt9_w1_u0",
+              "spinner9_utt4_w0_u1",
+              "spinner1_utt3_w1_u0",
+              "spinner49_utt2_w1_u0",
+              "spinner14_utt6_w1_u0",
+              "spinner47_utt1_w0_u0",
+              "spinner16_utt7_w0_u1",
+              "spinner24_utt8_w0_u0",
+              "spinner12_utt5_w0_u0",
+              "spinner41_utt10_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt7_w0_u1",
+              "spinner47_utt1_w0_u0",
+              "spinner12_utt5_w0_u0",
+              "spinner41_utt10_w0_u1",
+              "spinner1_utt3_w1_u0",
+              "spinner14_utt6_w1_u0",
+              "spinner49_utt2_w1_u0",
+              "spinner9_utt4_w0_u1",
+              "spinner32_utt9_w1_u0",
+              "spinner24_utt8_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row2_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner14_utt6_w0_u1",
+              "spinner16_utt7_w0_u0",
+              "spinner24_utt8_w1_u0",
+              "spinner41_utt10_w0_u0",
+              "spinner9_utt4_w0_u0",
+              "spinner32_utt9_w0_u1",
+              "spinner12_utt5_w1_u0",
+              "spinner1_utt3_w0_u1",
+              "spinner47_utt1_w1_u0",
+              "spinner49_utt2_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt10_w0_u0",
+              "spinner14_utt6_w0_u1",
+              "spinner12_utt5_w1_u0",
+              "spinner47_utt1_w1_u0",
+              "spinner1_utt3_w0_u1",
+              "spinner49_utt2_w0_u1",
+              "spinner9_utt4_w0_u0",
+              "spinner32_utt9_w0_u1",
+              "spinner16_utt7_w0_u0",
+              "spinner24_utt8_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row3_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner9_utt5_w1_u0",
+              "spinner32_utt10_w0_u0",
+              "spinner49_utt3_w0_u0",
+              "spinner14_utt7_w0_u0",
+              "spinner12_utt6_w0_u1",
+              "spinner41_utt1_w1_u0",
+              "spinner47_utt2_w0_u1",
+              "spinner16_utt8_w1_u0",
+              "spinner1_utt4_w0_u0",
+              "spinner24_utt9_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt6_w0_u1",
+              "spinner1_utt4_w0_u0",
+              "spinner47_utt2_w0_u1",
+              "spinner16_utt8_w1_u0",
+              "spinner24_utt9_w0_u1",
+              "spinner41_utt1_w1_u0",
+              "spinner32_utt10_w0_u0",
+              "spinner14_utt7_w0_u0",
+              "spinner49_utt3_w0_u0",
+              "spinner9_utt5_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row3_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt8_w0_u1",
+              "spinner12_utt6_w0_u0",
+              "spinner9_utt5_w0_u1",
+              "spinner1_utt4_w1_u0",
+              "spinner32_utt10_w1_u0",
+              "spinner47_utt2_w0_u0",
+              "spinner24_utt9_w0_u0",
+              "spinner41_utt1_w0_u1",
+              "spinner49_utt3_w1_u0",
+              "spinner14_utt7_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt3_w1_u0",
+              "spinner41_utt1_w0_u1",
+              "spinner16_utt8_w0_u1",
+              "spinner14_utt7_w1_u0",
+              "spinner12_utt6_w0_u0",
+              "spinner1_utt4_w1_u0",
+              "spinner9_utt5_w0_u1",
+              "spinner32_utt10_w1_u0",
+              "spinner47_utt2_w0_u0",
+              "spinner24_utt9_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row3_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner14_utt7_w0_u1",
+              "spinner1_utt4_w0_u1",
+              "spinner47_utt2_w1_u0",
+              "spinner16_utt8_w0_u0",
+              "spinner49_utt3_w0_u1",
+              "spinner9_utt5_w0_u0",
+              "spinner24_utt9_w1_u0",
+              "spinner12_utt6_w1_u0",
+              "spinner32_utt10_w0_u1",
+              "spinner41_utt1_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt6_w1_u0",
+              "spinner1_utt4_w0_u1",
+              "spinner41_utt1_w0_u0",
+              "spinner32_utt10_w0_u1",
+              "spinner24_utt9_w1_u0",
+              "spinner9_utt5_w0_u0",
+              "spinner49_utt3_w0_u1",
+              "spinner14_utt7_w0_u1",
+              "spinner16_utt8_w0_u0",
+              "spinner47_utt2_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row4_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt1_w0_u0",
+              "spinner24_utt10_w0_u1",
+              "spinner14_utt8_w0_u0",
+              "spinner16_utt9_w1_u0",
+              "spinner47_utt3_w0_u1",
+              "spinner9_utt6_w1_u0",
+              "spinner12_utt7_w0_u1",
+              "spinner49_utt4_w0_u0",
+              "spinner1_utt5_w0_u0",
+              "spinner41_utt2_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner14_utt8_w0_u0",
+              "spinner16_utt9_w1_u0",
+              "spinner49_utt4_w0_u0",
+              "spinner24_utt10_w0_u1",
+              "spinner47_utt3_w0_u1",
+              "spinner9_utt6_w1_u0",
+              "spinner12_utt7_w0_u1",
+              "spinner41_utt2_w1_u0",
+              "spinner1_utt5_w0_u0",
+              "spinner32_utt1_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row4_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner9_utt6_w0_u1",
+              "spinner47_utt3_w0_u0",
+              "spinner32_utt1_w1_u0",
+              "spinner24_utt10_w0_u0",
+              "spinner41_utt2_w0_u1",
+              "spinner1_utt5_w1_u0",
+              "spinner49_utt4_w1_u0",
+              "spinner16_utt9_w0_u1",
+              "spinner12_utt7_w0_u0",
+              "spinner14_utt8_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt1_w1_u0",
+              "spinner14_utt8_w1_u0",
+              "spinner9_utt6_w0_u1",
+              "spinner12_utt7_w0_u0",
+              "spinner24_utt10_w0_u0",
+              "spinner1_utt5_w1_u0",
+              "spinner41_utt2_w0_u1",
+              "spinner49_utt4_w1_u0",
+              "spinner16_utt9_w0_u1",
+              "spinner47_utt3_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row4_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner9_utt6_w0_u0",
+              "spinner49_utt4_w0_u1",
+              "spinner16_utt9_w0_u0",
+              "spinner24_utt10_w1_u0",
+              "spinner1_utt5_w0_u1",
+              "spinner12_utt7_w1_u0",
+              "spinner47_utt3_w1_u0",
+              "spinner32_utt1_w0_u1",
+              "spinner14_utt8_w0_u1",
+              "spinner41_utt2_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt9_w0_u0",
+              "spinner1_utt5_w0_u1",
+              "spinner14_utt8_w0_u1",
+              "spinner49_utt4_w0_u1",
+              "spinner41_utt2_w0_u0",
+              "spinner32_utt1_w0_u1",
+              "spinner9_utt6_w0_u0",
+              "spinner12_utt7_w1_u0",
+              "spinner47_utt3_w1_u0",
+              "spinner24_utt10_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row5_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner47_utt4_w0_u1",
+              "spinner24_utt1_w0_u1",
+              "spinner12_utt8_w0_u1",
+              "spinner41_utt3_w1_u0",
+              "spinner32_utt2_w0_u0",
+              "spinner1_utt6_w0_u0",
+              "spinner49_utt5_w0_u0",
+              "spinner9_utt7_w1_u0",
+              "spinner16_utt10_w1_u0",
+              "spinner14_utt9_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt10_w1_u0",
+              "spinner12_utt8_w0_u1",
+              "spinner9_utt7_w1_u0",
+              "spinner32_utt2_w0_u0",
+              "spinner49_utt5_w0_u0",
+              "spinner1_utt6_w0_u0",
+              "spinner14_utt9_w0_u0",
+              "spinner47_utt4_w0_u1",
+              "spinner41_utt3_w1_u0",
+              "spinner24_utt1_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row5_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt2_w1_u0",
+              "spinner41_utt3_w0_u1",
+              "spinner9_utt7_w0_u1",
+              "spinner1_utt6_w1_u0",
+              "spinner24_utt1_w0_u0",
+              "spinner14_utt9_w1_u0",
+              "spinner47_utt4_w0_u0",
+              "spinner16_utt10_w0_u1",
+              "spinner12_utt8_w0_u0",
+              "spinner49_utt5_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt3_w0_u1",
+              "spinner24_utt1_w0_u0",
+              "spinner9_utt7_w0_u1",
+              "spinner47_utt4_w0_u0",
+              "spinner32_utt2_w1_u0",
+              "spinner14_utt9_w1_u0",
+              "spinner49_utt5_w1_u0",
+              "spinner12_utt8_w0_u0",
+              "spinner1_utt6_w1_u0",
+              "spinner16_utt10_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row5_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner1_utt6_w0_u1",
+              "spinner16_utt10_w0_u0",
+              "spinner49_utt5_w0_u1",
+              "spinner47_utt4_w1_u0",
+              "spinner12_utt8_w1_u0",
+              "spinner41_utt3_w0_u0",
+              "spinner32_utt2_w0_u1",
+              "spinner14_utt9_w0_u1",
+              "spinner24_utt1_w1_u0",
+              "spinner9_utt7_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt3_w0_u0",
+              "spinner49_utt5_w0_u1",
+              "spinner12_utt8_w1_u0",
+              "spinner24_utt1_w1_u0",
+              "spinner32_utt2_w0_u1",
+              "spinner9_utt7_w0_u0",
+              "spinner14_utt9_w0_u1",
+              "spinner16_utt10_w0_u0",
+              "spinner47_utt4_w1_u0",
+              "spinner1_utt6_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row6_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt9_w0_u1",
+              "spinner16_utt1_w1_u0",
+              "spinner14_utt10_w0_u0",
+              "spinner9_utt8_w1_u0",
+              "spinner49_utt6_w0_u0",
+              "spinner47_utt5_w0_u1",
+              "spinner1_utt7_w0_u0",
+              "spinner24_utt2_w0_u1",
+              "spinner41_utt4_w1_u0",
+              "spinner32_utt3_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt1_w1_u0",
+              "spinner41_utt4_w1_u0",
+              "spinner14_utt10_w0_u0",
+              "spinner1_utt7_w0_u0",
+              "spinner47_utt5_w0_u1",
+              "spinner9_utt8_w1_u0",
+              "spinner49_utt6_w0_u0",
+              "spinner32_utt3_w0_u0",
+              "spinner24_utt2_w0_u1",
+              "spinner12_utt9_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row6_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner24_utt2_w0_u0",
+              "spinner14_utt10_w1_u0",
+              "spinner49_utt6_w1_u0",
+              "spinner41_utt4_w0_u1",
+              "spinner32_utt3_w1_u0",
+              "spinner47_utt5_w0_u0",
+              "spinner9_utt8_w0_u1",
+              "spinner1_utt7_w1_u0",
+              "spinner16_utt1_w0_u1",
+              "spinner12_utt9_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt1_w0_u1",
+              "spinner41_utt4_w0_u1",
+              "spinner14_utt10_w1_u0",
+              "spinner49_utt6_w1_u0",
+              "spinner1_utt7_w1_u0",
+              "spinner12_utt9_w0_u0",
+              "spinner32_utt3_w1_u0",
+              "spinner24_utt2_w0_u0",
+              "spinner47_utt5_w0_u0",
+              "spinner9_utt8_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row6_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner47_utt5_w1_u0",
+              "spinner16_utt1_w0_u0",
+              "spinner49_utt6_w0_u1",
+              "spinner41_utt4_w0_u0",
+              "spinner9_utt8_w0_u0",
+              "spinner32_utt3_w0_u1",
+              "spinner1_utt7_w0_u1",
+              "spinner14_utt10_w0_u1",
+              "spinner12_utt9_w1_u0",
+              "spinner24_utt2_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner14_utt10_w0_u1",
+              "spinner9_utt8_w0_u0",
+              "spinner41_utt4_w0_u0",
+              "spinner12_utt9_w1_u0",
+              "spinner49_utt6_w0_u1",
+              "spinner1_utt7_w0_u1",
+              "spinner24_utt2_w1_u0",
+              "spinner47_utt5_w1_u0",
+              "spinner32_utt3_w0_u1",
+              "spinner16_utt1_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row7_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt7_w0_u0",
+              "spinner12_utt10_w0_u1",
+              "spinner32_utt4_w0_u0",
+              "spinner14_utt1_w0_u0",
+              "spinner47_utt6_w0_u1",
+              "spinner16_utt2_w1_u0",
+              "spinner9_utt9_w1_u0",
+              "spinner41_utt5_w1_u0",
+              "spinner24_utt3_w0_u1",
+              "spinner1_utt8_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt2_w1_u0",
+              "spinner47_utt6_w0_u1",
+              "spinner1_utt8_w0_u0",
+              "spinner41_utt5_w1_u0",
+              "spinner49_utt7_w0_u0",
+              "spinner9_utt9_w1_u0",
+              "spinner14_utt1_w0_u0",
+              "spinner32_utt4_w0_u0",
+              "spinner12_utt10_w0_u1",
+              "spinner24_utt3_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row7_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner14_utt1_w1_u0",
+              "spinner47_utt6_w0_u0",
+              "spinner49_utt7_w1_u0",
+              "spinner16_utt2_w0_u1",
+              "spinner12_utt10_w0_u0",
+              "spinner24_utt3_w0_u0",
+              "spinner1_utt8_w1_u0",
+              "spinner9_utt9_w0_u1",
+              "spinner41_utt5_w0_u1",
+              "spinner32_utt4_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt4_w1_u0",
+              "spinner12_utt10_w0_u0",
+              "spinner9_utt9_w0_u1",
+              "spinner16_utt2_w0_u1",
+              "spinner47_utt6_w0_u0",
+              "spinner41_utt5_w0_u1",
+              "spinner49_utt7_w1_u0",
+              "spinner1_utt8_w1_u0",
+              "spinner24_utt3_w0_u0",
+              "spinner14_utt1_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row7_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt7_w0_u1",
+              "spinner12_utt10_w1_u0",
+              "spinner32_utt4_w0_u1",
+              "spinner16_utt2_w0_u0",
+              "spinner9_utt9_w0_u0",
+              "spinner14_utt1_w0_u1",
+              "spinner24_utt3_w1_u0",
+              "spinner1_utt8_w0_u1",
+              "spinner47_utt6_w1_u0",
+              "spinner41_utt5_w0_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt5_w0_u0",
+              "spinner9_utt9_w0_u0",
+              "spinner1_utt8_w0_u1",
+              "spinner12_utt10_w1_u0",
+              "spinner16_utt2_w0_u0",
+              "spinner14_utt1_w0_u1",
+              "spinner49_utt7_w0_u1",
+              "spinner24_utt3_w1_u0",
+              "spinner32_utt4_w0_u1",
+              "spinner47_utt6_w1_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row8_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt1_w0_u1",
+              "spinner1_utt9_w0_u0",
+              "spinner14_utt2_w0_u0",
+              "spinner41_utt6_w1_u0",
+              "spinner32_utt5_w0_u0",
+              "spinner9_utt10_w1_u0",
+              "spinner16_utt3_w1_u0",
+              "spinner47_utt7_w0_u1",
+              "spinner49_utt8_w0_u0",
+              "spinner24_utt4_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt1_w0_u1",
+              "spinner9_utt10_w1_u0",
+              "spinner32_utt5_w0_u0",
+              "spinner47_utt7_w0_u1",
+              "spinner14_utt2_w0_u0",
+              "spinner49_utt8_w0_u0",
+              "spinner24_utt4_w0_u1",
+              "spinner16_utt3_w1_u0",
+              "spinner41_utt6_w1_u0",
+              "spinner1_utt9_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row8_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt5_w1_u0",
+              "spinner49_utt8_w1_u0",
+              "spinner16_utt3_w0_u1",
+              "spinner12_utt1_w0_u0",
+              "spinner1_utt9_w1_u0",
+              "spinner47_utt7_w0_u0",
+              "spinner14_utt2_w1_u0",
+              "spinner24_utt4_w0_u0",
+              "spinner41_utt6_w0_u1",
+              "spinner9_utt10_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner49_utt8_w1_u0",
+              "spinner24_utt4_w0_u0",
+              "spinner41_utt6_w0_u1",
+              "spinner16_utt3_w0_u1",
+              "spinner1_utt9_w1_u0",
+              "spinner14_utt2_w1_u0",
+              "spinner12_utt1_w0_u0",
+              "spinner47_utt7_w0_u0",
+              "spinner32_utt5_w1_u0",
+              "spinner9_utt10_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row8_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner47_utt7_w1_u0",
+              "spinner12_utt1_w1_u0",
+              "spinner16_utt3_w0_u0",
+              "spinner24_utt4_w1_u0",
+              "spinner32_utt5_w0_u1",
+              "spinner41_utt6_w0_u0",
+              "spinner9_utt10_w0_u0",
+              "spinner14_utt2_w0_u1",
+              "spinner1_utt9_w0_u1",
+              "spinner49_utt8_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt6_w0_u0",
+              "spinner24_utt4_w1_u0",
+              "spinner1_utt9_w0_u1",
+              "spinner12_utt1_w1_u0",
+              "spinner47_utt7_w1_u0",
+              "spinner14_utt2_w0_u1",
+              "spinner16_utt3_w0_u0",
+              "spinner49_utt8_w0_u1",
+              "spinner9_utt10_w0_u0",
+              "spinner32_utt5_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row9_cue0",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner41_utt7_w1_u0",
+              "spinner1_utt10_w0_u0",
+              "spinner47_utt8_w0_u1",
+              "spinner14_utt3_w0_u0",
+              "spinner9_utt1_w1_u0",
+              "spinner12_utt2_w0_u1",
+              "spinner32_utt6_w0_u0",
+              "spinner49_utt9_w0_u0",
+              "spinner16_utt4_w1_u0",
+              "spinner24_utt5_w0_u1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt2_w0_u1",
+              "spinner14_utt3_w0_u0",
+              "spinner9_utt1_w1_u0",
+              "spinner32_utt6_w0_u0",
+              "spinner47_utt8_w0_u1",
+              "spinner1_utt10_w0_u0",
+              "spinner41_utt7_w1_u0",
+              "spinner49_utt9_w0_u0",
+              "spinner16_utt4_w1_u0",
+              "spinner24_utt5_w0_u1"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row9_cue1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner16_utt4_w0_u1",
+              "spinner12_utt2_w0_u0",
+              "spinner1_utt10_w1_u0",
+              "spinner14_utt3_w1_u0",
+              "spinner32_utt6_w1_u0",
+              "spinner24_utt5_w0_u0",
+              "spinner41_utt7_w0_u1",
+              "spinner47_utt8_w0_u0",
+              "spinner9_utt1_w0_u1",
+              "spinner49_utt9_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner12_utt2_w0_u0",
+              "spinner16_utt4_w0_u1",
+              "spinner14_utt3_w1_u0",
+              "spinner49_utt9_w1_u0",
+              "spinner1_utt10_w1_u0",
+              "spinner47_utt8_w0_u0",
+              "spinner32_utt6_w1_u0",
+              "spinner41_utt7_w0_u1",
+              "spinner9_utt1_w0_u1",
+              "spinner24_utt5_w0_u0"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "row9_cue2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner1_utt10_w0_u1",
+              "spinner49_utt9_w0_u1",
+              "spinner47_utt8_w1_u0",
+              "spinner32_utt6_w0_u1",
+              "spinner12_utt2_w1_u0",
+              "spinner16_utt4_w0_u0",
+              "spinner41_utt7_w0_u0",
+              "spinner9_utt1_w0_u0",
+              "spinner14_utt3_w0_u1",
+              "spinner24_utt5_w1_u0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "spinner32_utt6_w0_u1",
+              "spinner24_utt5_w1_u0",
+              "spinner9_utt1_w0_u0",
+              "spinner12_utt2_w1_u0",
+              "spinner41_utt7_w0_u0",
+              "spinner49_utt9_w0_u1",
+              "spinner47_utt8_w1_u0",
+              "spinner14_utt3_w0_u1",
+              "spinner16_utt4_w0_u0",
+              "spinner1_utt10_w0_u1"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

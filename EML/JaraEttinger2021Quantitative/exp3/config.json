@@ -1,0 +1,1045 @@
+{
+  "experimentName": "Quantitative mental state attributions in language understanding (Exp 3)",
+  "paper-title": "Quantitative mental state attributions in language understanding",
+  "citation": "Jara-Ettinger, J., & Rubio-Fernandez, P. (2021). Quantitative mental state attributions in language understanding. Science Advances, 7(47). https://doi.org/10.1126/sciadv.abj0970",
+  "year": 2021,
+  "alias": "jaraettinger2021quantitative-exp3",
+  "description": "You will play a coordination game with a virtual collaborator. Both of you have access to a visual display of 4 objects. Your collaborator will sometimes not be able to see the object enclosed in a black square. In a series of 12 trials, the virtual collaborator will give you instructions to select one of the four objects. Your task is to follow the instructions and also judge how certain you are that your collaborator knows about the object in the box.",
+  "paperDOI": "https://doi.org/10.1126/sciadv.abj0970",
+  "taskType": [
+    "Social Cognition",
+    "Theory of Mind",
+    "Pragmatics"
+  ],
+  "responseType": [
+    "multi-choice",
+    "single-slider"
+  ],
+  "authors": [
+    "Julian Jara-Ettinger",
+    "Paula Rubio-Fernandez"
+  ],
+  "stimuli_count": 48,
+  "experimentFlow": [
+    {
+      "condition": "List_1",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_C_3",
+              "trial_COL_C_2",
+              "trial_CAT_D_4",
+              "trial_COL_B_1",
+              "trial_SIZE_C_1",
+              "trial_CAT_A_1",
+              "trial_SIZE_D_2",
+              "trial_SIZE_A_3",
+              "trial_COL_A_4",
+              "trial_COL_D_3",
+              "trial_CAT_B_2",
+              "trial_SIZE_B_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_A_3",
+              "trial_CAT_D_4",
+              "trial_COL_B_1",
+              "trial_CAT_C_3",
+              "trial_SIZE_C_1",
+              "trial_COL_D_3",
+              "trial_SIZE_B_4",
+              "trial_COL_C_2",
+              "trial_COL_A_4",
+              "trial_CAT_B_2",
+              "trial_CAT_A_1",
+              "trial_SIZE_D_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_2",
+              "trial_COL_B_1",
+              "trial_COL_C_2",
+              "trial_CAT_A_1",
+              "trial_COL_A_4",
+              "trial_SIZE_A_3",
+              "trial_SIZE_B_4",
+              "trial_CAT_D_4",
+              "trial_COL_D_3",
+              "trial_CAT_C_3",
+              "trial_SIZE_C_1",
+              "trial_SIZE_D_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_D_2",
+              "trial_COL_B_1",
+              "trial_COL_A_4",
+              "trial_COL_C_2",
+              "trial_CAT_B_2",
+              "trial_CAT_D_4",
+              "trial_COL_D_3",
+              "trial_SIZE_A_3",
+              "trial_SIZE_C_1",
+              "trial_SIZE_B_4",
+              "trial_CAT_C_3",
+              "trial_CAT_A_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_B_4",
+              "trial_COL_C_2",
+              "trial_CAT_A_1",
+              "trial_SIZE_C_1",
+              "trial_CAT_C_3",
+              "trial_SIZE_D_2",
+              "trial_COL_D_3",
+              "trial_COL_B_1",
+              "trial_COL_A_4",
+              "trial_CAT_B_2",
+              "trial_SIZE_A_3",
+              "trial_CAT_D_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_3",
+              "trial_CAT_D_4",
+              "trial_COL_B_1",
+              "trial_SIZE_A_3",
+              "trial_CAT_C_3",
+              "trial_SIZE_B_4",
+              "trial_COL_A_4",
+              "trial_CAT_B_2",
+              "trial_SIZE_D_2",
+              "trial_SIZE_C_1",
+              "trial_COL_C_2",
+              "trial_CAT_A_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_3",
+              "trial_CAT_C_3",
+              "trial_CAT_B_2",
+              "trial_COL_A_4",
+              "trial_SIZE_D_2",
+              "trial_SIZE_A_3",
+              "trial_CAT_D_4",
+              "trial_CAT_A_1",
+              "trial_SIZE_B_4",
+              "trial_COL_B_1",
+              "trial_COL_C_2",
+              "trial_SIZE_C_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_2",
+              "trial_COL_C_2",
+              "trial_SIZE_D_2",
+              "trial_SIZE_C_1",
+              "trial_SIZE_A_3",
+              "trial_CAT_A_1",
+              "trial_CAT_C_3",
+              "trial_COL_A_4",
+              "trial_CAT_D_4",
+              "trial_SIZE_B_4",
+              "trial_COL_D_3",
+              "trial_COL_B_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_C_3",
+              "trial_SIZE_B_4",
+              "trial_CAT_A_1",
+              "trial_SIZE_A_3",
+              "trial_CAT_D_4",
+              "trial_SIZE_C_1",
+              "trial_COL_B_1",
+              "trial_SIZE_D_2",
+              "trial_COL_D_3",
+              "trial_CAT_B_2",
+              "trial_COL_A_4",
+              "trial_COL_C_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_B_1",
+              "trial_SIZE_D_2",
+              "trial_CAT_B_2",
+              "trial_SIZE_C_1",
+              "trial_CAT_D_4",
+              "trial_CAT_A_1",
+              "trial_COL_D_3",
+              "trial_SIZE_A_3",
+              "trial_SIZE_B_4",
+              "trial_COL_C_2",
+              "trial_COL_A_4",
+              "trial_CAT_C_3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "List_2",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_C_2",
+              "trial_COL_C_1",
+              "trial_COL_A_3",
+              "trial_CAT_C_4",
+              "trial_COL_D_2",
+              "trial_CAT_A_2",
+              "trial_SIZE_B_1",
+              "trial_SIZE_A_4",
+              "trial_CAT_B_3",
+              "trial_CAT_D_1",
+              "trial_SIZE_D_3",
+              "trial_COL_B_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_2",
+              "trial_COL_B_4",
+              "trial_SIZE_C_2",
+              "trial_COL_A_3",
+              "trial_SIZE_A_4",
+              "trial_CAT_B_3",
+              "trial_CAT_A_2",
+              "trial_CAT_C_4",
+              "trial_COL_C_1",
+              "trial_CAT_D_1",
+              "trial_SIZE_D_3",
+              "trial_SIZE_B_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_D_1",
+              "trial_COL_B_4",
+              "trial_CAT_C_4",
+              "trial_CAT_A_2",
+              "trial_COL_C_1",
+              "trial_COL_D_2",
+              "trial_COL_A_3",
+              "trial_CAT_B_3",
+              "trial_SIZE_B_1",
+              "trial_SIZE_C_2",
+              "trial_SIZE_D_3",
+              "trial_SIZE_A_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_A_2",
+              "trial_SIZE_D_3",
+              "trial_COL_D_2",
+              "trial_SIZE_A_4",
+              "trial_CAT_B_3",
+              "trial_SIZE_C_2",
+              "trial_COL_A_3",
+              "trial_COL_B_4",
+              "trial_COL_C_1",
+              "trial_CAT_D_1",
+              "trial_CAT_C_4",
+              "trial_SIZE_B_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_A_2",
+              "trial_CAT_C_4",
+              "trial_SIZE_B_1",
+              "trial_COL_A_3",
+              "trial_CAT_B_3",
+              "trial_COL_B_4",
+              "trial_SIZE_D_3",
+              "trial_COL_C_1",
+              "trial_SIZE_A_4",
+              "trial_CAT_D_1",
+              "trial_COL_D_2",
+              "trial_SIZE_C_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_C_2",
+              "trial_CAT_C_4",
+              "trial_SIZE_B_1",
+              "trial_COL_C_1",
+              "trial_CAT_B_3",
+              "trial_COL_D_2",
+              "trial_SIZE_A_4",
+              "trial_SIZE_D_3",
+              "trial_COL_B_4",
+              "trial_CAT_A_2",
+              "trial_CAT_D_1",
+              "trial_COL_A_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_D_1",
+              "trial_SIZE_D_3",
+              "trial_CAT_A_2",
+              "trial_SIZE_A_4",
+              "trial_COL_C_1",
+              "trial_COL_D_2",
+              "trial_CAT_B_3",
+              "trial_COL_B_4",
+              "trial_SIZE_B_1",
+              "trial_CAT_C_4",
+              "trial_COL_A_3",
+              "trial_SIZE_C_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_B_4",
+              "trial_COL_C_1",
+              "trial_SIZE_C_2",
+              "trial_COL_A_3",
+              "trial_CAT_B_3",
+              "trial_SIZE_B_1",
+              "trial_CAT_D_1",
+              "trial_CAT_C_4",
+              "trial_SIZE_A_4",
+              "trial_COL_D_2",
+              "trial_CAT_A_2",
+              "trial_SIZE_D_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_3",
+              "trial_COL_A_3",
+              "trial_COL_B_4",
+              "trial_SIZE_D_3",
+              "trial_COL_C_1",
+              "trial_CAT_C_4",
+              "trial_CAT_D_1",
+              "trial_SIZE_C_2",
+              "trial_SIZE_A_4",
+              "trial_CAT_A_2",
+              "trial_SIZE_B_1",
+              "trial_COL_D_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_C_1",
+              "trial_CAT_B_3",
+              "trial_CAT_C_4",
+              "trial_COL_B_4",
+              "trial_SIZE_B_1",
+              "trial_SIZE_A_4",
+              "trial_SIZE_C_2",
+              "trial_SIZE_D_3",
+              "trial_COL_A_3",
+              "trial_COL_D_2",
+              "trial_CAT_D_1",
+              "trial_CAT_A_2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "List_3",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_1",
+              "trial_SIZE_C_3",
+              "trial_SIZE_B_2",
+              "trial_COL_B_3",
+              "trial_CAT_D_2",
+              "trial_CAT_B_4",
+              "trial_SIZE_A_1",
+              "trial_CAT_A_3",
+              "trial_CAT_C_1",
+              "trial_COL_A_2",
+              "trial_SIZE_D_4",
+              "trial_COL_C_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_A_1",
+              "trial_CAT_D_2",
+              "trial_CAT_A_3",
+              "trial_COL_B_3",
+              "trial_CAT_B_4",
+              "trial_COL_C_4",
+              "trial_SIZE_D_4",
+              "trial_CAT_C_1",
+              "trial_COL_A_2",
+              "trial_COL_D_1",
+              "trial_SIZE_B_2",
+              "trial_SIZE_C_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_A_3",
+              "trial_COL_D_1",
+              "trial_SIZE_D_4",
+              "trial_COL_A_2",
+              "trial_SIZE_C_3",
+              "trial_SIZE_A_1",
+              "trial_CAT_D_2",
+              "trial_COL_B_3",
+              "trial_COL_C_4",
+              "trial_SIZE_B_2",
+              "trial_CAT_C_1",
+              "trial_CAT_B_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_1",
+              "trial_COL_B_3",
+              "trial_COL_A_2",
+              "trial_CAT_B_4",
+              "trial_SIZE_C_3",
+              "trial_CAT_D_2",
+              "trial_COL_C_4",
+              "trial_CAT_C_1",
+              "trial_SIZE_A_1",
+              "trial_SIZE_D_4",
+              "trial_CAT_A_3",
+              "trial_SIZE_B_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_C_1",
+              "trial_CAT_B_4",
+              "trial_COL_D_1",
+              "trial_SIZE_A_1",
+              "trial_CAT_D_2",
+              "trial_COL_B_3",
+              "trial_CAT_A_3",
+              "trial_SIZE_C_3",
+              "trial_COL_A_2",
+              "trial_COL_C_4",
+              "trial_SIZE_D_4",
+              "trial_SIZE_B_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_C_1",
+              "trial_SIZE_B_2",
+              "trial_COL_A_2",
+              "trial_SIZE_D_4",
+              "trial_CAT_B_4",
+              "trial_SIZE_C_3",
+              "trial_CAT_D_2",
+              "trial_COL_C_4",
+              "trial_CAT_A_3",
+              "trial_COL_D_1",
+              "trial_COL_B_3",
+              "trial_SIZE_A_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_4",
+              "trial_CAT_D_2",
+              "trial_CAT_A_3",
+              "trial_COL_D_1",
+              "trial_COL_B_3",
+              "trial_SIZE_C_3",
+              "trial_COL_C_4",
+              "trial_SIZE_D_4",
+              "trial_SIZE_B_2",
+              "trial_CAT_C_1",
+              "trial_SIZE_A_1",
+              "trial_COL_A_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_A_2",
+              "trial_SIZE_C_3",
+              "trial_CAT_B_4",
+              "trial_SIZE_B_2",
+              "trial_SIZE_A_1",
+              "trial_CAT_C_1",
+              "trial_COL_B_3",
+              "trial_SIZE_D_4",
+              "trial_COL_D_1",
+              "trial_COL_C_4",
+              "trial_CAT_D_2",
+              "trial_CAT_A_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_A_1",
+              "trial_COL_A_2",
+              "trial_SIZE_D_4",
+              "trial_CAT_A_3",
+              "trial_COL_C_4",
+              "trial_COL_D_1",
+              "trial_CAT_B_4",
+              "trial_SIZE_B_2",
+              "trial_CAT_D_2",
+              "trial_COL_B_3",
+              "trial_SIZE_C_3",
+              "trial_CAT_C_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_B_3",
+              "trial_COL_C_4",
+              "trial_CAT_D_2",
+              "trial_SIZE_A_1",
+              "trial_COL_A_2",
+              "trial_CAT_B_4",
+              "trial_SIZE_B_2",
+              "trial_SIZE_D_4",
+              "trial_COL_D_1",
+              "trial_CAT_C_1",
+              "trial_SIZE_C_3",
+              "trial_CAT_A_3"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "List_4",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_A_2",
+              "trial_COL_C_3",
+              "trial_COL_B_2",
+              "trial_CAT_A_4",
+              "trial_CAT_D_3",
+              "trial_COL_A_1",
+              "trial_COL_D_4",
+              "trial_SIZE_B_3",
+              "trial_SIZE_D_1",
+              "trial_CAT_C_2",
+              "trial_SIZE_C_4",
+              "trial_CAT_B_1"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_D_4",
+              "trial_SIZE_D_1",
+              "trial_COL_B_2",
+              "trial_COL_C_3",
+              "trial_CAT_D_3",
+              "trial_CAT_B_1",
+              "trial_SIZE_B_3",
+              "trial_SIZE_C_4",
+              "trial_SIZE_A_2",
+              "trial_COL_A_1",
+              "trial_CAT_A_4",
+              "trial_CAT_C_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_B_2",
+              "trial_CAT_A_4",
+              "trial_CAT_C_2",
+              "trial_SIZE_C_4",
+              "trial_COL_A_1",
+              "trial_CAT_D_3",
+              "trial_SIZE_A_2",
+              "trial_SIZE_D_1",
+              "trial_COL_D_4",
+              "trial_CAT_B_1",
+              "trial_COL_C_3",
+              "trial_SIZE_B_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_A_4",
+              "trial_CAT_C_2",
+              "trial_COL_D_4",
+              "trial_SIZE_D_1",
+              "trial_COL_C_3",
+              "trial_CAT_B_1",
+              "trial_COL_A_1",
+              "trial_SIZE_B_3",
+              "trial_SIZE_C_4",
+              "trial_COL_B_2",
+              "trial_CAT_D_3",
+              "trial_SIZE_A_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_1",
+              "trial_COL_D_4",
+              "trial_COL_C_3",
+              "trial_SIZE_A_2",
+              "trial_SIZE_C_4",
+              "trial_CAT_C_2",
+              "trial_SIZE_D_1",
+              "trial_CAT_A_4",
+              "trial_SIZE_B_3",
+              "trial_CAT_D_3",
+              "trial_COL_A_1",
+              "trial_COL_B_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_D_1",
+              "trial_COL_C_3",
+              "trial_COL_A_1",
+              "trial_SIZE_C_4",
+              "trial_CAT_A_4",
+              "trial_CAT_D_3",
+              "trial_CAT_C_2",
+              "trial_CAT_B_1",
+              "trial_COL_D_4",
+              "trial_SIZE_B_3",
+              "trial_SIZE_A_2",
+              "trial_COL_B_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_SIZE_A_2",
+              "trial_CAT_C_2",
+              "trial_CAT_B_1",
+              "trial_CAT_A_4",
+              "trial_SIZE_B_3",
+              "trial_SIZE_C_4",
+              "trial_SIZE_D_1",
+              "trial_CAT_D_3",
+              "trial_COL_A_1",
+              "trial_COL_D_4",
+              "trial_COL_B_2",
+              "trial_COL_C_3"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_D_3",
+              "trial_SIZE_B_3",
+              "trial_SIZE_C_4",
+              "trial_CAT_C_2",
+              "trial_CAT_A_4",
+              "trial_COL_A_1",
+              "trial_COL_C_3",
+              "trial_SIZE_A_2",
+              "trial_CAT_B_1",
+              "trial_SIZE_D_1",
+              "trial_COL_B_2",
+              "trial_COL_D_4"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_CAT_B_1",
+              "trial_SIZE_B_3",
+              "trial_COL_B_2",
+              "trial_SIZE_D_1",
+              "trial_SIZE_C_4",
+              "trial_COL_A_1",
+              "trial_COL_D_4",
+              "trial_CAT_D_3",
+              "trial_SIZE_A_2",
+              "trial_COL_C_3",
+              "trial_CAT_A_4",
+              "trial_CAT_C_2"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "comprehension_quiz_01"
+            ],
+            [
+              "trial_COL_C_3",
+              "trial_COL_D_4",
+              "trial_COL_A_1",
+              "trial_SIZE_B_3",
+              "trial_CAT_B_1",
+              "trial_SIZE_C_4",
+              "trial_SIZE_D_1",
+              "trial_SIZE_A_2",
+              "trial_CAT_D_3",
+              "trial_CAT_A_4",
+              "trial_COL_B_2",
+              "trial_CAT_C_2"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

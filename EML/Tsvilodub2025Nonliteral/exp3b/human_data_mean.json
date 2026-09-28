@@ -1,0 +1,98 @@
+{
+  "participants_info": {
+    "count": 30,
+    "gender": {},
+    "age": 0
+  },
+  "judgment_count": 450,
+  "trial_0001": {
+    "affect_prob": 33.12
+  },
+  "trial_0002": {
+    "affect_prob": 31.83
+  },
+  "trial_0003": {
+    "affect_prob": 81.83
+  },
+  "trial_0004": {
+    "affect_prob": 77.86
+  },
+  "trial_0005": {
+    "affect_prob": 91.53
+  },
+  "trial_0006": {
+    "affect_prob": 86.92
+  },
+  "trial_0007": {
+    "affect_prob": 93.82
+  },
+  "trial_0008": {
+    "affect_prob": 96.96
+  },
+  "trial_0009": {
+    "affect_prob": 98.83
+  },
+  "trial_0010": {
+    "affect_prob": 98.47
+  },
+  "trial_0021": {
+    "affect_prob": 4.44
+  },
+  "trial_0022": {
+    "affect_prob": 3.27
+  },
+  "trial_0023": {
+    "affect_prob": 41.15
+  },
+  "trial_0024": {
+    "affect_prob": 31.5
+  },
+  "trial_0025": {
+    "affect_prob": 58.12
+  },
+  "trial_0026": {
+    "affect_prob": 61.61
+  },
+  "trial_0027": {
+    "affect_prob": 88.29
+  },
+  "trial_0028": {
+    "affect_prob": 91.43
+  },
+  "trial_0029": {
+    "affect_prob": 98.93
+  },
+  "trial_0030": {
+    "affect_prob": 94.33
+  },
+  "trial_0011": {
+    "affect_prob": 23.46
+  },
+  "trial_0012": {
+    "affect_prob": 25.83
+  },
+  "trial_0013": {
+    "affect_prob": 68.86
+  },
+  "trial_0014": {
+    "affect_prob": 69.11
+  },
+  "trial_0015": {
+    "affect_prob": 84.12
+  },
+  "trial_0016": {
+    "affect_prob": 83.19
+  },
+  "trial_0017": {
+    "affect_prob": 94.84
+  },
+  "trial_0018": {
+    "affect_prob": 93.06
+  },
+  "trial_0019": {
+    "affect_prob": 98.93
+  },
+  "trial_0020": {
+    "affect_prob": 99.17
+  }
+}

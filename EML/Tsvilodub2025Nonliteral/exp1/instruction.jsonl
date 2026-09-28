@@ -1,0 +1,2 @@
+{"id": "instruction_01", "type": "instruction", "text": "<p>In each scenario, two friends are talking about the price of an item. Please read the scenarios carefully. For each scenario, you will provide the probability that the item has various prices. Provide the estimates as a percentage from 0% to 100%, where 0% means \"impossible\" and 100% means \"extremely likely\".</p>"}
+{"id": "instruction_02", "type": "instruction", "text": "<p>Click continue to begin the experiment.</p>"}

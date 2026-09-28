@@ -1,0 +1,119 @@
+{
+  "participants_info": {
+    "count": 122,
+    "age": 36.08,
+    "notes": "The processed CSV filters out excluded participants and already canonicalizes the original stimulus rotations. Included participants per condition: Reliable=31, GradedReliable=31, GradedUnreliable=30, Unreliable=30.",
+    "gender": {
+      "not_reported": 122
+    }
+  },
+  "judgment_count": 2071,
+  "trial_reliable_0": {
+    "ref_x": 90.931195,
+    "ref_y": 91.934643,
+    "redundancy": 25.306424
+  },
+  "trial_reliable_1": {
+    "ref_x": 10.129017,
+    "ref_y": 11.082342,
+    "redundancy": 25.42533
+  },
+  "trial_reliable_2": {
+    "ref_x": 93.218187,
+    "ref_y": 93.790511,
+    "redundancy": 26.456872
+  },
+  "trial_reliable_3": {
+    "ref_x": 8.775989,
+    "ref_y": 9.156722,
+    "redundancy": 34.973001
+  },
+  "trial_reliable_4": {
+    "ref_x": 65.314179,
+    "ref_y": 33.957412,
+    "redundancy": 27.479335,
+    "cg_x": 35.81271,
+    "cg_y": 65.209986
+  },
+  "trial_graded_reliable_0": {
+    "ref_x": 90.461423,
+    "ref_y": 91.328476,
+    "redundancy": 26.595699
+  },
+  "trial_graded_reliable_1": {
+    "ref_x": 7.596451,
+    "ref_y": 8.307616,
+    "redundancy": 47.967461
+  },
+  "trial_graded_reliable_2": {
+    "ref_x": 91.311528,
+    "ref_y": 92.178384,
+    "redundancy": 32.784665
+  },
+  "trial_graded_reliable_3": {
+    "ref_x": 9.885633,
+    "ref_y": 7.804569,
+    "redundancy": 44.660215
+  },
+  "trial_graded_reliable_4": {
+    "ref_x": 60.82216,
+    "ref_y": 39.039491,
+    "redundancy": 38.698644,
+    "cg_x": 40.392249,
+    "cg_y": 59.625489
+  },
+  "trial_graded_unreliable_0": {
+    "ref_x": 87.705834,
+    "ref_y": 81.828214,
+    "redundancy": 42.877874
+  },
+  "trial_graded_unreliable_1": {
+    "ref_x": 9.8394,
+    "ref_y": 9.409296,
+    "redundancy": 37.144541
+  },
+  "trial_graded_unreliable_2": {
+    "ref_x": 93.172043,
+    "ref_y": 91.809432,
+    "redundancy": 48.653429
+  },
+  "trial_graded_unreliable_3": {
+    "ref_x": 13.907499,
+    "ref_y": 8.99711,
+    "redundancy": 43.591207
+  },
+  "trial_graded_unreliable_4": {
+    "ref_x": 41.827957,
+    "ref_y": 58.674094,
+    "redundancy": 37.457874,
+    "cg_x": 58.996675,
+    "cg_y": 43.710369
+  },
+  "trial_unreliable_0": {
+    "ref_x": 88.870468,
+    "ref_y": 84.264238,
+    "redundancy": 42.662899
+  },
+  "trial_unreliable_1": {
+    "ref_x": 10.699644,
+    "ref_y": 11.111626,
+    "redundancy": 48.607343
+  },
+  "trial_unreliable_2": {
+    "ref_x": 89.926929,
+    "ref_y": 91.020536,
+    "redundancy": 48.418454
+  },
+  "trial_unreliable_3": {
+    "ref_x": 14.355682,
+    "ref_y": 12.402695,
+    "redundancy": 46.207343
+  },
+  "trial_unreliable_4": {
+    "ref_x": 50.106725,
+    "ref_y": 46.989825,
+    "redundancy": 41.251787,
+    "cg_x": 50.270327,
+    "cg_y": 49.568631
+  }
+}

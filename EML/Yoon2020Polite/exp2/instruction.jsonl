@@ -1,0 +1,4 @@
+{"id": "instruction_01", "type": "instruction", "text": "<p>In this experiment, you will read hypothetical interactions between people. Your job is to predict what people would say in situations described in the scenarios.</p>"}
+{"id": "test_trial_01", "type": "test_trial", "stimuli_id": "practice_01"}
+{"id": "test_trial_02", "type": "test_trial", "stimuli_id": "practice_02"}
+{"id": "test_trial_03", "type": "test_trial", "stimuli_id": "practice_03"}

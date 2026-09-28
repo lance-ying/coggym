@@ -1,0 +1,263 @@
+{
+  "version": "public-10-2026-09-28",
+  "description": "CogGym open evaluation subset: 10 studies spanning all benchmark topics and modalities. Paths are relative to EML/.",
+  "sourceAuditExperimentCount": 259,
+  "experimentCount": 23,
+  "studyCount": 10,
+  "experiments": [
+    {
+      "slug": "bass2022partial-exp1",
+      "topic": "Physical reasoning / physical inference",
+      "authorCoverage": "Internal",
+      "historicalIssueRecheck": false,
+      "auditId": "bass2022partial-exp1",
+      "path": "Bass2022Partial/exp1",
+      "modality": "video",
+      "selectedTrials": 75,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "gerstenberg2018what-exp1a",
+      "topic": "Causal / counterfactual reasoning",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": true,
+      "auditId": "gerstenberg2018what-exp1a",
+      "path": "Gerstenberg2018What/exp1a",
+      "modality": "video",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "gerstenberg2018what-exp1b",
+      "topic": "Causal / counterfactual reasoning",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "gerstenberg2018what-exp1b",
+      "path": "Gerstenberg2018What/exp1b",
+      "modality": "video",
+      "selectedTrials": 40,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "jaraettinger2021quantitative-exp1",
+      "topic": "Theory of mind / social inference",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "jaraettinger2021quantitative-exp1",
+      "path": "JaraEttinger2021Quantitative/exp1",
+      "modality": "image",
+      "selectedTrials": 28,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "jaraettinger2021quantitative-exp2",
+      "topic": "Theory of mind / social inference",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "jaraettinger2021quantitative-exp2",
+      "path": "JaraEttinger2021Quantitative/exp2",
+      "modality": "image",
+      "selectedTrials": 20,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "jaraettinger2021quantitative-exp3",
+      "topic": "Theory of mind / social inference",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "jaraettinger2021quantitative-exp3",
+      "path": "JaraEttinger2021Quantitative/exp3",
+      "modality": "image",
+      "selectedTrials": 48,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "ong2015affective-exp1",
+      "topic": "Emotion attribution",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "ong2015affective-exp1",
+      "path": "Ong2015Affective/exp1",
+      "modality": "image",
+      "selectedTrials": 50,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "ong2015affective-exp3",
+      "topic": "Emotion attribution",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "ong2015affective-exp3",
+      "path": "Ong2015Affective/exp3",
+      "modality": "image",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "ong2015affective-exp4",
+      "topic": "Emotion attribution",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "ong2015affective-exp4",
+      "path": "Ong2015Affective/exp4",
+      "modality": "image",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "radkani2025what-exp1",
+      "topic": "Moral / responsibility judgments",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "radkani2025what-exp1",
+      "path": "Radkani2025What/exp1",
+      "modality": "text",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "radkani2025what-exp2",
+      "topic": "Moral / responsibility judgments",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "radkani2025what-exp2",
+      "path": "Radkani2025What/exp2",
+      "modality": "text",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "radkani2025what-exp3",
+      "topic": "Moral / responsibility judgments",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "radkani2025what-exp3",
+      "path": "Radkani2025What/exp3",
+      "modality": "text",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "radkani2025what-exp4",
+      "topic": "Moral / responsibility judgments",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "radkani2025what-exp4",
+      "path": "Radkani2025What/exp4",
+      "modality": "text",
+      "selectedTrials": 18,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "tsvilodub2025nonliteral-exp1",
+      "topic": "Language / pragmatics",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "tsvilodub2025nonliteral-exp1",
+      "path": "Tsvilodub2025Nonliteral/exp1",
+      "modality": "text",
+      "selectedTrials": 30,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "tsvilodub2025nonliteral-exp3b",
+      "topic": "Language / pragmatics",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "tsvilodub2025nonliteral-exp3b",
+      "path": "Tsvilodub2025Nonliteral/exp3b",
+      "modality": "text",
+      "selectedTrials": 30,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "ying2024grounding-exp1",
+      "topic": "Theory of mind / social inference",
+      "authorCoverage": "Internal",
+      "historicalIssueRecheck": false,
+      "auditId": "ying2024grounding-exp1",
+      "path": "Ying2024Grounding/exp1",
+      "modality": "video",
+      "selectedTrials": 38,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "fu2025hierarchical-exp1",
+      "topic": "Perception",
+      "authorCoverage": "Internal",
+      "historicalIssueRecheck": false,
+      "auditId": "fu2025hierarchical-exp1",
+      "path": "Fu2025Hierarchical/exp1",
+      "modality": "video",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "fu2025hierarchical-exp2",
+      "topic": "Perception",
+      "authorCoverage": "Internal",
+      "historicalIssueRecheck": false,
+      "auditId": "fu2025hierarchical-exp2",
+      "path": "Fu2025Hierarchical/exp2",
+      "modality": "video",
+      "selectedTrials": 99,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "yoon2020polite-exp1",
+      "topic": "Language / pragmatics",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "yoon2020polite-exp1",
+      "path": "Yoon2020Polite/exp1",
+      "modality": "text",
+      "selectedTrials": 32,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "yoon2020polite-exp2",
+      "topic": "Language / pragmatics",
+      "authorCoverage": "External feedback received",
+      "historicalIssueRecheck": false,
+      "auditId": "yoon2020polite-exp2",
+      "path": "Yoon2020Polite/exp2",
+      "modality": "text",
+      "selectedTrials": 48,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "zhou2023mental-exp1",
+      "topic": "Physical reasoning / physical inference",
+      "authorCoverage": "External feedback + internal",
+      "historicalIssueRecheck": true,
+      "auditId": "zhou2023mental-exp1",
+      "path": "Zhou2023Mental/exp1",
+      "modality": "image",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "zhou2023mental-exp2",
+      "topic": "Physical reasoning / physical inference",
+      "authorCoverage": "External feedback + internal",
+      "historicalIssueRecheck": true,
+      "auditId": "zhou2023mental-exp2",
+      "path": "Zhou2023Mental/exp2",
+      "modality": "image",
+      "selectedTrials": 100,
+      "hasIndividualResponses": true
+    },
+    {
+      "slug": "zhou2023mental-exp3",
+      "topic": "Physical reasoning / physical inference",
+      "authorCoverage": "External feedback + internal",
+      "historicalIssueRecheck": true,
+      "auditId": "zhou2023mental-exp3",
+      "path": "Zhou2023Mental/exp3",
+      "modality": "image",
+      "selectedTrials": 84,
+      "hasIndividualResponses": true
+    }
+  ],
+  "individualResponseExperimentCount": 23
+}

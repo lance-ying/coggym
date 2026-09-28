@@ -1,0 +1,443 @@
+{
+  "participants_info": {
+    "count": 200,
+    "age": 37.79,
+    "notes": "N=200 (50 per list x 4 lists). Paper reports N=200, mean age 37.63.",
+    "gender": {
+      "not_reported": 200
+    }
+  },
+  "judgment_count": 4798,
+  "trial_CAT_A_1": {
+    "referent": {
+      "referent_1": 0.02,
+      "referent_2": 0.98,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 8.74
+  },
+  "trial_CAT_A_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.02,
+      "referent_3": 0.0,
+      "referent_4": 0.98
+    },
+    "knowledge": 9.04
+  },
+  "trial_CAT_A_3": {
+    "referent": {
+      "referent_1": 0.08,
+      "referent_2": 0.0,
+      "referent_3": 0.9,
+      "referent_4": 0.02
+    },
+    "knowledge": 8.58
+  },
+  "trial_CAT_A_4": {
+    "referent": {
+      "referent_1": 0.96,
+      "referent_2": 0.0,
+      "referent_3": 0.02,
+      "referent_4": 0.02
+    },
+    "knowledge": 8.46
+  },
+  "trial_CAT_B_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.84,
+      "referent_3": 0.0,
+      "referent_4": 0.16
+    },
+    "knowledge": 6.12
+  },
+  "trial_CAT_B_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.18,
+      "referent_4": 0.82
+    },
+    "knowledge": 5.24
+  },
+  "trial_CAT_B_3": {
+    "referent": {
+      "referent_1": 0.06,
+      "referent_2": 0.0,
+      "referent_3": 0.94,
+      "referent_4": 0.0
+    },
+    "knowledge": 5.22
+  },
+  "trial_CAT_B_4": {
+    "referent": {
+      "referent_1": 0.7,
+      "referent_2": 0.24,
+      "referent_3": 0.02,
+      "referent_4": 0.04
+    },
+    "knowledge": 6.14
+  },
+  "trial_CAT_C_1": {
+    "referent": {
+      "referent_1": 0.02,
+      "referent_2": 0.86,
+      "referent_3": 0.06,
+      "referent_4": 0.06
+    },
+    "knowledge": 5.74
+  },
+  "trial_CAT_C_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.02,
+      "referent_3": 0.28,
+      "referent_4": 0.7
+    },
+    "knowledge": 5.94
+  },
+  "trial_CAT_C_3": {
+    "referent": {
+      "referent_1": 0.08,
+      "referent_2": 0.02,
+      "referent_3": 0.88,
+      "referent_4": 0.02
+    },
+    "knowledge": 4.16
+  },
+  "trial_CAT_C_4": {
+    "referent": {
+      "referent_1": 0.78,
+      "referent_2": 0.18,
+      "referent_3": 0.04,
+      "referent_4": 0.0
+    },
+    "knowledge": 4.82
+  },
+  "trial_CAT_D_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.54,
+      "referent_3": 0.0,
+      "referent_4": 0.46
+    },
+    "knowledge": 3.1
+  },
+  "trial_CAT_D_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.46,
+      "referent_4": 0.54
+    },
+    "knowledge": 3.5
+  },
+  "trial_CAT_D_3": {
+    "referent": {
+      "referent_1": 0.64,
+      "referent_2": 0.0,
+      "referent_3": 0.36,
+      "referent_4": 0.0
+    },
+    "knowledge": 4.28
+  },
+  "trial_CAT_D_4": {
+    "referent": {
+      "referent_1": 0.44,
+      "referent_2": 0.56,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 4.4
+  },
+  "trial_COL_A_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 1.0,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 8.44
+  },
+  "trial_COL_A_2": {
+    "referent": {
+      "referent_1": 0.06,
+      "referent_2": 0.0,
+      "referent_3": 0.04,
+      "referent_4": 0.9
+    },
+    "knowledge": 8.48
+  },
+  "trial_COL_A_3": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 1.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 9.0
+  },
+  "trial_COL_A_4": {
+    "referent": {
+      "referent_1": 0.98,
+      "referent_2": 0.0,
+      "referent_3": 0.0,
+      "referent_4": 0.02
+    },
+    "knowledge": 9.06
+  },
+  "trial_COL_B_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.9,
+      "referent_3": 0.0,
+      "referent_4": 0.1
+    },
+    "knowledge": 6.24
+  },
+  "trial_COL_B_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.16,
+      "referent_4": 0.84
+    },
+    "knowledge": 6.4
+  },
+  "trial_COL_B_3": {
+    "referent": {
+      "referent_1": 0.1,
+      "referent_2": 0.02,
+      "referent_3": 0.88,
+      "referent_4": 0.0
+    },
+    "knowledge": 6.92
+  },
+  "trial_COL_B_4": {
+    "referent": {
+      "referent_1": 0.96,
+      "referent_2": 0.04,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 6.12
+  },
+  "trial_COL_C_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.94,
+      "referent_3": 0.0,
+      "referent_4": 0.06
+    },
+    "knowledge": 5.86
+  },
+  "trial_COL_C_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.08,
+      "referent_4": 0.92
+    },
+    "knowledge": 4.92
+  },
+  "trial_COL_C_3": {
+    "referent": {
+      "referent_1": 0.16,
+      "referent_2": 0.0,
+      "referent_3": 0.84,
+      "referent_4": 0.0
+    },
+    "knowledge": 5.08
+  },
+  "trial_COL_C_4": {
+    "referent": {
+      "referent_1": 0.8776,
+      "referent_2": 0.0816,
+      "referent_3": 0.0408,
+      "referent_4": 0.0
+    },
+    "knowledge": 5.92
+  },
+  "trial_COL_D_1": {
+    "referent": {
+      "referent_1": 0.06,
+      "referent_2": 0.58,
+      "referent_3": 0.08,
+      "referent_4": 0.28
+    },
+    "knowledge": 3.42
+  },
+  "trial_COL_D_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.58,
+      "referent_4": 0.42
+    },
+    "knowledge": 3.24
+  },
+  "trial_COL_D_3": {
+    "referent": {
+      "referent_1": 0.5,
+      "referent_2": 0.0,
+      "referent_3": 0.5,
+      "referent_4": 0.0
+    },
+    "knowledge": 3.66
+  },
+  "trial_COL_D_4": {
+    "referent": {
+      "referent_1": 0.4,
+      "referent_2": 0.58,
+      "referent_3": 0.02,
+      "referent_4": 0.0
+    },
+    "knowledge": 4.64
+  },
+  "trial_SIZE_A_1": {
+    "referent": {
+      "referent_1": 0.04,
+      "referent_2": 0.9,
+      "referent_3": 0.02,
+      "referent_4": 0.04
+    },
+    "knowledge": 8.54
+  },
+  "trial_SIZE_A_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.0,
+      "referent_4": 1.0
+    },
+    "knowledge": 8.48
+  },
+  "trial_SIZE_A_3": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 1.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 9.02
+  },
+  "trial_SIZE_A_4": {
+    "referent": {
+      "referent_1": 1.0,
+      "referent_2": 0.0,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 9.4
+  },
+  "trial_SIZE_B_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.86,
+      "referent_3": 0.0,
+      "referent_4": 0.14
+    },
+    "knowledge": 6.96
+  },
+  "trial_SIZE_B_2": {
+    "referent": {
+      "referent_1": 0.0816,
+      "referent_2": 0.0,
+      "referent_3": 0.102,
+      "referent_4": 0.8163
+    },
+    "knowledge": 7.26
+  },
+  "trial_SIZE_B_3": {
+    "referent": {
+      "referent_1": 0.3,
+      "referent_2": 0.0,
+      "referent_3": 0.7,
+      "referent_4": 0.0
+    },
+    "knowledge": 6.92
+  },
+  "trial_SIZE_B_4": {
+    "referent": {
+      "referent_1": 0.88,
+      "referent_2": 0.12,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 6.0
+  },
+  "trial_SIZE_C_1": {
+    "referent": {
+      "referent_1": 0.04,
+      "referent_2": 0.76,
+      "referent_3": 0.0,
+      "referent_4": 0.2
+    },
+    "knowledge": 4.22
+  },
+  "trial_SIZE_C_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.08,
+      "referent_4": 0.92
+    },
+    "knowledge": 4.5
+  },
+  "trial_SIZE_C_3": {
+    "referent": {
+      "referent_1": 0.22,
+      "referent_2": 0.02,
+      "referent_3": 0.74,
+      "referent_4": 0.02
+    },
+    "knowledge": 5.48
+  },
+  "trial_SIZE_C_4": {
+    "referent": {
+      "referent_1": 0.7,
+      "referent_2": 0.3,
+      "referent_3": 0.0,
+      "referent_4": 0.0
+    },
+    "knowledge": 4.96
+  },
+  "trial_SIZE_D_1": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.48,
+      "referent_3": 0.0,
+      "referent_4": 0.52
+    },
+    "knowledge": 3.92
+  },
+  "trial_SIZE_D_2": {
+    "referent": {
+      "referent_1": 0.0,
+      "referent_2": 0.0,
+      "referent_3": 0.52,
+      "referent_4": 0.48
+    },
+    "knowledge": 3.96
+  },
+  "trial_SIZE_D_3": {
+    "referent": {
+      "referent_1": 0.82,
+      "referent_2": 0.0,
+      "referent_3": 0.18,
+      "referent_4": 0.0
+    },
+    "knowledge": 5.84
+  },
+  "trial_SIZE_D_4": {
+    "referent": {
+      "referent_1": 0.44,
+      "referent_2": 0.46,
+      "referent_3": 0.04,
+      "referent_4": 0.06
+    },
+    "knowledge": 3.78
+  }
+}

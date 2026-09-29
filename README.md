@@ -39,11 +39,11 @@ noncommercial evaluation and analysis. The agreement prohibits:
 - commercial use; and
 - redistribution or public release of the dataset.
 
-To request access, review and sign
-[`FULL_DATASET_ACCESS_AGREEMENT.md`](FULL_DATASET_ACCESS_AGREEMENT.md), then
-email the signed agreement to [lanceying@mit.edu](mailto:lanceying@mit.edu) with the
-subject **CogGym dataset access request**. Access is granted only after the
-agreement is countersigned.
+To request access, review and electronically sign the
+[`FULL_DATASET_ACCESS_AGREEMENT.md`](FULL_DATASET_ACCESS_AGREEMENT.md) through
+the [CogGym dataset access form](https://coggym.org/dataset-access). After the
+signed request is recorded, the form issues a private, short-lived download
+link.
 
 For commercial access to the full dataset, contact
 [lanceying@mit.edu](mailto:lanceying@mit.edu).

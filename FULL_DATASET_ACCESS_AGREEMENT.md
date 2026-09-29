@@ -1,6 +1,6 @@
 # CogGym 50-Study Dataset Research-Use Agreement
 
-Version 1.0 — September 28, 2026
+Version 1.1 — September 28, 2026
 
 This agreement governs access to the nonpublic 50-study CogGym evaluation
 dataset (the **Dataset**). The Dataset is separate from the 10-study public
@@ -20,8 +20,8 @@ subset in this repository.
 
 The Dataset may be used only for noncommercial academic research involving
 model evaluation, measurement, or scientific analysis. Access is personal to
-the approved requester and named research group members. Any additional user
-must first be approved under this agreement.
+the requester and members of the research group identified in the request. Any
+additional user must separately accept this agreement.
 
 ## 3. Prohibited model training or optimization
 
@@ -88,31 +88,25 @@ the Dataset may be retained for research-record purposes.
 The Dataset is provided as-is, without warranties of any kind. Access does not
 imply endorsement of the requester's work or conclusions.
 
-## 12. Access grant
+## 12. Electronic acceptance and access grant
 
-Submitting this signed agreement is a request, not an automatic grant of
-access. Access begins only after the CogGym dataset provider countersigns the
-agreement and supplies the Dataset or access instructions.
+By submitting the access form, typing a legal name, and affirmatively accepting
+these terms, the requester electronically signs this agreement and represents
+that the information in the request is accurate. In reliance on those
+representations, CogGym grants the requester a personal, revocable,
+non-transferable right to download and use the Dataset under this agreement.
+Access begins when the download link is issued.
 
 ## Requester acceptance
 
-I have read and agree to the terms above.
+I have read and agree to the terms above. I certify that the request is for
+noncommercial academic research, and I intend my typed legal name to serve as
+my electronic signature.
 
 - Name:
 - Signature:
 - Date:
 
-## Principal investigator acceptance, if applicable
-
-- Name:
-- Signature:
-- Date:
-
-## CogGym authorization
-
-- Name:
-- Signature:
-- Date:
-
-Send the signed agreement to [lanceying@mit.edu](mailto:lanceying@mit.edu) with the
-subject **CogGym dataset access request**.
+Submit the signed agreement through the dataset access form at
+[coggym.org/dataset-access](https://coggym.org/dataset-access). A private,
+short-lived download link is issued after the signed request is recorded.

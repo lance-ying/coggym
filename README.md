@@ -54,6 +54,8 @@ For commercial access to the full dataset, contact
   anonymized individual responses.
 - `evaluation/`: prompt construction, model execution, response parsing,
   fixed trial selections, scoring, validation, and analysis.
+- `EML_RENDERER.html`: a standalone, local-only browser renderer for inspecting
+  experiments, instructions, practice items, response controls, and media.
 - `skills/generate-meml/`: an agent skill for reconstructing a paper's
   experiment as source-grounded MEML, compiling it to EML, and preparing the
   result for human review.
@@ -76,6 +78,15 @@ cp -R skills/generate-meml ~/.codex/skills/
 Then invoke `$generate-meml` with the target paper and original materials. New
 artifacts are created outside `EML/` by default so they can be reviewed before
 being added to the public dataset.
+
+## Preview EML in a browser
+
+Open [`EML_RENDERER.html`](EML_RENDERER.html) in Chrome or Edge, then choose the
+repository's `EML` directory, a single study directory, or one experiment
+directory. The renderer reads the selected files locally; it does not upload
+the experiment or record responses. It supports the text, image, video,
+single- and multi-slider, choice, multi-select, instruction, quiz, and practice
+formats used in this public release.
 
 ## Quick start
 

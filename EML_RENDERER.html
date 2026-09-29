@@ -1,0 +1,498 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CogGym EML Renderer</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #667085;
+      --line: #dce2ea;
+      --soft: #f4f7fb;
+      --blue: #2563eb;
+      --blue-soft: #eaf1ff;
+      --warning: #fff7df;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: #eef2f7;
+      font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    header {
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      padding: 22px 28px;
+    }
+    h1 { margin: 0 0 4px; font-size: 24px; }
+    .subtitle, .muted { color: var(--muted); }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: end;
+      padding: 16px 28px;
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+    label.control {
+      display: grid;
+      gap: 5px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 650;
+    }
+    select, input, button {
+      font: inherit;
+      border: 1px solid #c6ceda;
+      border-radius: 8px;
+      background: #fff;
+      padding: 8px 10px;
+      color: var(--ink);
+    }
+    input[type="file"] { max-width: 290px; }
+    input[type="range"] { width: 100%; padding: 0; border: 0; }
+    button { cursor: pointer; font-weight: 650; }
+    button.primary { background: var(--blue); border-color: var(--blue); color: #fff; }
+    button:hover:not(:disabled) { border-color: var(--blue); }
+    button:disabled, select:disabled, input:disabled { cursor: not-allowed; opacity: .55; }
+    #position { min-width: 90px; text-align: center; color: var(--muted); }
+    main { max-width: 1180px; margin: 24px auto; padding: 0 22px 40px; }
+    .notice {
+      background: var(--blue-soft);
+      border: 1px solid #bfd1ff;
+      border-radius: 10px;
+      padding: 12px 15px;
+      margin-bottom: 18px;
+    }
+    .notice.error { background: #fff1f1; border-color: #f2b8b8; color: #8a1c1c; }
+    .card {
+      background: #fff;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 8px 26px rgba(31, 42, 68, .06);
+      overflow: hidden;
+    }
+    .card-head {
+      padding: 18px 22px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: start;
+    }
+    .card-head h2 { margin: 0 0 5px; font-size: 21px; }
+    .pill {
+      white-space: nowrap;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      padding: 4px 9px;
+      border-radius: 999px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .experiment-description { margin: 0 0 18px; }
+    .empty { padding: 58px 28px; text-align: center; color: var(--muted); }
+    .trial-grid {
+      display: grid;
+      grid-template-columns: minmax(280px, .9fr) minmax(360px, 1.1fr);
+      min-height: 460px;
+    }
+    .pane { padding: 24px; min-width: 0; }
+    .pane + .pane { border-left: 1px solid var(--line); }
+    .pane-title {
+      margin: 0 0 18px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--muted);
+    }
+    .stimulus { margin: 0 0 18px; }
+    .stimulus.text { font-size: 18px; line-height: 1.6; white-space: pre-wrap; }
+    .stimulus img, .stimulus video { display: block; max-width: 100%; height: auto; margin: 12px auto; border-radius: 8px; }
+    .stimulus audio { display: block; width: min(100%, 520px); margin: 12px auto; }
+    .missing-asset { padding: 12px; border: 1px dashed #d39b42; border-radius: 8px; background: var(--warning); }
+    .query { padding: 17px 0; border-top: 1px solid #edf0f4; }
+    .query:first-of-type { border-top: 0; padding-top: 0; }
+    .prompt { font-weight: 650; margin-bottom: 12px; white-space: pre-wrap; }
+    .slider-row { display: grid; grid-template-columns: 1fr auto; gap: 12px; align-items: center; }
+    output { min-width: 42px; text-align: center; font-weight: 700; background: var(--soft); border-radius: 6px; padding: 4px 7px; }
+    .slider-labels { display: flex; justify-content: space-between; gap: 14px; margin-top: 7px; color: var(--muted); font-size: 12px; }
+    .multi-slider { padding: 8px 0; }
+    .multi-slider-name { margin-bottom: 5px; font-size: 13px; color: var(--muted); }
+    .choice { display: flex; gap: 9px; align-items: flex-start; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; margin: 7px 0; }
+    .choice input { margin-top: 3px; }
+    .instruction { padding: 28px; font-size: 18px; white-space: pre-wrap; }
+    .feedback { background: var(--warning); border: 1px solid #f0d584; border-radius: 8px; padding: 12px 14px; margin-top: 20px; }
+    pre { overflow: auto; background: #111827; color: #e5e7eb; border-radius: 8px; padding: 12px; font-size: 12px; }
+    footer { padding: 18px 22px; border-top: 1px solid var(--line); color: var(--muted); font-size: 12px; }
+
+    @media (max-width: 760px) {
+      .trial-grid { grid-template-columns: 1fr; }
+      .pane + .pane { border-left: 0; border-top: 1px solid var(--line); }
+      .toolbar { position: static; padding: 14px; }
+      header { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>CogGym EML renderer</h1>
+    <div class="subtitle">Inspect EML trials, instructions, practice items, and local media without uploading data.</div>
+  </header>
+
+  <div class="toolbar">
+    <label class="control">EML directory
+      <input id="directory" type="file" webkitdirectory multiple>
+    </label>
+    <label class="control">Experiment
+      <select id="experiment" disabled></select>
+    </label>
+    <label class="control">Content
+      <select id="kind" disabled>
+        <option value="trials">Trials</option>
+        <option value="instructions">Instructions / practice</option>
+      </select>
+    </label>
+    <button id="prev" disabled>← Previous</button>
+    <button id="next" disabled>Next →</button>
+    <label class="control">Go to ID or number
+      <input id="jump" placeholder="trial_0001 or 1" disabled>
+    </label>
+    <button id="go" class="primary" disabled>Go</button>
+    <span id="position"></span>
+  </div>
+
+  <main>
+    <p id="description" class="experiment-description muted"></p>
+    <div id="notice" class="notice"><strong>Choose a directory.</strong> Select the repository's <code>EML</code> folder, a study folder, or one experiment folder. Files stay in your browser and are not recorded or transmitted.</div>
+    <section class="card">
+      <div class="card-head">
+        <div><h2 id="item-title">No experiment loaded</h2><div id="item-detail" class="muted"></div></div>
+        <span id="item-type" class="pill">EML</span>
+      </div>
+      <div id="content" class="empty">Select an EML directory above to begin.</div>
+      <footer>This is a review renderer, not the participant data-collection interface. Interactive controls are previews only.</footer>
+    </section>
+  </main>
+
+  <script>
+    'use strict';
+
+    const directoryInput = document.getElementById('directory');
+    const experimentSelect = document.getElementById('experiment');
+    const kindSelect = document.getElementById('kind');
+    const content = document.getElementById('content');
+    const notice = document.getElementById('notice');
+    const controls = ['experiment', 'kind', 'prev', 'next', 'jump', 'go'].map((id) => document.getElementById(id));
+    let experiments = {};
+    let filesByPath = new Map();
+    let objectUrls = new Map();
+    let index = 0;
+
+    function node(tag, className, text) {
+      const element = document.createElement(tag);
+      if (className) element.className = className;
+      if (text !== undefined && text !== null) element.textContent = String(text);
+      return element;
+    }
+
+    function normalizePath(value) {
+      const parts = [];
+      String(value || '').replaceAll('\\', '/').split('/').forEach((part) => {
+        if (!part || part === '.') return;
+        if (part === '..') parts.pop();
+        else parts.push(part);
+      });
+      return parts.join('/');
+    }
+
+    function parseJsonl(text, filename) {
+      return text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean).map((line, lineIndex) => {
+        try { return JSON.parse(line); }
+        catch (error) { throw new Error(`${filename}:${lineIndex + 1}: ${error.message}`); }
+      });
+    }
+
+    async function readText(file) {
+      if (!file) return '';
+      return file.text();
+    }
+
+    function cleanupObjectUrls() {
+      objectUrls.forEach((url) => URL.revokeObjectURL(url));
+      objectUrls.clear();
+    }
+
+    function objectUrlFor(basePath, reference) {
+      const path = normalizePath(`${basePath}/${String(reference || '').replace(/^\.\//, '')}`);
+      const file = filesByPath.get(path);
+      if (!file) return null;
+      if (!objectUrls.has(path)) objectUrls.set(path, URL.createObjectURL(file));
+      return objectUrls.get(path);
+    }
+
+    function setNotice(message, isError = false) {
+      notice.className = `notice${isError ? ' error' : ''}`;
+      notice.replaceChildren();
+      notice.appendChild(node('strong', '', isError ? 'Could not load EML. ' : 'Loaded locally. '));
+      notice.appendChild(document.createTextNode(message));
+    }
+
+    function currentExperiment() { return experiments[experimentSelect.value]; }
+    function currentItems() {
+      const experiment = currentExperiment();
+      return experiment ? experiment[kindSelect.value] : [];
+    }
+    function urls(value) { return Array.isArray(value) ? value : value ? [value] : []; }
+    function optionLabel(option) {
+      return typeof option === 'object' ? String(option.label ?? option.value ?? JSON.stringify(option)) : String(option);
+    }
+
+    function dimensions(item, mediaIndex) {
+      const value = Array.isArray(item.dimension) ? item.dimension[mediaIndex] : item.dimension;
+      return value && typeof value === 'object' ? value : {};
+    }
+
+    function renderMedia(type, references, source, host) {
+      urls(references).forEach((reference, mediaIndex) => {
+        const url = objectUrlFor(currentExperiment().basePath, reference);
+        if (!url) {
+          host.appendChild(node('div', 'missing-asset', `Missing local asset: ${reference}`));
+          return;
+        }
+        const size = dimensions(source, mediaIndex);
+        let media;
+        if (type === 'img' || type === 'image') {
+          media = node('img');
+          media.alt = source.alt || 'Experiment stimulus';
+        } else if (type === 'video') {
+          media = node('video');
+          media.controls = true;
+          media.preload = 'metadata';
+          media.muted = Boolean(source.muted);
+          media.loop = Boolean(source.loop);
+        } else {
+          media = node('audio');
+          media.controls = true;
+          media.preload = 'metadata';
+        }
+        media.src = url;
+        if (size.width || source.width) media.style.width = `${size.width || source.width}px`;
+        if (size.height || source.height) media.style.maxHeight = `${size.height || source.height}px`;
+        host.appendChild(media);
+      });
+    }
+
+    function renderStimulus(stimulus, host) {
+      const type = stimulus.input_type || stimulus.type;
+      if (type === 'text') {
+        host.appendChild(node('div', 'stimulus text', stimulus.text || stimulus.content || ''));
+        return;
+      }
+      if (['img', 'image', 'video', 'audio'].includes(type)) {
+        const wrap = node('div', 'stimulus');
+        renderMedia(type, stimulus.media_url || stimulus.url, stimulus, wrap);
+        host.appendChild(wrap);
+        return;
+      }
+      host.appendChild(node('pre', '', JSON.stringify(stimulus, null, 2)));
+    }
+
+    function sliderControl(config = {}) {
+      const row = node('div', 'slider-row');
+      const input = node('input');
+      input.type = 'range';
+      input.min = config.min ?? 0;
+      input.max = config.max ?? 100;
+      input.step = config.step ?? 1;
+      input.value = config.default_value ?? input.min;
+      const output = node('output', '', input.value);
+      input.addEventListener('input', () => { output.textContent = input.value; });
+      row.append(input, output);
+      const wrapper = node('div');
+      wrapper.appendChild(row);
+      const labels = config.labels || [];
+      const labelRow = node('div', 'slider-labels');
+      labelRow.appendChild(node('span', '', labels[0]?.label || config.min_label || input.min));
+      labelRow.appendChild(node('span', '', labels[labels.length - 1]?.label || config.max_label || input.max));
+      wrapper.appendChild(labelRow);
+      return wrapper;
+    }
+
+    function renderQuery(query, host, number) {
+      const wrap = node('div', 'query');
+      wrap.appendChild(node('div', 'prompt', `${number}. ${query.prompt || query.text || query.tag || 'Response'}`));
+      if (query.type === 'single-slider') {
+        wrap.appendChild(sliderControl(query.slider_config));
+      } else if (query.type === 'multi-slider') {
+        (query.option || query.options || []).forEach((option) => {
+          const slider = node('div', 'multi-slider');
+          slider.appendChild(node('div', 'multi-slider-name', optionLabel(option)));
+          slider.appendChild(sliderControl(query.slider_config));
+          wrap.appendChild(slider);
+        });
+      } else if (query.type === 'multi-choice' || query.type === 'multiple-choice' || query.type === 'multi-select') {
+        const inputType = query.type === 'multi-select' ? 'checkbox' : 'radio';
+        (query.option || query.options || []).forEach((option) => {
+          const label = node('label', 'choice');
+          const input = node('input');
+          input.type = inputType;
+          input.name = query.tag || `query-${number}`;
+          input.value = typeof option === 'object' ? (option.value ?? option.label) : option;
+          label.append(input, node('span', '', optionLabel(option)));
+          wrap.appendChild(label);
+        });
+      } else {
+        wrap.appendChild(node('pre', '', JSON.stringify(query, null, 2)));
+      }
+      host.appendChild(wrap);
+    }
+
+    function renderTrial(trial, feedback) {
+      const grid = node('div', 'trial-grid');
+      const left = node('div', 'pane');
+      left.appendChild(node('h3', 'pane-title', 'Stimulus'));
+      (trial.stimuli || []).forEach((stimulus) => renderStimulus(stimulus, left));
+      if (!(trial.stimuli || []).length) left.appendChild(node('div', 'muted', 'No stimulus in this item.'));
+
+      const right = node('div', 'pane');
+      right.appendChild(node('h3', 'pane-title', 'Response'));
+      (trial.queries || []).forEach((query, queryIndex) => renderQuery(query, right, queryIndex + 1));
+      if (!(trial.queries || []).length) right.appendChild(node('div', 'muted', 'No response query in this item.'));
+      if (feedback) right.appendChild(node('div', 'feedback', feedback));
+      grid.append(left, right);
+      content.className = '';
+      content.replaceChildren(grid);
+    }
+
+    function renderInstruction(item) {
+      if (item.type === 'test_trial') {
+        const trial = currentExperiment().trials.find((candidate) => candidate.id === item.stimuli_id);
+        if (trial) {
+          renderTrial(trial, typeof item.feedback === 'string' ? item.feedback : 'Practice trial');
+          return;
+        }
+      }
+      if (item.type === 'comprehension_quiz' && item.queries) {
+        renderTrial({ stimuli: item.stimuli || [], queries: item.queries }, item.feedback);
+        return;
+      }
+      const body = node('div', 'instruction');
+      if (item.text || item.content) body.appendChild(node('div', '', item.text || item.content));
+      if (item.media_url || item.url) {
+        const wrap = node('div', 'stimulus');
+        const reference = urls(item.media_url || item.url)[0] || '';
+        const extension = reference.split('.').pop().toLowerCase();
+        const type = ['mp4', 'webm', 'mov'].includes(extension) ? 'video' : ['mp3', 'wav', 'ogg'].includes(extension) ? 'audio' : 'img';
+        renderMedia(type, item.media_url || item.url, item, wrap);
+        body.appendChild(wrap);
+      }
+      (item.stimuli || []).forEach((stimulus) => renderStimulus(stimulus, body));
+      if (!body.childNodes.length) body.appendChild(node('pre', '', JSON.stringify(item, null, 2)));
+      content.className = '';
+      content.replaceChildren(body);
+    }
+
+    function render() {
+      const experiment = currentExperiment();
+      const items = currentItems();
+      if (!experiment) return;
+      document.getElementById('description').textContent = experiment.config.description || '';
+      if (!items.length) {
+        document.getElementById('position').textContent = '0 of 0';
+        document.getElementById('item-title').textContent = 'No items';
+        document.getElementById('item-detail').textContent = experiment.config.experimentName || experimentSelect.value;
+        document.getElementById('item-type').textContent = kindSelect.value;
+        content.className = 'empty';
+        content.textContent = `This experiment has no ${kindSelect.value}.`;
+        return;
+      }
+      index = Math.max(0, Math.min(index, items.length - 1));
+      const item = items[index];
+      document.getElementById('position').textContent = `${index + 1} of ${items.length}`;
+      document.getElementById('item-title').textContent = item.id || `Item ${index + 1}`;
+      document.getElementById('item-detail').textContent = experiment.config.experimentName || experimentSelect.value;
+      document.getElementById('item-type').textContent = item.type || (kindSelect.value === 'trials' ? 'trial' : 'instruction');
+      if (kindSelect.value === 'trials') renderTrial(item);
+      else renderInstruction(item);
+    }
+
+    function reset() { index = 0; render(); }
+
+    async function loadDirectory(fileList) {
+      cleanupObjectUrls();
+      filesByPath = new Map(Array.from(fileList).map((file) => [normalizePath(file.webkitRelativePath || file.name), file]));
+      const configEntries = Array.from(filesByPath.entries()).filter(([path]) => path.endsWith('/config.json') || path === 'config.json');
+      if (!configEntries.length) throw new Error('No config.json files were found in the selected directory.');
+
+      const loaded = {};
+      const failures = [];
+      await Promise.all(configEntries.map(async ([configPath, configFile]) => {
+        const basePath = configPath.includes('/') ? configPath.slice(0, configPath.lastIndexOf('/')) : '';
+        const trialPath = normalizePath(`${basePath}/trial.jsonl`);
+        const instructionPath = normalizePath(`${basePath}/instruction.jsonl`);
+        const trialFile = filesByPath.get(trialPath);
+        if (!trialFile) return;
+        try {
+          const config = JSON.parse(await readText(configFile));
+          const trials = parseJsonl(await readText(trialFile), trialPath);
+          const instructions = filesByPath.has(instructionPath) ? parseJsonl(await readText(filesByPath.get(instructionPath)), instructionPath) : [];
+          const parts = basePath.split('/').filter(Boolean);
+          const key = parts.slice(-2).join('/') || config.alias || config.experimentName || 'experiment';
+          loaded[key] = { basePath, config, trials, instructions };
+        } catch (error) {
+          failures.push(`${basePath || configPath}: ${error.message}`);
+        }
+      }));
+
+      const keys = Object.keys(loaded).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+      if (!keys.length) throw new Error(failures[0] || 'No complete experiment folders containing config.json and trial.jsonl were found.');
+      experiments = loaded;
+      experimentSelect.replaceChildren();
+      keys.forEach((key) => {
+        const option = node('option', '', key);
+        option.value = key;
+        experimentSelect.appendChild(option);
+      });
+      controls.forEach((control) => { control.disabled = false; });
+      index = 0;
+      render();
+      const warning = failures.length ? ` ${failures.length} malformed experiment folder(s) were skipped.` : '';
+      setNotice(`${keys.length} experiment${keys.length === 1 ? '' : 's'} found.${warning}`);
+    }
+
+    directoryInput.addEventListener('change', async () => {
+      try { await loadDirectory(directoryInput.files); }
+      catch (error) {
+        experiments = {};
+        controls.forEach((control) => { control.disabled = true; });
+        setNotice(error.message, true);
+      }
+    });
+    experimentSelect.addEventListener('change', reset);
+    kindSelect.addEventListener('change', reset);
+    document.getElementById('prev').addEventListener('click', () => { index -= 1; render(); });
+    document.getElementById('next').addEventListener('click', () => { index += 1; render(); });
+    document.getElementById('go').addEventListener('click', () => {
+      const value = document.getElementById('jump').value.trim();
+      const items = currentItems();
+      const byId = items.findIndex((item) => item.id === value);
+      if (byId >= 0) index = byId;
+      else if (/^\d+$/.test(value)) index = Number(value) - 1;
+      render();
+    });
+    document.getElementById('jump').addEventListener('keydown', (event) => {
+      if (event.key === 'Enter') document.getElementById('go').click();
+    });
+    window.addEventListener('beforeunload', cleanupObjectUrls);
+  </script>
+</body>
+</html>

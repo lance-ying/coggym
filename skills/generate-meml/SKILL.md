@@ -156,6 +156,8 @@ checks; a failed or skipped check is never “passed.”
 Where a renderer is available, inspect representative trials from every distinct
 condition/response format, plus instructions and practice. Record what was actually
 rendered; a readable card is not proof of the participant-facing presentation.
+When working from the CogGym public-release repository, open `EML_RENDERER.html`
+and select the compiled experiment directory for this review.
 
 ## 4. Source check and human handoff
 

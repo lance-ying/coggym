@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate MEML"
+  short_description: "Generate source-grounded MEML experiments for review"
+  default_prompt: "Use $generate-meml to reconstruct this paper's experiment as MEML, compile it to EML, and prepare source evidence and checks for human review."

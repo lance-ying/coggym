@@ -54,6 +54,28 @@ For commercial access to the full dataset, contact
   anonymized individual responses.
 - `evaluation/`: prompt construction, model execution, response parsing,
   fixed trial selections, scoring, validation, and analysis.
+- `skills/generate-meml/`: an agent skill for reconstructing a paper's
+  experiment as source-grounded MEML, compiling it to EML, and preparing the
+  result for human review.
+
+## Generate new EML experiments
+
+The repository includes the [`generate-meml`](skills/generate-meml/SKILL.md)
+agent skill. It guides an agent through source collection, MEML authoring,
+compilation, verification, and a source-evidence report. The skill depends on a
+local checkout of the
+[`cog-gym-meml`](https://github.com/kasmith/cog-gym-meml) compiler and its
+maintained authoring documentation.
+
+For Codex, copy the skill directory into your personal skills folder:
+
+```bash
+cp -R skills/generate-meml ~/.codex/skills/
+```
+
+Then invoke `$generate-meml` with the target paper and original materials. New
+artifacts are created outside `EML/` by default so they can be reviewed before
+being added to the public dataset.
 
 ## Quick start
 

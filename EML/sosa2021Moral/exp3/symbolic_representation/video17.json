@@ -1,0 +1,1656 @@
+{
+  "frames": [
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              894.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              888.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              882.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              876.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              870.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              864.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              858.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              852.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              846.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              840.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              834.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              828.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              822.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              816.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              810.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              804.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              798.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              792.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              786.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              780.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              774.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              768.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              762.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              756.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              750.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              744.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              330.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              738.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              324.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              732.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              318.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              726.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              312.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              720.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              306.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              714.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              300.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              708.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              294.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              702.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              288.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              696.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              282.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              690.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              276.0
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              684.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              230.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              270.5805251532965
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              678.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              223.94287055875628
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              264.7742538290877
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              672.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              218.2623915553365
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              259.8227085712527
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              666.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              212.39519935964307
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              255.1164474501565
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              660.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              206.91188755976657
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              250.64627411423805
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              654.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              201.7850633940996
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              246.40292509804513
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              648.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              196.98952905769724
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              242.3771452141835
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              642.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              192.5020825654628
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              238.55975007035087
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              636.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              188.301338686642
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              234.96296110181095
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              630.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              184.34628414176174
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              231.57534368030352
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              624.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              180.62123610685092
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              228.38473341796188
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              618.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              177.11281853512486
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              225.37967334785816
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              612.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              173.8084332648579
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              222.54937278388257
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              606.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              170.6962147814163
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              219.8836685731298
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              600.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              167.76498761010853
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              217.3729886016558
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              594.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              165.00422618685798
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              215.00831742256028
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              588.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              162.40401706259965
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              212.78116388297067
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              582.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              159.95502330568323
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              210.68353063368156
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              576.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              157.64845097445726
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              208.70788541196322
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              570.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              155.47601753964275
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              206.847133994421
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              564.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              153.42992214310624
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              205.09459472278294
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              558.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              151.50281758623618
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              203.4439745111426
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              552.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              149.68778394733758
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "objects": {
+        "agent": [
+          {
+            "location": [
+              500.0,
+              201.8893462485023
+            ]
+          }
+        ],
+        "patient": [
+          {
+            "location": [
+              546.0,
+              130.0
+            ]
+          }
+        ],
+        "fireball": [
+          {
+            "location": [
+              500.0,
+              147.9783037333091
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

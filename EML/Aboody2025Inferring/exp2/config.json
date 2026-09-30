@@ -1,0 +1,405 @@
+{
+  "experimentName": "Inferring Amorphous Knowledge (Exp 2)",
+  "paper-title": "People can infer the magnitude of other people's knowledge even when they cannot infer its contents",
+  "citation": "Aboody, R., Davis, I., Dunham, Y., & Jara-Ettinger, J. (2025). People can infer the magnitude of other people’s knowledge even when they cannot infer its contents. Cognition, 265, 106236. https://doi.org/10.1016/j.cognition.2025.106236",
+  "alias": "aboody2025inferring-exp2",
+  "description": "You will view a pirate ship, island, beach, and optional map. You will rate how much the pirates knew and how informative they believed the map to be.",
+  "paperDOI": "https://doi.org/10.1016/j.cognition.2025.106236",
+  "keywords": [
+    "Computational Modeling",
+    "Social Cognition",
+    "Theory of Mind"
+  ],
+  "taskType": [
+    "Social Cognition",
+    "Theory of Mind"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "year": 2025,
+  "stimuli_count": 18,
+  "experimentFlow": [
+    {
+      "condition": "all trials (single within-subjects condition)",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_40_0X",
+              "trial_36_20_0X",
+              "trial_12_40_0X",
+              "trial_36_40_1X",
+              "trial_36_20_1X",
+              "trial_24_1_1X",
+              "trial_36_1_1X",
+              "trial_12_40_1X",
+              "trial_36_1_0X",
+              "trial_24_20_0X",
+              "trial_12_1_0X",
+              "trial_12_20_0X",
+              "trial_24_20_1X",
+              "trial_24_1_0X",
+              "trial_24_40_1X",
+              "trial_12_1_1X",
+              "trial_24_40_0X",
+              "trial_12_20_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_40_1X",
+              "trial_24_20_1X",
+              "trial_24_40_0X",
+              "trial_12_40_0X",
+              "trial_12_1_0X",
+              "trial_12_20_0X",
+              "trial_24_1_1X",
+              "trial_12_20_1X",
+              "trial_24_20_0X",
+              "trial_36_20_0X",
+              "trial_36_1_0X",
+              "trial_36_40_0X",
+              "trial_12_40_1X",
+              "trial_36_20_1X",
+              "trial_24_1_0X",
+              "trial_36_1_1X",
+              "trial_12_1_1X",
+              "trial_24_40_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_12_1_0X",
+              "trial_36_1_0X",
+              "trial_12_1_1X",
+              "trial_36_1_1X",
+              "trial_36_40_0X",
+              "trial_24_40_0X",
+              "trial_24_20_1X",
+              "trial_36_40_1X",
+              "trial_24_1_1X",
+              "trial_24_20_0X",
+              "trial_12_40_0X",
+              "trial_12_20_1X",
+              "trial_36_20_1X",
+              "trial_12_20_0X",
+              "trial_24_40_1X",
+              "trial_36_20_0X",
+              "trial_24_1_0X",
+              "trial_12_40_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_24_40_1X",
+              "trial_12_40_1X",
+              "trial_24_20_1X",
+              "trial_36_20_1X",
+              "trial_24_1_0X",
+              "trial_36_40_0X",
+              "trial_24_1_1X",
+              "trial_36_1_0X",
+              "trial_12_20_0X",
+              "trial_24_20_0X",
+              "trial_36_40_1X",
+              "trial_12_20_1X",
+              "trial_36_20_0X",
+              "trial_12_1_0X",
+              "trial_24_40_0X",
+              "trial_12_40_0X",
+              "trial_12_1_1X",
+              "trial_36_1_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_40_0X",
+              "trial_36_1_1X",
+              "trial_36_20_1X",
+              "trial_24_40_0X",
+              "trial_36_1_0X",
+              "trial_24_20_0X",
+              "trial_24_20_1X",
+              "trial_12_40_0X",
+              "trial_12_1_1X",
+              "trial_36_40_1X",
+              "trial_24_40_1X",
+              "trial_24_1_1X",
+              "trial_12_20_0X",
+              "trial_36_20_0X",
+              "trial_12_20_1X",
+              "trial_12_1_0X",
+              "trial_12_40_1X",
+              "trial_24_1_0X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_20_0X",
+              "trial_36_1_1X",
+              "trial_12_20_1X",
+              "trial_12_40_0X",
+              "trial_12_1_0X",
+              "trial_12_1_1X",
+              "trial_12_40_1X",
+              "trial_24_1_1X",
+              "trial_36_20_1X",
+              "trial_24_40_1X",
+              "trial_12_20_0X",
+              "trial_36_40_1X",
+              "trial_24_20_0X",
+              "trial_24_1_0X",
+              "trial_36_1_0X",
+              "trial_36_40_0X",
+              "trial_24_40_0X",
+              "trial_24_20_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_40_0X",
+              "trial_24_1_1X",
+              "trial_12_40_1X",
+              "trial_24_40_0X",
+              "trial_12_1_0X",
+              "trial_12_40_0X",
+              "trial_24_1_0X",
+              "trial_24_20_1X",
+              "trial_24_20_0X",
+              "trial_36_20_1X",
+              "trial_36_1_1X",
+              "trial_36_20_0X",
+              "trial_12_1_1X",
+              "trial_36_1_0X",
+              "trial_12_20_1X",
+              "trial_36_40_1X",
+              "trial_24_40_1X",
+              "trial_12_20_0X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_36_1_1X",
+              "trial_24_20_1X",
+              "trial_36_20_0X",
+              "trial_12_40_0X",
+              "trial_24_40_0X",
+              "trial_36_1_0X",
+              "trial_12_40_1X",
+              "trial_36_40_1X",
+              "trial_36_20_1X",
+              "trial_12_1_0X",
+              "trial_24_20_0X",
+              "trial_36_40_0X",
+              "trial_24_1_0X",
+              "trial_24_1_1X",
+              "trial_12_1_1X",
+              "trial_12_20_0X",
+              "trial_12_20_1X",
+              "trial_24_40_1X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_24_40_0X",
+              "trial_12_1_1X",
+              "trial_12_20_1X",
+              "trial_24_40_1X",
+              "trial_36_40_1X",
+              "trial_24_20_1X",
+              "trial_36_20_1X",
+              "trial_36_1_0X",
+              "trial_36_40_0X",
+              "trial_24_1_0X",
+              "trial_12_40_0X",
+              "trial_24_20_0X",
+              "trial_24_1_1X",
+              "trial_12_20_0X",
+              "trial_36_1_1X",
+              "trial_36_20_0X",
+              "trial_12_40_1X",
+              "trial_12_1_0X"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "instruction_02",
+              "instruction_03",
+              "instruction_04",
+              "instruction_05",
+              "instruction_06",
+              "comprehension_quiz_01"
+            ],
+            [
+              "instruction_07"
+            ],
+            [
+              "trial_12_1_0X",
+              "trial_36_1_1X",
+              "trial_24_1_0X",
+              "trial_12_40_0X",
+              "trial_12_20_1X",
+              "trial_12_40_1X",
+              "trial_24_40_0X",
+              "trial_24_1_1X",
+              "trial_12_1_1X",
+              "trial_24_20_0X",
+              "trial_36_20_0X",
+              "trial_24_40_1X",
+              "trial_36_40_0X",
+              "trial_24_20_1X",
+              "trial_12_20_0X",
+              "trial_36_40_1X",
+              "trial_36_1_0X",
+              "trial_36_20_1X"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "authors": [
+    "Rosie Aboody",
+    "Isaac Davis",
+    "Yarrow Dunham",
+    "Julian Jara-Ettinger"
+  ]
+}

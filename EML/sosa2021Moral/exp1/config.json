@@ -1,0 +1,268 @@
+{
+  "experimentName": "Moral Dynamics: Grounding Moral Judgment in Intuitive Physics and Intuitive Psychology (Exp 1)",
+  "paper-title": "Moral Dynamics: Grounding Moral Judgment in Intuitive Physics and Intuitive Psychology",
+  "citation": "Sosa, F. A., Ullman, T., Tenenbaum, J. B., Gershman, S. J., & Gerstenberg, T. (2021). Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology. Cognition, 217, 104890.",
+  "year": 2021,
+  "alias": "sosa2021moral-exp1",
+  "paperDOI": "https://doi.org/10.1016/j.cognition.2021.104890",
+  "description": "Participants compared pairs of simulated alien encounters and judged which Blue agent behaved worse toward its Green partner.",
+  "taskType": [
+    "Moral Judgment",
+    "Social Cognition"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "authors": [
+    "Felix A. Sosa",
+    "Tomer Ullman",
+    "Samuel J. Gershman",
+    "Joshua B. Tenenbaum",
+    "Tobias Gerstenberg"
+  ],
+  "stimuli_count": 13,
+  "experimentFlow": [
+    {
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_10",
+              "exp1_trial_06",
+              "exp1_trial_04",
+              "exp1_trial_05",
+              "exp1_trial_02",
+              "exp1_trial_01",
+              "exp1_trial_08",
+              "exp1_trial_07",
+              "exp1_trial_09",
+              "exp1_trial_03",
+              "exp1_trial_11"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_09",
+              "exp1_trial_05",
+              "exp1_trial_01",
+              "exp1_trial_06",
+              "exp1_trial_03",
+              "exp1_trial_08",
+              "exp1_trial_02",
+              "exp1_trial_11",
+              "exp1_trial_07",
+              "exp1_trial_04",
+              "exp1_trial_10"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_10",
+              "exp1_trial_04",
+              "exp1_trial_03",
+              "exp1_trial_08",
+              "exp1_trial_11",
+              "exp1_trial_01",
+              "exp1_trial_02",
+              "exp1_trial_06",
+              "exp1_trial_07",
+              "exp1_trial_05",
+              "exp1_trial_09"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_10",
+              "exp1_trial_02",
+              "exp1_trial_07",
+              "exp1_trial_09",
+              "exp1_trial_05",
+              "exp1_trial_01",
+              "exp1_trial_08",
+              "exp1_trial_11",
+              "exp1_trial_03",
+              "exp1_trial_04",
+              "exp1_trial_06"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_01",
+              "exp1_trial_05",
+              "exp1_trial_02",
+              "exp1_trial_08",
+              "exp1_trial_07",
+              "exp1_trial_09",
+              "exp1_trial_10",
+              "exp1_trial_06",
+              "exp1_trial_04",
+              "exp1_trial_03",
+              "exp1_trial_11"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_01",
+              "exp1_trial_07",
+              "exp1_trial_02",
+              "exp1_trial_06",
+              "exp1_trial_05",
+              "exp1_trial_04",
+              "exp1_trial_09",
+              "exp1_trial_03",
+              "exp1_trial_11",
+              "exp1_trial_10",
+              "exp1_trial_08"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_05",
+              "exp1_trial_10",
+              "exp1_trial_06",
+              "exp1_trial_04",
+              "exp1_trial_03",
+              "exp1_trial_01",
+              "exp1_trial_09",
+              "exp1_trial_02",
+              "exp1_trial_11",
+              "exp1_trial_08",
+              "exp1_trial_07"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_09",
+              "exp1_trial_05",
+              "exp1_trial_07",
+              "exp1_trial_06",
+              "exp1_trial_02",
+              "exp1_trial_10",
+              "exp1_trial_01",
+              "exp1_trial_08",
+              "exp1_trial_11",
+              "exp1_trial_03",
+              "exp1_trial_04"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_07",
+              "exp1_trial_08",
+              "exp1_trial_11",
+              "exp1_trial_05",
+              "exp1_trial_02",
+              "exp1_trial_10",
+              "exp1_trial_03",
+              "exp1_trial_01",
+              "exp1_trial_06",
+              "exp1_trial_09",
+              "exp1_trial_04"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02"
+            ],
+            [
+              "exp1_trial_06",
+              "exp1_trial_05",
+              "exp1_trial_01",
+              "exp1_trial_10",
+              "exp1_trial_04",
+              "exp1_trial_03",
+              "exp1_trial_09",
+              "exp1_trial_02",
+              "exp1_trial_11",
+              "exp1_trial_07",
+              "exp1_trial_08"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "Moral judgments",
+    "Effort",
+    "Intuitive physics",
+    "Intuitive psychology",
+    "Causal inference",
+    "Counterfactual simulation"
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "participants_info": {
+    "count": 91,
+    "age": null,
+    "gender": {},
+    "eligibility": "18 years or older",
+    "recruited_count_reported_in_paper": 100,
+    "completed_records_in_released_final_logs": 99,
+    "excluded_by_released_analysis_code": 8
+  },
+  "judgment_count": 819,
+  "explanation_s00_r01": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.021978022,
+      "explanation_selection_2": 0.9230769231,
+      "explanation_selection_3": 0.032967033,
+      "explanation_selection_4": 0.1648351648,
+      "explanation_selection_5": 0.021978022
+    }
+  },
+  "explanation_s01_r02": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1978021978,
+      "explanation_selection_2": 0.1868131868,
+      "explanation_selection_3": 0.956043956,
+      "explanation_selection_4": 0.010989011,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s02_r03": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.3516483516,
+      "explanation_selection_2": 0.6373626374,
+      "explanation_selection_3": 0.4615384615,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.032967033
+    }
+  },
+  "explanation_s03_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1666666667,
+      "explanation_selection_2": 0.8333333333,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.3333333333,
+      "explanation_selection_5": 0.1666666667
+    }
+  },
+  "explanation_s03_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 0.8571428571,
+      "explanation_selection_3": 0.1428571429,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s03_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s03_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.25,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s03_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1111111111,
+      "explanation_selection_2": 0.8888888889,
+      "explanation_selection_3": 0.2222222222,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s03_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.25,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.5,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2222222222,
+      "explanation_selection_2": 0.8888888889,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.1111111111,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.125,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2727272727,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.1818181818,
+      "explanation_selection_4": 0.0909090909,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s04_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.4,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.2,
+      "explanation_selection_3": 0.4,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.4,
+      "explanation_selection_3": 0.4,
+      "explanation_selection_4": 0.2,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.75,
+      "explanation_selection_2": 0.4166666667,
+      "explanation_selection_3": 0.4166666667,
+      "explanation_selection_4": 0.0833333333,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8571428571,
+      "explanation_selection_2": 0.4285714286,
+      "explanation_selection_3": 0.4285714286,
+      "explanation_selection_4": 0.1428571429,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.75,
+      "explanation_selection_2": 0.25,
+      "explanation_selection_3": 0.25,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s05_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.7777777778,
+      "explanation_selection_2": 0.3333333333,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.2222222222,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.1666666667,
+      "explanation_selection_3": 0.1666666667,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.0,
+      "explanation_selection_3": 0.5,
+      "explanation_selection_4": 0.5,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.3333333333,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.375,
+      "explanation_selection_3": 0.25,
+      "explanation_selection_4": 0.125,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.875,
+      "explanation_selection_2": 0.5,
+      "explanation_selection_3": 0.25,
+      "explanation_selection_4": 0.125,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s06_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.875,
+      "explanation_selection_2": 0.125,
+      "explanation_selection_3": 0.375,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 0.75,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2857142857,
+      "explanation_selection_2": 0.8571428571,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2307692308,
+      "explanation_selection_2": 0.8461538462,
+      "explanation_selection_3": 0.0769230769,
+      "explanation_selection_4": 0.7692307692,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.7,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.4,
+      "explanation_selection_2": 0.8,
+      "explanation_selection_3": 0.2,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s07_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1,
+      "explanation_selection_2": 0.9,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.125,
+      "explanation_selection_2": 0.75,
+      "explanation_selection_3": 0.5,
+      "explanation_selection_4": 0.5,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1666666667,
+      "explanation_selection_2": 0.6666666667,
+      "explanation_selection_3": 1.0,
+      "explanation_selection_4": 0.6666666667,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2857142857,
+      "explanation_selection_2": 0.7142857143,
+      "explanation_selection_3": 0.5714285714,
+      "explanation_selection_4": 0.8571428571,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.6,
+      "explanation_selection_2": 0.8,
+      "explanation_selection_3": 0.8,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 0.75,
+      "explanation_selection_3": 0.75,
+      "explanation_selection_4": 0.75,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s08_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.375,
+      "explanation_selection_2": 0.75,
+      "explanation_selection_3": 0.75,
+      "explanation_selection_4": 0.5,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s09_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.3333333333,
+      "explanation_selection_2": 0.2222222222,
+      "explanation_selection_3": 0.1111111111,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.4444444444
+    }
+  },
+  "explanation_s09_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s09_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1666666667,
+      "explanation_selection_2": 0.3333333333,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.5
+    }
+  },
+  "explanation_s09_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2857142857,
+      "explanation_selection_2": 0.4285714286,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.5714285714
+    }
+  },
+  "explanation_s09_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1538461538,
+      "explanation_selection_2": 0.3846153846,
+      "explanation_selection_3": 0.0769230769,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.3846153846
+    }
+  },
+  "explanation_s09_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1111111111,
+      "explanation_selection_2": 0.4444444444,
+      "explanation_selection_3": 0.1111111111,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.3333333333
+    }
+  },
+  "explanation_s10_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.5,
+      "explanation_selection_2": 0.75,
+      "explanation_selection_3": 0.125,
+      "explanation_selection_4": 0.875,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s10_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.3,
+      "explanation_selection_4": 0.6,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s10_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.3333333333,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.2222222222,
+      "explanation_selection_4": 0.8888888889,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s10_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.5,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.2,
+      "explanation_selection_4": 0.8,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s10_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.3,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.5,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s10_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.25,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8571428571,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.1428571429,
+      "explanation_selection_4": 0.8571428571,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.5454545455,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0909090909,
+      "explanation_selection_4": 0.6363636364,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.6,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.3,
+      "explanation_selection_4": 0.5,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.7142857143,
+      "explanation_selection_2": 0.8571428571,
+      "explanation_selection_3": 0.1428571429,
+      "explanation_selection_4": 0.5714285714,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.4,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.4,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s11_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.3333333333,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.3333333333,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.9,
+      "explanation_selection_2": 0.6,
+      "explanation_selection_3": 0.3,
+      "explanation_selection_4": 0.3,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 1.0,
+      "explanation_selection_2": 0.5,
+      "explanation_selection_3": 0.375,
+      "explanation_selection_4": 0.375,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8,
+      "explanation_selection_2": 0.6,
+      "explanation_selection_3": 0.2,
+      "explanation_selection_4": 0.2,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8888888889,
+      "explanation_selection_2": 0.5555555556,
+      "explanation_selection_3": 0.2222222222,
+      "explanation_selection_4": 0.3333333333,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8333333333,
+      "explanation_selection_2": 0.5,
+      "explanation_selection_3": 0.3333333333,
+      "explanation_selection_4": 0.1666666667,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s12_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.8571428571,
+      "explanation_selection_2": 0.5714285714,
+      "explanation_selection_3": 0.2857142857,
+      "explanation_selection_4": 0.4285714286,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 0.9333333333,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.2666666667,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 1.0,
+      "explanation_selection_4": 1.0,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.1,
+      "explanation_selection_4": 0.2,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.1666666667,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s13_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.0,
+      "explanation_selection_4": 0.3333333333,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s14_r04": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1111111111,
+      "explanation_selection_2": 0.8888888889,
+      "explanation_selection_3": 0.6666666667,
+      "explanation_selection_4": 0.0,
+      "explanation_selection_5": 0.1111111111
+    }
+  },
+  "explanation_s14_r05": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1818181818,
+      "explanation_selection_2": 0.8181818182,
+      "explanation_selection_3": 0.6363636364,
+      "explanation_selection_4": 0.3636363636,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s14_r06": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.0,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.5,
+      "explanation_selection_4": 0.25,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s14_r07": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1666666667,
+      "explanation_selection_2": 0.6666666667,
+      "explanation_selection_3": 0.6666666667,
+      "explanation_selection_4": 0.1666666667,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s14_r08": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.1666666667,
+      "explanation_selection_2": 1.0,
+      "explanation_selection_3": 0.5,
+      "explanation_selection_4": 0.3333333333,
+      "explanation_selection_5": 0.0
+    }
+  },
+  "explanation_s14_r09": {
+    "explanation_selection": {
+      "explanation_selection_1": 0.2857142857,
+      "explanation_selection_2": 0.5714285714,
+      "explanation_selection_3": 0.7142857143,
+      "explanation_selection_4": 0.5714285714,
+      "explanation_selection_5": 0.0
+    }
+  }
+}

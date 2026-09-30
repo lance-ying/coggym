@@ -1,0 +1,101 @@
+{
+  "experimentName": "The logic of universalization guides moral judgment (Study 4b)",
+  "paper-title": "The logic of universalization guides moral judgment",
+  "citation": "Levine, S., Kleiman-Weiner, M., Schulz, L., Tenenbaum, J., & Cushman, F. (2020). The logic of universalization guides moral judgment. Proceedings of the National Academy of Sciences, 117(42), 26158–26169. https://doi.org/10.1073/pnas.2014505117",
+  "alias": "levine2020logic-exp6",
+  "description": "You will read stories about motor oil use on a lake and rate how good or bad the outcomes are for the main character.",
+  "keywords": [
+    "moral judgment",
+    "moral development",
+    "universalization"
+  ],
+  "paperDOI": "https://doi.org/10.1073/pnas.2014505117",
+  "taskType": [
+    "Utility Judgment"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "year": 2020,
+  "stimuli_count": 36,
+  "experimentFlow": [
+    {
+      "condition": "collective_action_judgment",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "6",
+              "7",
+              "8",
+              "9",
+              "10",
+              "11",
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "24",
+              "25",
+              "26",
+              "27",
+              "28",
+              "29",
+              "12",
+              "13",
+              "14",
+              "15",
+              "16",
+              "17"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "30",
+              "31",
+              "32",
+              "33",
+              "34",
+              "35"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "authors": [
+    "Sydney Levine",
+    "Max Kleiman-Weiner",
+    "Laura Schulz",
+    "Joshua Tenenbaum",
+    "Fiery Cushman"
+  ]
+}

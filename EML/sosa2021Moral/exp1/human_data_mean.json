@@ -1,0 +1,45 @@
+{
+  "participants_info": {
+    "count": 46,
+    "gender": {
+      "male": 34,
+      "female": 11,
+      "other": 1
+    },
+    "age": 34.48
+  },
+  "judgment_count": 506,
+  "exp1_trial_01": {
+    "blue_badness_choice": 2.5217391304347827
+  },
+  "exp1_trial_02": {
+    "blue_badness_choice": 1.608695652173913
+  },
+  "exp1_trial_03": {
+    "blue_badness_choice": 2.869565217391304
+  },
+  "exp1_trial_04": {
+    "blue_badness_choice": 2.0869565217391304
+  },
+  "exp1_trial_05": {
+    "blue_badness_choice": 2.217391304347826
+  },
+  "exp1_trial_06": {
+    "blue_badness_choice": 2.869565217391304
+  },
+  "exp1_trial_07": {
+    "blue_badness_choice": 1.7826086956521738
+  },
+  "exp1_trial_08": {
+    "blue_badness_choice": 2.717391304347826
+  },
+  "exp1_trial_09": {
+    "blue_badness_choice": 2.0652173913043477
+  },
+  "exp1_trial_10": {
+    "blue_badness_choice": 3.0869565217391304
+  },
+  "exp1_trial_11": {
+    "blue_badness_choice": 2.4130434782608696
+  }
+}

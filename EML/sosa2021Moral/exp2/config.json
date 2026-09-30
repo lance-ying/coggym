@@ -1,0 +1,644 @@
+{
+  "experimentName": "Moral Dynamics: Grounding Moral Judgment in Intuitive Physics and Intuitive Psychology (Exp 2)",
+  "paper-title": "Moral Dynamics: Grounding Moral Judgment in Intuitive Physics and Intuitive Psychology",
+  "citation": "Sosa, F. A., Ullman, T., Tenenbaum, J. B., Gershman, S. J., & Gerstenberg, T. (2021). Moral dynamics: Grounding moral judgment in intuitive physics and intuitive psychology. Cognition, 217, 104890.",
+  "year": 2021,
+  "alias": "sosa2021moral-exp2",
+  "paperDOI": "https://doi.org/10.1016/j.cognition.2021.104890",
+  "description": "Participants watched individual videos of Blue, Green, and Fireball interactions and rated the Blue agent's actions on a slider scale.",
+  "taskType": [
+    "Moral Judgment",
+    "Effort Perception"
+  ],
+  "responseType": [
+    "single-slider"
+  ],
+  "authors": [
+    "Felix A. Sosa",
+    "Tomer Ullman",
+    "Samuel J. Gershman",
+    "Joshua B. Tenenbaum",
+    "Tobias Gerstenberg"
+  ],
+  "stimuli_count": 40,
+  "experimentFlow": [
+    {
+      "condition": "effort_rating",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_17",
+              "exp2_trial_15",
+              "exp2_trial_09",
+              "exp2_trial_01",
+              "exp2_trial_11",
+              "exp2_trial_13",
+              "exp2_trial_04",
+              "exp2_trial_05",
+              "exp2_trial_10",
+              "exp2_trial_12",
+              "exp2_trial_03",
+              "exp2_trial_16",
+              "exp2_trial_14",
+              "exp2_trial_07",
+              "exp2_trial_08",
+              "exp2_trial_02",
+              "exp2_trial_06"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_10",
+              "exp2_trial_11",
+              "exp2_trial_08",
+              "exp2_trial_17",
+              "exp2_trial_04",
+              "exp2_trial_05",
+              "exp2_trial_06",
+              "exp2_trial_03",
+              "exp2_trial_14",
+              "exp2_trial_16",
+              "exp2_trial_02",
+              "exp2_trial_15",
+              "exp2_trial_01",
+              "exp2_trial_12",
+              "exp2_trial_09",
+              "exp2_trial_07",
+              "exp2_trial_13"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_14",
+              "exp2_trial_04",
+              "exp2_trial_08",
+              "exp2_trial_13",
+              "exp2_trial_17",
+              "exp2_trial_06",
+              "exp2_trial_03",
+              "exp2_trial_07",
+              "exp2_trial_01",
+              "exp2_trial_05",
+              "exp2_trial_10",
+              "exp2_trial_09",
+              "exp2_trial_15",
+              "exp2_trial_02",
+              "exp2_trial_11",
+              "exp2_trial_12",
+              "exp2_trial_16"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_03",
+              "exp2_trial_12",
+              "exp2_trial_14",
+              "exp2_trial_06",
+              "exp2_trial_16",
+              "exp2_trial_08",
+              "exp2_trial_11",
+              "exp2_trial_09",
+              "exp2_trial_10",
+              "exp2_trial_05",
+              "exp2_trial_04",
+              "exp2_trial_01",
+              "exp2_trial_17",
+              "exp2_trial_07",
+              "exp2_trial_15",
+              "exp2_trial_13",
+              "exp2_trial_02"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_07",
+              "exp2_trial_02",
+              "exp2_trial_05",
+              "exp2_trial_04",
+              "exp2_trial_01",
+              "exp2_trial_13",
+              "exp2_trial_15",
+              "exp2_trial_08",
+              "exp2_trial_09",
+              "exp2_trial_06",
+              "exp2_trial_11",
+              "exp2_trial_17",
+              "exp2_trial_16",
+              "exp2_trial_10",
+              "exp2_trial_03",
+              "exp2_trial_14",
+              "exp2_trial_12"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_05",
+              "exp2_trial_12",
+              "exp2_trial_01",
+              "exp2_trial_07",
+              "exp2_trial_13",
+              "exp2_trial_04",
+              "exp2_trial_11",
+              "exp2_trial_10",
+              "exp2_trial_16",
+              "exp2_trial_06",
+              "exp2_trial_03",
+              "exp2_trial_17",
+              "exp2_trial_08",
+              "exp2_trial_02",
+              "exp2_trial_09",
+              "exp2_trial_15",
+              "exp2_trial_14"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_04",
+              "exp2_trial_11",
+              "exp2_trial_17",
+              "exp2_trial_14",
+              "exp2_trial_09",
+              "exp2_trial_08",
+              "exp2_trial_01",
+              "exp2_trial_10",
+              "exp2_trial_13",
+              "exp2_trial_03",
+              "exp2_trial_15",
+              "exp2_trial_12",
+              "exp2_trial_06",
+              "exp2_trial_16",
+              "exp2_trial_05",
+              "exp2_trial_07",
+              "exp2_trial_02"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_16",
+              "exp2_trial_07",
+              "exp2_trial_11",
+              "exp2_trial_08",
+              "exp2_trial_10",
+              "exp2_trial_17",
+              "exp2_trial_02",
+              "exp2_trial_06",
+              "exp2_trial_12",
+              "exp2_trial_03",
+              "exp2_trial_04",
+              "exp2_trial_09",
+              "exp2_trial_13",
+              "exp2_trial_14",
+              "exp2_trial_05",
+              "exp2_trial_01",
+              "exp2_trial_15"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_04",
+              "exp2_trial_05",
+              "exp2_trial_01",
+              "exp2_trial_07",
+              "exp2_trial_15",
+              "exp2_trial_03",
+              "exp2_trial_08",
+              "exp2_trial_12",
+              "exp2_trial_06",
+              "exp2_trial_13",
+              "exp2_trial_16",
+              "exp2_trial_11",
+              "exp2_trial_17",
+              "exp2_trial_14",
+              "exp2_trial_10",
+              "exp2_trial_02",
+              "exp2_trial_09"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01",
+              "test_trial_01",
+              "test_trial_02",
+              "test_trial_03"
+            ],
+            [
+              "exp2_trial_01",
+              "exp2_trial_03",
+              "exp2_trial_07",
+              "exp2_trial_14",
+              "exp2_trial_15",
+              "exp2_trial_02",
+              "exp2_trial_04",
+              "exp2_trial_13",
+              "exp2_trial_06",
+              "exp2_trial_11",
+              "exp2_trial_08",
+              "exp2_trial_17",
+              "exp2_trial_12",
+              "exp2_trial_05",
+              "exp2_trial_09",
+              "exp2_trial_16",
+              "exp2_trial_10"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "condition": "badness_rating",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_14"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_06"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_15"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_4",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_03"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_5",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_09"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_6",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_02"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_7",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_04"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_8",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_09"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_9",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_03",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_15"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_10",
+          "blocks": [
+            [
+              "instruction_01_badness",
+              "test_trial_01_badness",
+              "test_trial_02_badness",
+              "test_trial_03_badness"
+            ],
+            [
+              "exp2_badness_trial_15",
+              "exp2_badness_trial_05",
+              "exp2_badness_trial_06",
+              "exp2_badness_trial_09",
+              "exp2_badness_trial_14",
+              "exp2_badness_trial_13",
+              "exp2_badness_trial_12",
+              "exp2_badness_trial_08",
+              "exp2_badness_trial_11",
+              "exp2_badness_trial_04",
+              "exp2_badness_trial_02",
+              "exp2_badness_trial_01",
+              "exp2_badness_trial_10",
+              "exp2_badness_trial_17",
+              "exp2_badness_trial_07",
+              "exp2_badness_trial_16",
+              "exp2_badness_trial_03"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    "Moral judgments",
+    "Effort",
+    "Intuitive physics",
+    "Intuitive psychology",
+    "Causal inference",
+    "Counterfactual simulation"
+  ]
+}

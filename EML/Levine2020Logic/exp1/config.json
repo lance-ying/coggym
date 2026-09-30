@@ -1,0 +1,114 @@
+{
+  "experimentName": "The logic of universalization guides moral judgment (Study 1)",
+  "paper-title": "The logic of universalization guides moral judgment",
+  "citation": "Levine, S., Kleiman-Weiner, M., Schulz, L., Tenenbaum, J., & Cushman, F. (2020). The logic of universalization guides moral judgment. Proceedings of the National Academy of Sciences, 117(42), 26158–26169. https://doi.org/10.1073/pnas.2014505117",
+  "alias": "levine2020logic-exp1",
+  "description": "You will read 12 short stories and judge whether each of four explanations is a convincing reason the action described was wrong.",
+  "keywords": [
+    "moral judgment",
+    "moral development",
+    "universalization"
+  ],
+  "paperDOI": "https://doi.org/10.1073/pnas.2014505117",
+  "taskType": [
+    "Moral Judgment",
+    "Explanation Endorsement"
+  ],
+  "responseType": [
+    "multi-choice"
+  ],
+  "year": 2020,
+  "stimuli_count": 48,
+  "experimentFlow": [
+    {
+      "condition": "explanation_endorsement",
+      "sequences": [
+        {
+          "seq_id": "seq_1",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "37",
+              "33",
+              "27",
+              "26",
+              "16",
+              "40",
+              "9",
+              "28",
+              "43",
+              "11",
+              "47",
+              "36",
+              "5",
+              "29",
+              "10",
+              "0"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_2",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "32",
+              "2",
+              "38",
+              "18",
+              "20",
+              "31",
+              "21",
+              "39",
+              "23",
+              "4",
+              "17",
+              "44",
+              "1",
+              "14",
+              "42",
+              "15"
+            ]
+          ]
+        },
+        {
+          "seq_id": "seq_3",
+          "blocks": [
+            [
+              "instruction_01"
+            ],
+            [
+              "45",
+              "19",
+              "3",
+              "30",
+              "12",
+              "25",
+              "24",
+              "8",
+              "7",
+              "46",
+              "35",
+              "41",
+              "22",
+              "6",
+              "13",
+              "34"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "authors": [
+    "Sydney Levine",
+    "Max Kleiman-Weiner",
+    "Laura Schulz",
+    "Joshua Tenenbaum",
+    "Fiery Cushman"
+  ]
+}

@@ -1,0 +1,3 @@
+{"id": "instruction_01", "type": "instruction", "text": "You will see pairs of videos involving imaginary creatures (Blues and Greens) and a fireball. \n Each video shows a situation in which a Green collided with the fireball. \n Your task is to judge in which of the two videos Blue's actions were worse.", "media_url": ["assets/example_stim.png"]}
+{"id": "test_trial_01", "type": "test_trial", "stimuli_id": "exp1_practice_1", "feedback": ""}
+{"id": "test_trial_02", "type": "test_trial", "stimuli_id": "exp1_practice_2", "feedback": ""}

@@ -1,0 +1,1335 @@
+{
+  "participants_info": {
+    "count": 374,
+    "age": -1,
+    "gender": {
+      "not_reported": 374
+    }
+  },
+  "judgment_count": 63580,
+  "deceits_01": {
+    "choice": {
+      "choice_1": 58,
+      "choice_2": 4,
+      "choice_3": 16,
+      "choice_4": 296
+    }
+  },
+  "deceits_02": {
+    "choice": {
+      "choice_1": 107,
+      "choice_2": 2,
+      "choice_3": 263,
+      "choice_4": 2
+    }
+  },
+  "deceits_03": {
+    "choice": {
+      "choice_1": 3,
+      "choice_2": 4,
+      "choice_3": 1,
+      "choice_4": 366
+    }
+  },
+  "deceits_04": {
+    "choice": {
+      "choice_1": 20,
+      "choice_2": 343,
+      "choice_3": 2,
+      "choice_4": 9
+    }
+  },
+  "deceits_05": {
+    "choice": {
+      "choice_1": 17,
+      "choice_2": 5,
+      "choice_3": 348,
+      "choice_4": 4
+    }
+  },
+  "deceits_06": {
+    "choice": {
+      "choice_1": 5,
+      "choice_2": 12,
+      "choice_3": 325,
+      "choice_4": 32
+    }
+  },
+  "deceits_07": {
+    "choice": {
+      "choice_1": 9,
+      "choice_2": 352,
+      "choice_3": 5,
+      "choice_4": 8
+    }
+  },
+  "deceits_08": {
+    "choice": {
+      "choice_1": 3,
+      "choice_2": 352,
+      "choice_3": 9,
+      "choice_4": 10
+    }
+  },
+  "deceits_09": {
+    "choice": {
+      "choice_1": 30,
+      "choice_2": 23,
+      "choice_3": 319,
+      "choice_4": 2
+    }
+  },
+  "deceits_10": {
+    "choice": {
+      "choice_1": 10,
+      "choice_2": 359,
+      "choice_3": 5,
+      "choice_4": 0
+    }
+  },
+  "deceits_11": {
+    "choice": {
+      "choice_1": 15,
+      "choice_2": 7,
+      "choice_3": 336,
+      "choice_4": 16
+    }
+  },
+  "deceits_12": {
+    "choice": {
+      "choice_1": 129,
+      "choice_2": 8,
+      "choice_3": 231,
+      "choice_4": 6
+    }
+  },
+  "deceits_13": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 14,
+      "choice_3": 341,
+      "choice_4": 6
+    }
+  },
+  "deceits_14": {
+    "choice": {
+      "choice_1": 79,
+      "choice_2": 28,
+      "choice_3": 261,
+      "choice_4": 6
+    }
+  },
+  "deceits_15": {
+    "choice": {
+      "choice_1": 73,
+      "choice_2": 5,
+      "choice_3": 292,
+      "choice_4": 4
+    }
+  },
+  "deceits_16": {
+    "choice": {
+      "choice_1": 161,
+      "choice_2": 6,
+      "choice_3": 198,
+      "choice_4": 9
+    }
+  },
+  "deceits_17": {
+    "choice": {
+      "choice_1": 18,
+      "choice_2": 6,
+      "choice_3": 349,
+      "choice_4": 1
+    }
+  },
+  "deceits_18": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 5,
+      "choice_3": 354,
+      "choice_4": 3
+    }
+  },
+  "deceits_19": {
+    "choice": {
+      "choice_1": 36,
+      "choice_2": 20,
+      "choice_3": 316,
+      "choice_4": 2
+    }
+  },
+  "deceits_20": {
+    "choice": {
+      "choice_1": 68,
+      "choice_2": 7,
+      "choice_3": 297,
+      "choice_4": 2
+    }
+  },
+  "indirectspeech_01": {
+    "choice": {
+      "choice_1": 37,
+      "choice_2": 337,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_02": {
+    "choice": {
+      "choice_1": 142,
+      "choice_2": 227,
+      "choice_3": 4,
+      "choice_4": 1
+    }
+  },
+  "indirectspeech_03": {
+    "choice": {
+      "choice_1": 72,
+      "choice_2": 299,
+      "choice_3": 0,
+      "choice_4": 3
+    }
+  },
+  "indirectspeech_04": {
+    "choice": {
+      "choice_1": 27,
+      "choice_2": 344,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "indirectspeech_05": {
+    "choice": {
+      "choice_1": 15,
+      "choice_2": 359,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_06": {
+    "choice": {
+      "choice_1": 232,
+      "choice_2": 140,
+      "choice_3": 1,
+      "choice_4": 1
+    }
+  },
+  "indirectspeech_07": {
+    "choice": {
+      "choice_1": 39,
+      "choice_2": 334,
+      "choice_3": 1,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_08": {
+    "choice": {
+      "choice_1": 35,
+      "choice_2": 339,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_09": {
+    "choice": {
+      "choice_1": 58,
+      "choice_2": 315,
+      "choice_3": 1,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_10": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 366,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_11": {
+    "choice": {
+      "choice_1": 22,
+      "choice_2": 351,
+      "choice_3": 1,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_12": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 359,
+      "choice_3": 3,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_13": {
+    "choice": {
+      "choice_1": 7,
+      "choice_2": 365,
+      "choice_3": 0,
+      "choice_4": 2
+    }
+  },
+  "indirectspeech_14": {
+    "choice": {
+      "choice_1": 46,
+      "choice_2": 328,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_15": {
+    "choice": {
+      "choice_1": 9,
+      "choice_2": 364,
+      "choice_3": 1,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_16": {
+    "choice": {
+      "choice_1": 6,
+      "choice_2": 366,
+      "choice_3": 2,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_17": {
+    "choice": {
+      "choice_1": 18,
+      "choice_2": 352,
+      "choice_3": 4,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_18": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 359,
+      "choice_3": 1,
+      "choice_4": 1
+    }
+  },
+  "indirectspeech_19": {
+    "choice": {
+      "choice_1": 5,
+      "choice_2": 365,
+      "choice_3": 4,
+      "choice_4": 0
+    }
+  },
+  "indirectspeech_20": {
+    "choice": {
+      "choice_1": 14,
+      "choice_2": 358,
+      "choice_3": 2,
+      "choice_4": 0
+    }
+  },
+  "irony_01": {
+    "choice": {
+      "choice_1": 83,
+      "choice_2": 286,
+      "choice_3": 2,
+      "choice_4": 3
+    }
+  },
+  "irony_02": {
+    "choice": {
+      "choice_1": 6,
+      "choice_2": 363,
+      "choice_3": 5,
+      "choice_4": 0
+    }
+  },
+  "irony_03": {
+    "choice": {
+      "choice_1": 41,
+      "choice_2": 251,
+      "choice_3": 82,
+      "choice_4": 0
+    }
+  },
+  "irony_04": {
+    "choice": {
+      "choice_1": 0,
+      "choice_2": 368,
+      "choice_3": 0,
+      "choice_4": 6
+    }
+  },
+  "irony_05": {
+    "choice": {
+      "choice_1": 4,
+      "choice_2": 367,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "irony_06": {
+    "choice": {
+      "choice_1": 15,
+      "choice_2": 357,
+      "choice_3": 0,
+      "choice_4": 2
+    }
+  },
+  "irony_07": {
+    "choice": {
+      "choice_1": 16,
+      "choice_2": 342,
+      "choice_3": 13,
+      "choice_4": 3
+    }
+  },
+  "irony_08": {
+    "choice": {
+      "choice_1": 15,
+      "choice_2": 356,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "irony_09": {
+    "choice": {
+      "choice_1": 10,
+      "choice_2": 361,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "irony_10": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 363,
+      "choice_3": 1,
+      "choice_4": 2
+    }
+  },
+  "irony_11": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 348,
+      "choice_3": 10,
+      "choice_4": 3
+    }
+  },
+  "irony_12": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 356,
+      "choice_3": 3,
+      "choice_4": 3
+    }
+  },
+  "irony_13": {
+    "choice": {
+      "choice_1": 14,
+      "choice_2": 359,
+      "choice_3": 1,
+      "choice_4": 0
+    }
+  },
+  "irony_14": {
+    "choice": {
+      "choice_1": 15,
+      "choice_2": 350,
+      "choice_3": 6,
+      "choice_4": 3
+    }
+  },
+  "irony_15": {
+    "choice": {
+      "choice_1": 95,
+      "choice_2": 276,
+      "choice_3": 3,
+      "choice_4": 0
+    }
+  },
+  "irony_16": {
+    "choice": {
+      "choice_1": 26,
+      "choice_2": 348,
+      "choice_3": 0,
+      "choice_4": 0
+    }
+  },
+  "irony_17": {
+    "choice": {
+      "choice_1": 16,
+      "choice_2": 341,
+      "choice_3": 12,
+      "choice_4": 5
+    }
+  },
+  "irony_18": {
+    "choice": {
+      "choice_1": 20,
+      "choice_2": 347,
+      "choice_3": 5,
+      "choice_4": 2
+    }
+  },
+  "irony_19": {
+    "choice": {
+      "choice_1": 7,
+      "choice_2": 363,
+      "choice_3": 2,
+      "choice_4": 2
+    }
+  },
+  "irony_20": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 347,
+      "choice_3": 10,
+      "choice_4": 9
+    }
+  },
+  "irony_21": {
+    "choice": {
+      "choice_1": 23,
+      "choice_2": 348,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "irony_22": {
+    "choice": {
+      "choice_1": 44,
+      "choice_2": 327,
+      "choice_3": 3,
+      "choice_4": 0
+    }
+  },
+  "irony_23": {
+    "choice": {
+      "choice_1": 17,
+      "choice_2": 353,
+      "choice_3": 1,
+      "choice_4": 3
+    }
+  },
+  "irony_24": {
+    "choice": {
+      "choice_1": 11,
+      "choice_2": 358,
+      "choice_3": 5,
+      "choice_4": 0
+    }
+  },
+  "irony_25": {
+    "choice": {
+      "choice_1": 10,
+      "choice_2": 362,
+      "choice_3": 0,
+      "choice_4": 2
+    }
+  },
+  "maxims_01": {
+    "choice": {
+      "choice_1": 67,
+      "choice_2": 9,
+      "choice_3": 295,
+      "choice_4": 3
+    }
+  },
+  "maxims_02": {
+    "choice": {
+      "choice_1": 46,
+      "choice_2": 296,
+      "choice_3": 11,
+      "choice_4": 21
+    }
+  },
+  "maxims_03": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 351,
+      "choice_3": 10,
+      "choice_4": 5
+    }
+  },
+  "maxims_04": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 359,
+      "choice_3": 7,
+      "choice_4": 0
+    }
+  },
+  "maxims_05": {
+    "choice": {
+      "choice_1": 121,
+      "choice_2": 228,
+      "choice_3": 25,
+      "choice_4": 0
+    }
+  },
+  "maxims_06": {
+    "choice": {
+      "choice_1": 71,
+      "choice_2": 290,
+      "choice_3": 8,
+      "choice_4": 5
+    }
+  },
+  "maxims_07": {
+    "choice": {
+      "choice_1": 70,
+      "choice_2": 6,
+      "choice_3": 277,
+      "choice_4": 21
+    }
+  },
+  "maxims_08": {
+    "choice": {
+      "choice_1": 115,
+      "choice_2": 249,
+      "choice_3": 3,
+      "choice_4": 7
+    }
+  },
+  "maxims_09": {
+    "choice": {
+      "choice_1": 83,
+      "choice_2": 228,
+      "choice_3": 30,
+      "choice_4": 33
+    }
+  },
+  "maxims_10": {
+    "choice": {
+      "choice_1": 27,
+      "choice_2": 344,
+      "choice_3": 2,
+      "choice_4": 1
+    }
+  },
+  "maxims_11": {
+    "choice": {
+      "choice_1": 11,
+      "choice_2": 336,
+      "choice_3": 23,
+      "choice_4": 4
+    }
+  },
+  "maxims_12": {
+    "choice": {
+      "choice_1": 91,
+      "choice_2": 247,
+      "choice_3": 34,
+      "choice_4": 2
+    }
+  },
+  "maxims_13": {
+    "choice": {
+      "choice_1": 114,
+      "choice_2": 211,
+      "choice_3": 8,
+      "choice_4": 41
+    }
+  },
+  "maxims_14": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 296,
+      "choice_3": 29,
+      "choice_4": 37
+    }
+  },
+  "maxims_15": {
+    "choice": {
+      "choice_1": 22,
+      "choice_2": 289,
+      "choice_3": 34,
+      "choice_4": 29
+    }
+  },
+  "maxims_16": {
+    "choice": {
+      "choice_1": 10,
+      "choice_2": 360,
+      "choice_3": 2,
+      "choice_4": 2
+    }
+  },
+  "maxims_17": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 347,
+      "choice_3": 9,
+      "choice_4": 5
+    }
+  },
+  "maxims_18": {
+    "choice": {
+      "choice_1": 27,
+      "choice_2": 98,
+      "choice_3": 239,
+      "choice_4": 10
+    }
+  },
+  "maxims_19": {
+    "choice": {
+      "choice_1": 7,
+      "choice_2": 359,
+      "choice_3": 2,
+      "choice_4": 6
+    }
+  },
+  "maxims_20": {
+    "choice": {
+      "choice_1": 9,
+      "choice_2": 352,
+      "choice_3": 10,
+      "choice_4": 3
+    }
+  },
+  "metaphor_01": {
+    "choice": {
+      "choice_1": 4,
+      "choice_2": 329,
+      "choice_3": 31,
+      "choice_4": 0,
+      "choice_5": 10
+    }
+  },
+  "metaphor_02": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 330,
+      "choice_3": 0,
+      "choice_4": 28,
+      "choice_5": 4
+    }
+  },
+  "metaphor_03": {
+    "choice": {
+      "choice_1": 6,
+      "choice_2": 365,
+      "choice_3": 1,
+      "choice_4": 0,
+      "choice_5": 2
+    }
+  },
+  "metaphor_04": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 335,
+      "choice_3": 26,
+      "choice_4": 1,
+      "choice_5": 4
+    }
+  },
+  "metaphor_05": {
+    "choice": {
+      "choice_1": 10,
+      "choice_2": 328,
+      "choice_3": 1,
+      "choice_4": 3,
+      "choice_5": 32
+    }
+  },
+  "metaphor_06": {
+    "choice": {
+      "choice_1": 6,
+      "choice_2": 358,
+      "choice_3": 2,
+      "choice_4": 4,
+      "choice_5": 4
+    }
+  },
+  "metaphor_07": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 354,
+      "choice_3": 4,
+      "choice_4": 0,
+      "choice_5": 3
+    }
+  },
+  "metaphor_08": {
+    "choice": {
+      "choice_1": 6,
+      "choice_2": 250,
+      "choice_3": 3,
+      "choice_4": 9,
+      "choice_5": 106
+    }
+  },
+  "metaphor_09": {
+    "choice": {
+      "choice_1": 1,
+      "choice_2": 369,
+      "choice_3": 2,
+      "choice_4": 0,
+      "choice_5": 2
+    }
+  },
+  "metaphor_10": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 363,
+      "choice_3": 1,
+      "choice_4": 0,
+      "choice_5": 2
+    }
+  },
+  "metaphor_11": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 291,
+      "choice_3": 2,
+      "choice_4": 58,
+      "choice_5": 15
+    }
+  },
+  "metaphor_12": {
+    "choice": {
+      "choice_1": 7,
+      "choice_2": 356,
+      "choice_3": 7,
+      "choice_4": 1,
+      "choice_5": 3
+    }
+  },
+  "metaphor_13": {
+    "choice": {
+      "choice_1": 3,
+      "choice_2": 353,
+      "choice_3": 7,
+      "choice_4": 1,
+      "choice_5": 10
+    }
+  },
+  "metaphor_14": {
+    "choice": {
+      "choice_1": 25,
+      "choice_2": 344,
+      "choice_3": 2,
+      "choice_4": 0,
+      "choice_5": 3
+    }
+  },
+  "metaphor_15": {
+    "choice": {
+      "choice_1": 0,
+      "choice_2": 343,
+      "choice_3": 22,
+      "choice_4": 1,
+      "choice_5": 8
+    }
+  },
+  "metaphor_16": {
+    "choice": {
+      "choice_1": 1,
+      "choice_2": 354,
+      "choice_3": 1,
+      "choice_4": 7,
+      "choice_5": 11
+    }
+  },
+  "metaphor_17": {
+    "choice": {
+      "choice_1": 77,
+      "choice_2": 259,
+      "choice_3": 2,
+      "choice_4": 0,
+      "choice_5": 36
+    }
+  },
+  "metaphor_18": {
+    "choice": {
+      "choice_1": 27,
+      "choice_2": 334,
+      "choice_3": 4,
+      "choice_4": 1,
+      "choice_5": 8
+    }
+  },
+  "metaphor_19": {
+    "choice": {
+      "choice_1": 37,
+      "choice_2": 325,
+      "choice_3": 6,
+      "choice_4": 1,
+      "choice_5": 5
+    }
+  },
+  "metaphor_20": {
+    "choice": {
+      "choice_1": 0,
+      "choice_2": 368,
+      "choice_3": 1,
+      "choice_4": 2,
+      "choice_5": 3
+    }
+  },
+  "humour_01": {
+    "choice": {
+      "choice_1": 346,
+      "choice_2": 10,
+      "choice_3": 8,
+      "choice_4": 5,
+      "choice_5": 5
+    }
+  },
+  "humour_02": {
+    "choice": {
+      "choice_1": 301,
+      "choice_2": 46,
+      "choice_3": 4,
+      "choice_4": 12,
+      "choice_5": 11
+    }
+  },
+  "humour_03": {
+    "choice": {
+      "choice_1": 233,
+      "choice_2": 13,
+      "choice_3": 119,
+      "choice_4": 5,
+      "choice_5": 4
+    }
+  },
+  "humour_04": {
+    "choice": {
+      "choice_1": 347,
+      "choice_2": 18,
+      "choice_3": 3,
+      "choice_4": 0,
+      "choice_5": 6
+    }
+  },
+  "humour_05": {
+    "choice": {
+      "choice_1": 321,
+      "choice_2": 20,
+      "choice_3": 8,
+      "choice_4": 5,
+      "choice_5": 20
+    }
+  },
+  "humour_06": {
+    "choice": {
+      "choice_1": 361,
+      "choice_2": 7,
+      "choice_3": 2,
+      "choice_4": 1,
+      "choice_5": 3
+    }
+  },
+  "humour_07": {
+    "choice": {
+      "choice_1": 319,
+      "choice_2": 22,
+      "choice_3": 4,
+      "choice_4": 7,
+      "choice_5": 22
+    }
+  },
+  "humour_08": {
+    "choice": {
+      "choice_1": 343,
+      "choice_2": 15,
+      "choice_3": 8,
+      "choice_4": 0,
+      "choice_5": 8
+    }
+  },
+  "humour_09": {
+    "choice": {
+      "choice_1": 284,
+      "choice_2": 46,
+      "choice_3": 3,
+      "choice_4": 2,
+      "choice_5": 39
+    }
+  },
+  "humour_10": {
+    "choice": {
+      "choice_1": 305,
+      "choice_2": 17,
+      "choice_3": 7,
+      "choice_4": 5,
+      "choice_5": 40
+    }
+  },
+  "humour_11": {
+    "choice": {
+      "choice_1": 347,
+      "choice_2": 21,
+      "choice_3": 1,
+      "choice_4": 0,
+      "choice_5": 5
+    }
+  },
+  "humour_12": {
+    "choice": {
+      "choice_1": 345,
+      "choice_2": 19,
+      "choice_3": 3,
+      "choice_4": 6,
+      "choice_5": 1
+    }
+  },
+  "humour_13": {
+    "choice": {
+      "choice_1": 339,
+      "choice_2": 11,
+      "choice_3": 11,
+      "choice_4": 1,
+      "choice_5": 12
+    }
+  },
+  "humour_14": {
+    "choice": {
+      "choice_1": 337,
+      "choice_2": 22,
+      "choice_3": 10,
+      "choice_4": 1,
+      "choice_5": 4
+    }
+  },
+  "humour_15": {
+    "choice": {
+      "choice_1": 318,
+      "choice_2": 20,
+      "choice_3": 9,
+      "choice_4": 10,
+      "choice_5": 17
+    }
+  },
+  "humour_16": {
+    "choice": {
+      "choice_1": 299,
+      "choice_2": 25,
+      "choice_3": 16,
+      "choice_4": 29,
+      "choice_5": 5
+    }
+  },
+  "humour_17": {
+    "choice": {
+      "choice_1": 332,
+      "choice_2": 15,
+      "choice_3": 1,
+      "choice_4": 12,
+      "choice_5": 14
+    }
+  },
+  "humour_18": {
+    "choice": {
+      "choice_1": 355,
+      "choice_2": 6,
+      "choice_3": 0,
+      "choice_4": 5,
+      "choice_5": 8
+    }
+  },
+  "humour_19": {
+    "choice": {
+      "choice_1": 156,
+      "choice_2": 174,
+      "choice_3": 24,
+      "choice_4": 2,
+      "choice_5": 18
+    }
+  },
+  "humour_20": {
+    "choice": {
+      "choice_1": 313,
+      "choice_2": 15,
+      "choice_3": 12,
+      "choice_4": 1,
+      "choice_5": 33
+    }
+  },
+  "humour_21": {
+    "choice": {
+      "choice_1": 313,
+      "choice_2": 25,
+      "choice_3": 25,
+      "choice_4": 1,
+      "choice_5": 10
+    }
+  },
+  "humour_22": {
+    "choice": {
+      "choice_1": 336,
+      "choice_2": 14,
+      "choice_3": 7,
+      "choice_4": 7,
+      "choice_5": 10
+    }
+  },
+  "humour_23": {
+    "choice": {
+      "choice_1": 319,
+      "choice_2": 48,
+      "choice_3": 2,
+      "choice_4": 3,
+      "choice_5": 2
+    }
+  },
+  "humour_24": {
+    "choice": {
+      "choice_1": 326,
+      "choice_2": 14,
+      "choice_3": 26,
+      "choice_4": 3,
+      "choice_5": 5
+    }
+  },
+  "humour_25": {
+    "choice": {
+      "choice_1": 323,
+      "choice_2": 16,
+      "choice_3": 10,
+      "choice_4": 3,
+      "choice_5": 22
+    }
+  },
+  "coherenceinference_01": {
+    "choice": {
+      "choice_1": 13,
+      "choice_2": 361
+    }
+  },
+  "coherenceinference_02": {
+    "choice": {
+      "choice_1": 31,
+      "choice_2": 343
+    }
+  },
+  "coherenceinference_03": {
+    "choice": {
+      "choice_1": 59,
+      "choice_2": 315
+    }
+  },
+  "coherenceinference_04": {
+    "choice": {
+      "choice_1": 160,
+      "choice_2": 214
+    }
+  },
+  "coherenceinference_05": {
+    "choice": {
+      "choice_1": 8,
+      "choice_2": 366
+    }
+  },
+  "coherenceinference_06": {
+    "choice": {
+      "choice_1": 22,
+      "choice_2": 352
+    }
+  },
+  "coherenceinference_07": {
+    "choice": {
+      "choice_1": 46,
+      "choice_2": 328
+    }
+  },
+  "coherenceinference_08": {
+    "choice": {
+      "choice_1": 60,
+      "choice_2": 314
+    }
+  },
+  "coherenceinference_09": {
+    "choice": {
+      "choice_1": 14,
+      "choice_2": 360
+    }
+  },
+  "coherenceinference_10": {
+    "choice": {
+      "choice_1": 7,
+      "choice_2": 367
+    }
+  },
+  "coherenceinference_11": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 362
+    }
+  },
+  "coherenceinference_12": {
+    "choice": {
+      "choice_1": 82,
+      "choice_2": 292
+    }
+  },
+  "coherenceinference_13": {
+    "choice": {
+      "choice_1": 22,
+      "choice_2": 352
+    }
+  },
+  "coherenceinference_14": {
+    "choice": {
+      "choice_1": 131,
+      "choice_2": 243
+    }
+  },
+  "coherenceinference_15": {
+    "choice": {
+      "choice_1": 143,
+      "choice_2": 231
+    }
+  },
+  "coherenceinference_16": {
+    "choice": {
+      "choice_1": 73,
+      "choice_2": 301
+    }
+  },
+  "coherenceinference_17": {
+    "choice": {
+      "choice_1": 141,
+      "choice_2": 233
+    }
+  },
+  "coherenceinference_18": {
+    "choice": {
+      "choice_1": 3,
+      "choice_2": 371
+    }
+  },
+  "coherenceinference_19": {
+    "choice": {
+      "choice_1": 118,
+      "choice_2": 256
+    }
+  },
+  "coherenceinference_20": {
+    "choice": {
+      "choice_1": 12,
+      "choice_2": 362
+    }
+  },
+  "coherenceinference_21": {
+    "choice": {
+      "choice_1": 314,
+      "choice_2": 60
+    }
+  },
+  "coherenceinference_22": {
+    "choice": {
+      "choice_1": 298,
+      "choice_2": 76
+    }
+  },
+  "coherenceinference_23": {
+    "choice": {
+      "choice_1": 333,
+      "choice_2": 41
+    }
+  },
+  "coherenceinference_24": {
+    "choice": {
+      "choice_1": 305,
+      "choice_2": 69
+    }
+  },
+  "coherenceinference_25": {
+    "choice": {
+      "choice_1": 352,
+      "choice_2": 22
+    }
+  },
+  "coherenceinference_26": {
+    "choice": {
+      "choice_1": 366,
+      "choice_2": 8
+    }
+  },
+  "coherenceinference_27": {
+    "choice": {
+      "choice_1": 302,
+      "choice_2": 72
+    }
+  },
+  "coherenceinference_28": {
+    "choice": {
+      "choice_1": 360,
+      "choice_2": 14
+    }
+  },
+  "coherenceinference_29": {
+    "choice": {
+      "choice_1": 368,
+      "choice_2": 6
+    }
+  },
+  "coherenceinference_30": {
+    "choice": {
+      "choice_1": 340,
+      "choice_2": 34
+    }
+  },
+  "coherenceinference_31": {
+    "choice": {
+      "choice_1": 336,
+      "choice_2": 38
+    }
+  },
+  "coherenceinference_32": {
+    "choice": {
+      "choice_1": 355,
+      "choice_2": 19
+    }
+  },
+  "coherenceinference_33": {
+    "choice": {
+      "choice_1": 367,
+      "choice_2": 7
+    }
+  },
+  "coherenceinference_34": {
+    "choice": {
+      "choice_1": 181,
+      "choice_2": 193
+    }
+  },
+  "coherenceinference_35": {
+    "choice": {
+      "choice_1": 285,
+      "choice_2": 89
+    }
+  },
+  "coherenceinference_36": {
+    "choice": {
+      "choice_1": 319,
+      "choice_2": 55
+    }
+  },
+  "coherenceinference_37": {
+    "choice": {
+      "choice_1": 239,
+      "choice_2": 135
+    }
+  },
+  "coherenceinference_38": {
+    "choice": {
+      "choice_1": 370,
+      "choice_2": 4
+    }
+  },
+  "coherenceinference_39": {
+    "choice": {
+      "choice_1": 346,
+      "choice_2": 28
+    }
+  },
+  "coherenceinference_40": {
+    "choice": {
+      "choice_1": 357,
+      "choice_2": 17
+    }
+  }
+}

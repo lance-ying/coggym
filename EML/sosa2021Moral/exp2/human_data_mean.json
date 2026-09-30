@@ -1,0 +1,118 @@
+{
+  "participants_info": {
+    "count": 83,
+    "gender": {
+      "male": 40,
+      "female": 42,
+      "other": 1
+    },
+    "age": 35.66,
+    "by_condition": {
+      "badness_rating": 41,
+      "effort_rating": 42
+    }
+  },
+  "judgment_count": 1411,
+  "exp2_trial_01": {
+    "effort_rating": 49.26190476190476
+  },
+  "exp2_badness_trial_01": {
+    "badness_rating": 91.26829268292683
+  },
+  "exp2_trial_02": {
+    "effort_rating": 78.97619047619048
+  },
+  "exp2_badness_trial_02": {
+    "badness_rating": 89.73170731707317
+  },
+  "exp2_trial_03": {
+    "effort_rating": 7.928571428571429
+  },
+  "exp2_badness_trial_03": {
+    "badness_rating": 30.024390243902438
+  },
+  "exp2_trial_04": {
+    "effort_rating": 34.23809523809524
+  },
+  "exp2_badness_trial_04": {
+    "badness_rating": 62.09756097560975
+  },
+  "exp2_trial_05": {
+    "effort_rating": 85.80952380952381
+  },
+  "exp2_badness_trial_05": {
+    "badness_rating": 96.46341463414635
+  },
+  "exp2_trial_06": {
+    "effort_rating": 83.83333333333333
+  },
+  "exp2_badness_trial_06": {
+    "badness_rating": 94.46341463414635
+  },
+  "exp2_trial_07": {
+    "effort_rating": 83.85714285714286
+  },
+  "exp2_badness_trial_07": {
+    "badness_rating": 91.90243902439025
+  },
+  "exp2_trial_08": {
+    "effort_rating": 55.04761904761905
+  },
+  "exp2_badness_trial_08": {
+    "badness_rating": 84.8048780487805
+  },
+  "exp2_trial_09": {
+    "effort_rating": 6.261904761904762
+  },
+  "exp2_badness_trial_09": {
+    "badness_rating": 34.73170731707317
+  },
+  "exp2_trial_10": {
+    "effort_rating": 58.404761904761905
+  },
+  "exp2_badness_trial_10": {
+    "badness_rating": 81.70731707317073
+  },
+  "exp2_trial_11": {
+    "effort_rating": 56.333333333333336
+  },
+  "exp2_badness_trial_11": {
+    "badness_rating": 86.02439024390245
+  },
+  "exp2_trial_12": {
+    "effort_rating": 52.92857142857143
+  },
+  "exp2_badness_trial_12": {
+    "badness_rating": 92.2439024390244
+  },
+  "exp2_trial_13": {
+    "effort_rating": 73.92857142857143
+  },
+  "exp2_badness_trial_13": {
+    "badness_rating": 91.3170731707317
+  },
+  "exp2_trial_14": {
+    "effort_rating": 58.714285714285715
+  },
+  "exp2_badness_trial_14": {
+    "badness_rating": 85.70731707317073
+  },
+  "exp2_trial_15": {
+    "effort_rating": 58.07142857142857
+  },
+  "exp2_badness_trial_15": {
+    "badness_rating": 93.60975609756098
+  },
+  "exp2_trial_16": {
+    "effort_rating": 54.666666666666664
+  },
+  "exp2_badness_trial_16": {
+    "badness_rating": 84.0
+  },
+  "exp2_trial_17": {
+    "effort_rating": 72.71428571428571
+  },
+  "exp2_badness_trial_17": {
+    "badness_rating": 88.60975609756098
+  }
+}

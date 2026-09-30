@@ -1,0 +1,8 @@
+{"id": "instruction_01", "type": "instruction", "text": "You will see videos involving imaginary creatures (Blues and Greens) and a fireball. \n Each video shows a situation in which a Green collided with the fireball. \n Your task is to judge how much effort the Blue creature exerted in each video.", "media_url": ["assets/example_stim.png"]}
+{"id": "instruction_01_badness", "type": "instruction", "text": "You will see videos involving imaginary creatures (Blues and Greens) and a fireball. \n Each video shows a situation in which a Green collided with the fireball. \n Your task is to judge how bad was what the Blue creature did in each video.", "media_url": ["assets/example_stim.png"]}
+{"id": "test_trial_01", "type": "test_trial", "stimuli_id": "exp2_practice_1", "feedback": ""}
+{"id": "test_trial_02", "type": "test_trial", "stimuli_id": "exp2_practice_2", "feedback": ""}
+{"id": "test_trial_03", "type": "test_trial", "stimuli_id": "exp2_practice_3", "feedback": ""}
+{"id": "test_trial_01_badness", "type": "test_trial", "stimuli_id": "exp2_practice_1_badness", "feedback": ""}
+{"id": "test_trial_02_badness", "type": "test_trial", "stimuli_id": "exp2_practice_2_badness", "feedback": ""}
+{"id": "test_trial_03_badness", "type": "test_trial", "stimuli_id": "exp2_practice_3_badness", "feedback": ""}

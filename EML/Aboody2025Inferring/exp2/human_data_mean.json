@@ -1,0 +1,82 @@
+{
+  "participants_info": {
+    "count": 40,
+    "age": 38.73,
+    "gender": {
+      "unknown": 40
+    }
+  },
+  "judgment_count": 1440,
+  "trial_36_40_1X": {
+    "pirate_knowledge": 17.2,
+    "map_knowledge": 87.35
+  },
+  "trial_36_20_1X": {
+    "pirate_knowledge": 24.525,
+    "map_knowledge": 77.55
+  },
+  "trial_36_1_1X": {
+    "pirate_knowledge": 46.075,
+    "map_knowledge": 63.3
+  },
+  "trial_36_40_0X": {
+    "pirate_knowledge": 70.05,
+    "map_knowledge": 25.975
+  },
+  "trial_36_20_0X": {
+    "pirate_knowledge": 72.725,
+    "map_knowledge": 25.75
+  },
+  "trial_36_1_0X": {
+    "pirate_knowledge": 77.825,
+    "map_knowledge": 20.65
+  },
+  "trial_24_40_1X": {
+    "pirate_knowledge": 16.5,
+    "map_knowledge": 85.25
+  },
+  "trial_24_20_1X": {
+    "pirate_knowledge": 22.35,
+    "map_knowledge": 78.525
+  },
+  "trial_24_1_1X": {
+    "pirate_knowledge": 48.3,
+    "map_knowledge": 66.575
+  },
+  "trial_24_40_0X": {
+    "pirate_knowledge": 66.3,
+    "map_knowledge": 29.525
+  },
+  "trial_24_20_0X": {
+    "pirate_knowledge": 74.775,
+    "map_knowledge": 24.625
+  },
+  "trial_24_1_0X": {
+    "pirate_knowledge": 82.1,
+    "map_knowledge": 23.2
+  },
+  "trial_12_40_1X": {
+    "pirate_knowledge": 17.0,
+    "map_knowledge": 87.7
+  },
+  "trial_12_20_1X": {
+    "pirate_knowledge": 24.2,
+    "map_knowledge": 83.4
+  },
+  "trial_12_1_1X": {
+    "pirate_knowledge": 49.225,
+    "map_knowledge": 63.0
+  },
+  "trial_12_40_0X": {
+    "pirate_knowledge": 69.025,
+    "map_knowledge": 25.225
+  },
+  "trial_12_20_0X": {
+    "pirate_knowledge": 75.175,
+    "map_knowledge": 25.875
+  },
+  "trial_12_1_0X": {
+    "pirate_knowledge": 78.575,
+    "map_knowledge": 23.375
+  }
+}

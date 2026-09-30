@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[2]
 
 class PublicEvaluationTests(unittest.TestCase):
     def test_nested_sequence_flow_is_loaded(self) -> None:
-        experiment = load_experiment(ROOT / "EML" / "Radkani2025What" / "exp4")
+        experiment = load_experiment(ROOT / "EML" / "Aboody2025Inferring" / "exp2")
         trials = experiment.experiment_trials()
         self.assertEqual(len(trials), 18)
         system, messages = build_messages(trials[0], experiment, refs_only=True)
@@ -27,7 +27,7 @@ class PublicEvaluationTests(unittest.TestCase):
         trial_ids = [f"Legitimate_obs{index}" for index in range(5)]
         artifact = {
             "model": "test-model",
-            "experiment": "Radkani2025What/exp4",
+            "experiment": "Levine2020Logic/exp1",
             "trials": [
                 {
                     "trial_id": trial_id,

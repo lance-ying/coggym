@@ -1,0 +1,259 @@
+{
+  "exp3_trial_01": {
+    "responsibility_rating": 33.29090909090909
+  },
+  "exp3_trial_02": {
+    "responsibility_rating": 35.61818181818182
+  },
+  "exp3_trial_03": {
+    "responsibility_rating": 91.89090909090909
+  },
+  "exp3_trial_04": {
+    "responsibility_rating": 59.45454545454545
+  },
+  "exp3_trial_05": {
+    "responsibility_rating": 83.63636363636364
+  },
+  "exp3_trial_06": {
+    "responsibility_rating": 88.49090909090908
+  },
+  "exp3_trial_07": {
+    "responsibility_rating": 92.16363636363636
+  },
+  "exp3_trial_08": {
+    "responsibility_rating": 57.345454545454544
+  },
+  "exp3_trial_09": {
+    "responsibility_rating": 59.236363636363635
+  },
+  "exp3_trial_10": {
+    "responsibility_rating": 59.70909090909091
+  },
+  "exp3_trial_11": {
+    "responsibility_rating": 64.25454545454545
+  },
+  "exp3_trial_12": {
+    "responsibility_rating": 94.96363636363637
+  },
+  "exp3_trial_13": {
+    "responsibility_rating": 37.836363636363636
+  },
+  "exp3_trial_14": {
+    "responsibility_rating": 11.545454545454545
+  },
+  "exp3_trial_15": {
+    "responsibility_rating": 84.74545454545455
+  },
+  "exp3_trial_16": {
+    "responsibility_rating": 73.18181818181819
+  },
+  "exp3_trial_17": {
+    "responsibility_rating": 90.2909090909091
+  },
+  "exp3_trial_18": {
+    "responsibility_rating": 87.94545454545455
+  },
+  "exp3_trial_19": {
+    "responsibility_rating": 66.36363636363636
+  },
+  "exp3_trial_20": {
+    "responsibility_rating": 89.03636363636363
+  },
+  "exp3_effort_trial_01": {
+    "effort_rating": 10.92156862745098
+  },
+  "exp3_effort_trial_02": {
+    "effort_rating": 10.745098039215685
+  },
+  "exp3_effort_trial_03": {
+    "effort_rating": 54.372549019607845
+  },
+  "exp3_effort_trial_04": {
+    "effort_rating": 50.01960784313726
+  },
+  "exp3_effort_trial_05": {
+    "effort_rating": 51.84313725490196
+  },
+  "exp3_effort_trial_06": {
+    "effort_rating": 47.84313725490196
+  },
+  "exp3_effort_trial_07": {
+    "effort_rating": 83.2156862745098
+  },
+  "exp3_effort_trial_08": {
+    "effort_rating": 53.64705882352941
+  },
+  "exp3_effort_trial_09": {
+    "effort_rating": 55.80392156862745
+  },
+  "exp3_effort_trial_10": {
+    "effort_rating": 55.509803921568626
+  },
+  "exp3_effort_trial_11": {
+    "effort_rating": 53.529411764705884
+  },
+  "exp3_effort_trial_12": {
+    "effort_rating": 79.41176470588235
+  },
+  "exp3_effort_trial_13": {
+    "effort_rating": 35.450980392156865
+  },
+  "exp3_effort_trial_14": {
+    "effort_rating": 6.137254901960785
+  },
+  "exp3_effort_trial_15": {
+    "effort_rating": 53.529411764705884
+  },
+  "exp3_effort_trial_16": {
+    "effort_rating": 50.84313725490196
+  },
+  "exp3_effort_trial_17": {
+    "effort_rating": 56.666666666666664
+  },
+  "exp3_effort_trial_18": {
+    "effort_rating": 53.1764705882353
+  },
+  "exp3_effort_trial_19": {
+    "effort_rating": 52.411764705882355
+  },
+  "exp3_effort_trial_20": {
+    "effort_rating": 54.705882352941174
+  },
+  "exp3_counterfactual_trial_01": {
+    "counterfactual_collision": 22.176470588235293
+  },
+  "exp3_counterfactual_trial_02": {
+    "counterfactual_collision": 23.372549019607842
+  },
+  "exp3_counterfactual_trial_03": {
+    "counterfactual_collision": 24.92156862745098
+  },
+  "exp3_counterfactual_trial_04": {
+    "counterfactual_collision": 48.88235294117647
+  },
+  "exp3_counterfactual_trial_05": {
+    "counterfactual_collision": 29.0
+  },
+  "exp3_counterfactual_trial_06": {
+    "counterfactual_collision": 22.215686274509803
+  },
+  "exp3_counterfactual_trial_07": {
+    "counterfactual_collision": 19.901960784313726
+  },
+  "exp3_counterfactual_trial_08": {
+    "counterfactual_collision": 82.25490196078431
+  },
+  "exp3_counterfactual_trial_09": {
+    "counterfactual_collision": 84.13725490196079
+  },
+  "exp3_counterfactual_trial_10": {
+    "counterfactual_collision": 83.88235294117646
+  },
+  "exp3_counterfactual_trial_11": {
+    "counterfactual_collision": 86.01960784313725
+  },
+  "exp3_counterfactual_trial_12": {
+    "counterfactual_collision": 16.764705882352942
+  },
+  "exp3_counterfactual_trial_13": {
+    "counterfactual_collision": 82.88235294117646
+  },
+  "exp3_counterfactual_trial_14": {
+    "counterfactual_collision": 90.50980392156863
+  },
+  "exp3_counterfactual_trial_15": {
+    "counterfactual_collision": 18.80392156862745
+  },
+  "exp3_counterfactual_trial_16": {
+    "counterfactual_collision": 38.92156862745098
+  },
+  "exp3_counterfactual_trial_17": {
+    "counterfactual_collision": 15.823529411764707
+  },
+  "exp3_counterfactual_trial_18": {
+    "counterfactual_collision": 19.019607843137255
+  },
+  "exp3_counterfactual_trial_19": {
+    "counterfactual_collision": 37.72549019607843
+  },
+  "exp3_counterfactual_trial_20": {
+    "counterfactual_collision": 17.352941176470587
+  },
+  "exp3_badness_trial_01": {
+    "badness_rating": 22.192307692307693
+  },
+  "exp3_badness_trial_02": {
+    "badness_rating": 22.442307692307693
+  },
+  "exp3_badness_trial_03": {
+    "badness_rating": 72.5
+  },
+  "exp3_badness_trial_04": {
+    "badness_rating": 56.32692307692308
+  },
+  "exp3_badness_trial_05": {
+    "badness_rating": 69.23076923076923
+  },
+  "exp3_badness_trial_06": {
+    "badness_rating": 64.21153846153847
+  },
+  "exp3_badness_trial_07": {
+    "badness_rating": 78.34615384615384
+  },
+  "exp3_badness_trial_08": {
+    "badness_rating": 67.26923076923077
+  },
+  "exp3_badness_trial_09": {
+    "badness_rating": 72.28846153846153
+  },
+  "exp3_badness_trial_10": {
+    "badness_rating": 72.96153846153847
+  },
+  "exp3_badness_trial_11": {
+    "badness_rating": 68.28846153846153
+  },
+  "exp3_badness_trial_12": {
+    "badness_rating": 81.86538461538461
+  },
+  "exp3_badness_trial_13": {
+    "badness_rating": 42.0
+  },
+  "exp3_badness_trial_14": {
+    "badness_rating": 24.596153846153847
+  },
+  "exp3_badness_trial_15": {
+    "badness_rating": 71.76923076923077
+  },
+  "exp3_badness_trial_16": {
+    "badness_rating": 62.0
+  },
+  "exp3_badness_trial_17": {
+    "badness_rating": 79.57692307692308
+  },
+  "exp3_badness_trial_18": {
+    "badness_rating": 72.9423076923077
+  },
+  "exp3_badness_trial_19": {
+    "badness_rating": 63.73076923076923
+  },
+  "exp3_badness_trial_20": {
+    "badness_rating": 78.5
+  },
+  "judgment_count": 4180,
+  "participants_info": {
+    "count": 209,
+    "gender": {
+      "male": 128,
+      "female": 78,
+      "prefer_not_to_say": 2,
+      "other": 1
+    },
+    "age": 37.89,
+    "by_condition": {
+      "responsibility_rating": 55,
+      "effort_rating": 51,
+      "counterfactual_collision": 51,
+      "badness_rating": 52
+    }
+  }
+}

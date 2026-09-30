@@ -4,29 +4,31 @@ CogGym is a benchmark for comparing human and machine cognition across tasks
 grounded in cognitive science.
 
 This repository is the **open 10-study evaluation subset**. It contains 23
-experiments spanning all seven CogGym topic groups and all three modalities
-(text, image, and video), together with anonymized human responses and the
-standalone evaluation code.
+experiments spanning text, image, and video, together with anonymized human
+responses and the standalone evaluation code. Every included study contains at
+least one experiment independently replicated in the CogGym paper; all
+benchmark-eligible experiments from those studies are included here.
 
 ## Open subset
 
 | Study | Topic | Modality | Experiments |
 | --- | --- | --- | ---: |
+| `Levine2020Logic` | Moral and responsibility judgments | Text | 6 |
 | `Yoon2020Polite` | Language and pragmatics | Text | 2 |
 | `Tsvilodub2025Nonliteral` | Language and pragmatics | Text | 2 |
-| `Radkani2025What` | Moral and responsibility judgments | Text | 4 |
-| `Fu2025Hierarchical` | Perception | Video | 2 |
-| `Gerstenberg2018What` | Causal and counterfactual reasoning | Video | 2 |
-| `Ying2024Grounding` | Theory of mind and social inference | Video | 1 |
-| `Bass2022Partial` | Physical reasoning and physical inference | Video | 1 |
+| `Hu2023Fine` | Language and pragmatics | Text | 1 |
+| `Aboody2025Inferring` | Theory of mind and social inference | Image | 2 |
 | `JaraEttinger2021Quantitative` | Theory of mind and social inference | Image | 3 |
-| `Zhou2023Mental` | Physical reasoning and physical inference | Image | 3 |
-| `Ong2015Affective` | Emotion attribution | Image | 3 |
+| `Chandra2024Cooperative` | Theory of mind and social inference | Image | 1 |
+| `Bass2022Partial` | Physical reasoning and physical inference | Video | 1 |
+| `Fu2025Hierarchical` | Perception | Video | 2 |
+| `sosa2021Moral` | Moral and responsibility judgments | Video | 3 |
 
-The subset was chosen for topic and modality coverage among studies with high
-human split-half consistency. It is intended for inspecting the format,
-developing evaluation tooling, and reproducing example analyses. Because these
-studies are public, they should not be treated as a held-out benchmark.
+The subset was chosen for modality and topic coverage among studies validated
+by fresh human replications. It contains 11 text, 6 image, and 6 video
+experiments. It is intended for inspecting the format, developing evaluation
+tooling, and reproducing example analyses. Because these studies are public,
+they should not be treated as a held-out benchmark.
 
 ## Full 50-study dataset
 

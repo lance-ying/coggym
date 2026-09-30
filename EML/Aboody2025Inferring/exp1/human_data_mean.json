@@ -1,0 +1,86 @@
+{
+ "participants_info": {
+  "count": 40,
+  "age": 35.05,
+  "gender": {
+   "unknown": 40
+  }
+ },
+ "judgment_count": 1520,
+ "trial_3": {
+  "left_knowledge": 30.825,
+  "right_knowledge": 70.9
+ },
+ "trial_4": {
+  "left_knowledge": 33.625,
+  "right_knowledge": 55.525
+ },
+ "trial_6": {
+  "left_knowledge": 58.925,
+  "right_knowledge": 49.75
+ },
+ "trial_7": {
+  "left_knowledge": 72.075,
+  "right_knowledge": 37.75
+ },
+ "trial_8": {
+  "left_knowledge": 23.55,
+  "right_knowledge": 55.075
+ },
+ "trial_11": {
+  "left_knowledge": 67.45,
+  "right_knowledge": 27.8
+ },
+ "trial_12": {
+  "left_knowledge": 52.775,
+  "right_knowledge": 39.45
+ },
+ "trial_36": {
+  "left_knowledge": 53.85,
+  "right_knowledge": 49.05
+ },
+ "trial_37": {
+  "left_knowledge": 42.55,
+  "right_knowledge": 75.475
+ },
+ "trial_38": {
+  "left_knowledge": 21.875,
+  "right_knowledge": 56.075
+ },
+ "trial_39": {
+  "left_knowledge": 65.425,
+  "right_knowledge": 31.875
+ },
+ "trial_40": {
+  "left_knowledge": 53.925,
+  "right_knowledge": 39.15
+ },
+ "trial_49": {
+  "left_knowledge": 26.5,
+  "right_knowledge": 65.525
+ },
+ "trial_50": {
+  "left_knowledge": 41.35,
+  "right_knowledge": 55.85
+ },
+ "trial_52": {
+  "left_knowledge": 40.05,
+  "right_knowledge": 59.125
+ },
+ "trial_56": {
+  "left_knowledge": 42.775,
+  "right_knowledge": 55.15
+ },
+ "trial_58": {
+  "left_knowledge": 56.0,
+  "right_knowledge": 43.975
+ },
+ "trial_59": {
+  "left_knowledge": 35.75,
+  "right_knowledge": 75.65
+ },
+ "trial_60": {
+  "left_knowledge": 32.25,
+  "right_knowledge": 49.625
+ }
+}

@@ -126,3 +126,30 @@ structure and annotations are released under CC BY 4.0; original study
 materials remain subject to their original rights and notices. See
 [`LICENSE`](LICENSE), [`DATA_LICENSE.md`](DATA_LICENSE.md), and
 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
+
+## BibTeX
+
+```bibtex
+@misc{ying2026coggym,
+  title         = {CogGym: Towards Large-Scale Comparative Evaluation of Human and Machine Cognition},
+  author        = {Ying, Lance and Wu, Jinzhou and Wang, Yingshan Susan and Aarya, Shivam and
+                   Schulze Buschoff, Luca M. and Chen, Harry and Collins, Katherine M. and
+                   de Varda, Andrea and Fu, Shuhao and Houlihan, Sean Dae and Jagadish, Akshay K. and
+                   Jiang, Guangyuan and Kiegeland, Samuel and Kurumisawa, Tetsu and Liu, Rongzhi and
+                   Liu, Ryan and Ma, Ningshan and McGregor, Kathryn and Strittmatter, Younes and
+                   Tsvilodub, Polina and Vigly, Jacob Hoover and Wu, Sarah and Xu, Enjie and Yun, Yiling and
+                   Allen, Kelsey and Brooke-Wilson, Tyler and Christian, Brian and Fedorenko, Evelina and
+                   Frank, Michael C. and Franke, Michael and Gao, Tao and Gershman, Samuel J. and
+                   Hawkins, Robert D. and Hu, Jennifer and Jara-Ettinger, Julian and Kleiman-Weiner, Max and
+                   Levine, Sydney and Linzen, Tal and Lu, Hongjing and O'Donnell, Timothy and Ong, Desmond C. and
+                   Piantadosi, Steven T. and Saxe, Rebecca and Schulz, Eric and Shu, Tianmin and Sosa, Felix A. and
+                   Sucholutsky, Ilia and Tan, Zhi-Xuan and Ullman, Tomer and Xu, Fei and Yildirim, Ilker and
+                   Zhu, Jian-Qiao and Griffiths, Thomas L. and Gerstenberg, Tobias and Smith, Kevin and
+                   Tenenbaum, Joshua B.},
+  year          = {2026},
+  eprint        = {2609.21259},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2609.21259}
+}
+```

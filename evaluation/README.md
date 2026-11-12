@@ -15,12 +15,20 @@ python -m pip install --upgrade pip
 python -m pip install -r evaluation/requirements.txt
 ```
 
-The included provider uses the Google GenAI SDK. Put credentials in the
+Two providers are included: OpenAI (Chat Completions, any OpenAI-compatible
+endpoint) and Google Gemini. The provider is chosen from the model name
+(`gemini-*` uses Gemini, anything else uses OpenAI); override it with
+`--provider openai` or `--provider gemini`. Put credentials in the
 environment, never in the repository:
 
 ```bash
-export GOOGLE_API_KEY='...'
+export OPENAI_API_KEY='...'      # OpenAI models
+export OPENAI_BASE_URL='...'     # optional: OpenAI-compatible endpoint, e.g. OpenRouter
+export GOOGLE_API_KEY='...'      # Gemini models
 ```
+
+The OpenAI provider supports text and image stimuli. Video and audio
+experiments require a Gemini model.
 
 For Vertex AI, set `GOOGLE_CLOUD_PROJECT` and adapt provider construction in
 `evaluation/cli.py` to pass `vertexai=True`.

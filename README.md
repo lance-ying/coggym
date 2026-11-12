@@ -113,6 +113,63 @@ See [`evaluation/README.md`](evaluation/README.md) for the complete runner and
 analysis workflow. Documentation is also available at
 [coggym-docs-8022f.web.app](https://coggym-docs-8022f.web.app/).
 
+## System requirements
+
+- Python 3.10 or later. Tested with Python 3.10 and 3.12 on macOS 26
+  (Apple silicon).
+- Python packages are listed in
+  [`evaluation/requirements.txt`](evaluation/requirements.txt):
+  `google-genai`, `openai`, `python-dotenv` and `Pillow`.
+- No GPU or other non-standard hardware. Models are called through provider
+  APIs, so running a model needs an API key (OpenAI or Google Gemini) and an
+  internet connection. Listing, validating and scoring work offline.
+- Installation takes under 1 minute on a normal desktop computer.
+
+## Demo
+
+The demo runs one text experiment, Yoon2020Polite/exp1 (32 trials), with an
+OpenAI model and scores it against the released human means.
+
+```bash
+export OPENAI_API_KEY='...'
+
+python -m evaluation.run_models \
+  --experiment Yoon2020Polite/exp1 \
+  --model gpt-4o-mini \
+  --output-dir results/demo
+
+python -m evaluation.analyze results/demo --output-dir analysis/demo
+```
+
+Expected run time: about 45 seconds for the model run (32 API calls) and under
+1 second for scoring, on a normal desktop computer. The API cost is under
+US$0.01.
+
+Expected output: the runner prints one line per trial and writes
+`results/demo/Yoon2020Polite_exp1_gpt-4o-mini_run-001.json`. The analyzer
+writes `analysis/demo/experiment_r2.csv` and `analysis/demo/summary.json` and
+prints:
+
+```
+gpt-4o-mini: text mean R²=0.827 (n=1)
+```
+
+Model sampling is stochastic, so a new run can give a slightly different R².
+To check the scoring step without an API key, score the saved example run in
+[`demo/example_run`](demo/example_run). It prints
+`openai/gpt-4o-mini: text mean R²=0.827 (n=1)`:
+
+```bash
+python -m evaluation.analyze demo/example_run --output-dir analysis/demo_example
+```
+
+To use an OpenAI-compatible endpoint such as OpenRouter, also set
+`OPENAI_BASE_URL` (for example `https://openrouter.ai/api/v1`) and use that
+service's model name (for example `openai/gpt-4o-mini`). The example run was
+produced this way. Gemini models work the same way with `GOOGLE_API_KEY` and a
+`gemini-*` model name. The OpenAI provider supports text and image experiments;
+use a Gemini model for video experiments.
+
 ## Citation and attribution
 
 Please cite the CogGym paper and the original studies represented in the

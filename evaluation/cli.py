@@ -155,13 +155,14 @@ def _selected_trials(
 
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(
-        description="CogGym Harness — Run Gemini on cognitive science experiments",
+        description="CogGym Harness — Run models on cognitive science experiments",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""\
 Examples:
   python -m evaluation.run_models --list
   python -m evaluation.run_models --experiment JaraEttinger2021Quantitative/exp2 --dry-run
   python -m evaluation.run_models --experiment JaraEttinger2021Quantitative/exp2 --model gemini-2.5-flash
+  python -m evaluation.run_models --experiment Yoon2020Polite/exp1 --model gpt-4o-mini
   python -m evaluation.run_models --study JaraEttinger2021Quantitative --model gemini-2.5-flash
 """,
     )
@@ -171,7 +172,11 @@ Examples:
     parser.add_argument("--study", type=str, help="Filter to a single study")
     parser.add_argument("--response-type", type=str, help="Filter by response type")
     parser.add_argument("--task-type", type=str, help="Filter by task type")
-    parser.add_argument("--model", type=str, default="gemini-3-flash-preview", help="Gemini model name")
+    parser.add_argument("--model", type=str, default="gemini-3-flash-preview", help="Model name")
+    parser.add_argument(
+        "--provider", choices=["auto", "gemini", "openai"], default="auto",
+        help="API provider (default: auto = gemini for gemini-* models, otherwise openai)",
+    )
     parser.add_argument("--temperature", type=float, default=1.0, help="Sampling temperature (default: 1.0)")
     parser.add_argument("--max-tokens", type=int, default=512, help="Max response tokens (default: 512)")
     parser.add_argument("--dry-run", action="store_true", help="Preview prompts without calling API")
@@ -227,10 +232,10 @@ Examples:
             _dry_run(exp, _selected_trials(exp, selection_map, args.all_trials))
         return
 
-    from .providers import GeminiProvider
+    from .providers import make_provider
 
-    provider = GeminiProvider()
     model = args.model
+    provider = make_provider(args.provider, model)
     print(f"Model: {model}, Experiments: {len(experiments)}")
 
     for exp_i, experiment in enumerate(experiments):

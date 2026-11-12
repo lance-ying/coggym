@@ -1,0 +1,1076 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "experiment": "Yoon2020Polite/exp1",
+  "repetition": 1,
+  "temperature": 1.0,
+  "max_tokens": 512,
+  "selection_map": "evaluation/trial_selection_map.json",
+  "summary": {
+    "n_trials": 32,
+    "n_scorable_queries": 32,
+    "mean_mode_match": 0.9375,
+    "std_mode_match": 0.24593468841898236,
+    "mean_human_prob_of_choice": 0.8992346938775511,
+    "std_human_prob_of_choice": 0.18581427398970277,
+    "mean_cosine_similarity": 0.9516543753939865,
+    "std_cosine_similarity": 0.16304050557046573
+  },
+  "trials": [
+    {
+      "trial_id": "trial_004",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.04081632653061224,
+            0.9591836734693877
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_005",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            0.0,
+            1.0
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_006",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 232,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 238
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            0.0,
+            1.0
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_007",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 223,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 229
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            1.0,
+            0.0
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_008",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 227,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 233
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.04081632653061224,
+            0.9591836734693877
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_009",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 222,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 228
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.8979591836734694,
+          "human_distribution": [
+            0.10204081632653061,
+            0.8979591836734694
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9936052547897187
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_010",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9387755102040817,
+          "human_distribution": [
+            0.9387755102040817,
+            0.061224489795918366
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9978801059658184
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_011",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 224,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 230
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.9591836734693877,
+            0.04081632653061224
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_012",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 224,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 230
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.8979591836734694,
+          "human_distribution": [
+            0.10204081632653061,
+            0.8979591836734694
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9936052547897187
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_013",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 226,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 232
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.04081632653061224,
+            0.9591836734693877
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_014",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.9591836734693877,
+            0.04081632653061224
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_015",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 224,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 230
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 0,
+          "human_prob_of_choice": 0.14285714285714285,
+          "human_distribution": [
+            0.8571428571428571,
+            0.14285714285714285
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.1643989873053573
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_016",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.9795918367346939,
+            0.02040816326530612
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_017",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.5306122448979592,
+          "human_distribution": [
+            0.46938775510204084,
+            0.5306122448979592
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.7489965624903807
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_018",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 225,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 231
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            0.0,
+            1.0
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_019",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 226,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 232
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.8571428571428571,
+          "human_distribution": [
+            0.8571428571428571,
+            0.14285714285714285
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9863939238321437
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_020",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 230,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 236
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.7755102040816326,
+          "human_distribution": [
+            0.22448979591836735,
+            0.7755102040816326
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9605642644145613
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_021",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.02040816326530612,
+            0.9795918367346939
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_022",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 227,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 233
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.04081632653061224,
+            0.9591836734693877
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_023",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 229,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 235
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.9795918367346939,
+            0.02040816326530612
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_024",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 223,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 229
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.9795918367346939,
+            0.02040816326530612
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_025",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 228,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 234
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9183673469387755,
+          "human_distribution": [
+            0.08163265306122448,
+            0.9183673469387755
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9960726406926864
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_026",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 229,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 235
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            1.0,
+            0.0
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_027",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 226,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 232
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.9795918367346939,
+            0.02040816326530612
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_028",
+      "condition": "",
+      "response": "{\"answer\":\"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 226,
+        "output_tokens": 5,
+        "thinking_tokens": 0,
+        "total_tokens": 231
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9387755102040817,
+          "human_distribution": [
+            0.061224489795918366,
+            0.9387755102040817
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9978801059658184
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_029",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 222,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 228
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.8775510204081632,
+          "human_distribution": [
+            0.12244897959183673,
+            0.8775510204081632
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9904048953654893
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_030",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 231,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 237
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9795918367346939,
+          "human_distribution": [
+            0.9795918367346939,
+            0.02040816326530612
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9997830567281121
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_031",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 229,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 235
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.9591836734693877,
+            0.04081632653061224
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_032",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 227,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 233
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            1.0,
+            0.0
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_033",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 226,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 232
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 0,
+          "human_prob_of_choice": 0.4489795918367347,
+          "human_distribution": [
+            0.5510204081632653,
+            0.4489795918367347
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.6316729511622358
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_034",
+      "condition": "",
+      "response": "{\"answer\": \"B\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 229,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 235
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "Yes",
+          "selected_index": 1
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 0.9591836734693877,
+          "human_distribution": [
+            0.04081632653061224,
+            0.9591836734693877
+          ],
+          "model_choice_index": 1,
+          "model_choice": "Yes",
+          "cosine_similarity": 0.9990958406831207
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    },
+    {
+      "trial_id": "trial_035",
+      "condition": "",
+      "response": "{\"answer\": \"A\"}",
+      "reasoning": null,
+      "token_usage": {
+        "input_tokens": 227,
+        "output_tokens": 6,
+        "thinking_tokens": 0,
+        "total_tokens": 233
+      },
+      "parsed": {
+        "judgment": {
+          "selected": "No",
+          "selected_index": 0
+        }
+      },
+      "scores": {
+        "judgment": {
+          "scorable": true,
+          "mode_match": 1,
+          "human_prob_of_choice": 1.0,
+          "human_distribution": [
+            1.0,
+            0.0
+          ],
+          "model_choice_index": 0,
+          "model_choice": "No",
+          "cosine_similarity": 1.0
+        }
+      },
+      "model": "openai/gpt-4o-mini"
+    }
+  ]
+}

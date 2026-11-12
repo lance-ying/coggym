@@ -124,3 +124,27 @@ class PublicEvaluationTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class DemoAndProviderTests(unittest.TestCase):
+    def test_example_demo_run_scores(self) -> None:
+        rows, _, _ = analyze(
+            sorted((ROOT / "demo" / "example_run").glob("*.json")),
+            ROOT / "EML",
+            ROOT / "evaluation" / "public_manifest.json",
+            min_items=5,
+        )
+        self.assertEqual(len(rows), 1)
+        self.assertAlmostEqual(rows[0]["r2"], 0.8265, places=3)
+
+    def test_openai_content_conversion(self) -> None:
+        from evaluation.providers import OpenAIProvider
+
+        parts = OpenAIProvider._parse_content([
+            {"type": "text", "text": "hi"},
+            {"type": "image", "source": {"type": "base64", "media_type": "image/png", "data": "AAAA"}},
+        ])
+        self.assertEqual(parts[0], {"type": "text", "text": "hi"})
+        self.assertEqual(parts[1]["image_url"]["url"], "data:image/png;base64,AAAA")
+        with self.assertRaises(NotImplementedError):
+            OpenAIProvider._parse_content([{"type": "video", "path": "x.mp4"}])
